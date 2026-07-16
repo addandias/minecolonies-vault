@@ -30,3 +30,11 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Nome atual Dining Hall adotado, preservando Restaurant como alias.
 - Índices de construções, profissões e recursos ampliados para o Lote 2.
 - Índices e acompanhamento de progresso ampliados para o Lote 3.
+- Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
+- Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
+- Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
+
+### Corrigido
+
+- Páginas analíticas identificadas como recomendações editoriais do Vault.
+- Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.

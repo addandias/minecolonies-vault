@@ -17,6 +17,7 @@ tags:
 
 - [[content/06 - Recursos e Produção/Cadeias de produção]]
 - [[content/06 - Recursos e Produção/Materiais necessários]]
+- [[content/06 - Recursos e Produção/Matriz de receitas e oficinas]]
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
 - [[content/03 - Construções/Recursos/Mine - Mina]]
 - [[content/03 - Construções/Recursos/Sifter's Hut - Cabana do Peneirador]]

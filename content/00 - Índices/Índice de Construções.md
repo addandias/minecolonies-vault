@@ -14,7 +14,7 @@ tags:
 
 ## Moradia
 
-- [[content/03 - Construções/Moradia/Citizen's Hut - Residência do Cidadão|Residence — Residência do Cidadão]]
+- [[content/03 - Construções/Moradia/Residence - Residência do Cidadão|Residence — Residência do Cidadão]]
 
 ## Produção
 
