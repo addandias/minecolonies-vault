@@ -118,6 +118,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
+- Créditos de desenvolvimento assistido por ChatGPT e Codex registrados no README.
 
 ### Corrigido
 
