@@ -1,4 +1,4 @@
----
+﻿---
 tipo: construção
 nome: Graveyard
 nome_pt: Cemitério
@@ -40,7 +40,7 @@ O número real varia conforme o estilo. O inventário do cidadão permanece na s
 
 ## Ressurreição
 
-A chance depende de pesquisas, Mana do Undertaker, nível do Graveyard, Mystical Site e uso de Totems. Sem bônus, a chance possui limite baixo; trate a ressurreição como possibilidade, não garantia.
+A chance depende de pesquisas, Mana do Undertaker, nível do Graveyard, [[content/03 - Construções/Especializadas/Mystical Site - Local Místico|Mystical Site]] e uso de Totems. O Mystical Site amplia o limite máximo da chance de ressurreição. Sem bônus, a chance possui limite baixo; trate a ressurreição como possibilidade, não garantia.
 
 ## Habilidades
 
@@ -54,3 +54,4 @@ A chance depende de pesquisas, Mana do Undertaker, nível do Graveyard, Mystical
 ## Fontes
 
 - [Graveyard — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/graveyard/)
+- [Mystical Site — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/mysticalsite/)

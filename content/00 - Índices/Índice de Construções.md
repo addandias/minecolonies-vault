@@ -85,3 +85,5 @@ tags:
 - [[content/03 - Construções/Especializadas/Hospital - Hospital]]
 - [[content/03 - Construções/Especializadas/Tavern - Taverna]]
 - [[content/03 - Construções/Especializadas/Graveyard - Cemitério]]
+- [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador]]
+- [[content/03 - Construções/Especializadas/Mystical Site - Local Místico]]

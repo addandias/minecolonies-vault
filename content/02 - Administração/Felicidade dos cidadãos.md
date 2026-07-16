@@ -1,4 +1,4 @@
----
+﻿---
 tipo: sistema
 status: publicado
 ultima_revisao: 2026-07-16
@@ -29,6 +29,10 @@ Use a visão global para encontrar o fator dominante e depois abra cidadãos ind
 | Luto | Mortes recentes e segurança |
 | Deslocamento ruim | Caminhos, distância e bloqueios |
 
+## Mystical Site
+
+O [[content/03 - Construções/Especializadas/Mystical Site - Local Místico|Mystical Site]] fornece um bônus global de felicidade sem empregar trabalhador. O efeito não acumula: somente o local de maior nível conta, portanto uma construção bem evoluída é mais eficiente do que várias cópias.
+
 ## Método recomendado
 
 Não tente corrigir todos os indicadores ao mesmo tempo. Escolha o fator vermelho com maior alcance, estabilize sua cadeia e só então reavalie a Town Hall.
@@ -41,3 +45,4 @@ Não tente corrigir todos os indicadores ao mesmo tempo. Escolha o fator vermelh
 - [Town Hall e estatísticas — Wiki oficial](https://minecolonies.com/wiki/buildings/townhall/)
 - [Hospital — Wiki oficial](https://minecolonies.com/wiki/buildings/hospital/)
 - [Dining Hall — Wiki oficial](https://minecolonies.com/wiki/buildings/cook/)
+- [Mystical Site — Wiki oficial](https://minecolonies.com/wiki/buildings/mysticalsite/)
