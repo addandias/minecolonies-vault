@@ -61,6 +61,13 @@ tags: [minecolonies, receitas, oficinas, produção, fix]
 | Livros encantados | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Ancient Tome e experiência observada | Nenhuma |
 | Pergaminhos de teletransporte | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Papel, bússola, Build Tool ou pergaminhos-base | Varia conforme a receita |
 
+## Recursos do Nether
+
+| Produto ou família | Construção | Origem | Pesquisa |
+|---|---|---|---|
+| Ingredientes de alquimia e recursos do Nether | [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether|Nether Mine]] | Expedições simuladas | Open the Nether |
+| Lava Bucket | [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether|Nether Mine]] | Receita da construção | Open the Nether |
+
 ## Transformações de recursos
 
 ```mermaid
@@ -75,6 +82,10 @@ flowchart LR
     J --> K["Dining Hall"]
     L["Ancient Tome"] --> M["Enchanter"]
     M --> N["Livros encantados e pergaminhos"]
+    O["Nether Mine"] --> P["Warehouse"]
+    P --> D
+    P --> E
+    P --> H
 ```
 
 ## Fontes

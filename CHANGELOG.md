@@ -76,6 +76,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissão Enchanter.
 - Guias de encantamentos, Ancient Tomes, pergaminhos e teletransporte.
 
+##### PR 8B — Exploração do Nether
+
+- Nether Mine e profissão Nether Miner.
+- Guia de expedições e tabela de recursos por nível.
+- Cadeia logística dos recursos do Nether.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -90,6 +96,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o Lote 6.
 - Índices e acompanhamento de progresso ampliados para o Lote 7.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8A.
+- Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8B.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.

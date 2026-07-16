@@ -87,3 +87,4 @@ tags:
 - [[content/03 - Construções/Especializadas/Graveyard - Cemitério]]
 - [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador]]
 - [[content/03 - Construções/Especializadas/Mystical Site - Local Místico]]
+- [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether]]
