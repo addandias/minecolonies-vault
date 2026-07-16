@@ -1,4 +1,4 @@
----
+﻿---
 tipo: inicio
 status: ativo
 versao_minecraft: 1.20.1
@@ -22,6 +22,7 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 4. [[content/01 - Primeiros Passos/Build Tool]]
 5. [[content/01 - Primeiros Passos/Criando a colônia]]
 6. [[content/08 - Planejamento/Ordem recomendada de construção]]
+7. [[content/08 - Planejamento/Checklist de evolução]]
 
 ## 🏗️ Quero consultar uma construção
 
@@ -65,6 +66,9 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 
 - [[content/00 - Índices/Índice Geral]]
 - [[content/00 - Índices/Progresso da Colônia]]
+- [[content/08 - Planejamento/Colônia inicial]]
+- [[content/08 - Planejamento/Colônia intermediária]]
+- [[content/08 - Planejamento/Colônia avançada]]
 - [[CHANGELOG]]
 
 > [!TIP]
