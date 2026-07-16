@@ -54,7 +54,9 @@ tags:
 
 ## Educação
 
-Em preparação.
+- [[content/03 - Construções/Educação/University - Universidade]]
+- [[content/03 - Construções/Educação/Library - Biblioteca]]
+- [[content/03 - Construções/Educação/School - Escola]]
 
 ## Militar
 
@@ -62,4 +64,6 @@ Em preparação.
 
 ## Especializadas
 
-Em preparação.
+- [[content/03 - Construções/Especializadas/Hospital - Hospital]]
+- [[content/03 - Construções/Especializadas/Tavern - Taverna]]
+- [[content/03 - Construções/Especializadas/Graveyard - Cemitério]]

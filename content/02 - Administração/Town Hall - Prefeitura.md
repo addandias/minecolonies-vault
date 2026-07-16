@@ -42,6 +42,14 @@ Revise permissões antes de convidar outros jogadores para construir, usar bloco
 - [ ] Algum cidadão precisa ser chamado de volta?
 - [ ] A fila de obras reflete a prioridade atual?
 
+## Guias administrativos
+
+- [[content/02 - Administração/Níveis da Prefeitura]]
+- [[content/02 - Administração/Felicidade dos cidadãos]]
+- [[content/02 - Administração/Sistema de pedidos]]
+- [[content/02 - Administração/Contratação automática]]
+- [[content/02 - Administração/Configurações da colônia]]
+
 ## Fontes
 
 - [Town Hall — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/townhall/)
