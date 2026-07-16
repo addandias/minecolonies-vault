@@ -28,6 +28,13 @@ tags: [minecolonies, receitas, oficinas, produção, fix]
 | Vidro e painéis de vidro | [[content/03 - Construções/Produção/Glassblower's Hut - Vidraçaria|Glassblower's Hut]] | Areia e combustível | Those Lungs! |
 | Concreto e pó de concreto | [[content/03 - Construções/Produção/Concrete Mixer's Hut - Oficina de Concreto|Concrete Mixer's Hut]] | Areia, cascalho e corante | Pave the Road |
 
+## Extração primária
+
+| Recurso ou família | Origem | Operação | Observação |
+|---|---|---|---|
+| Pedra e minérios subterrâneos | [[content/03 - Construções/Recursos/Mine - Mina|Mine]] | Miner abre poço e ramificações | Pode obter oportunidades adicionais de minério |
+| Grandes volumes de pedra e blocos naturais | [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]] | Quarrier escava 1 × 1 ou 2 × 2 chunks | Produz somente os blocos existentes no terreno |
+
 ## Metal, ferramentas e mecanismos
 
 | Produto ou família | Oficina | Entradas comuns | Pesquisa |
@@ -75,6 +82,8 @@ flowchart LR
     A["Forester"] --> B["Sawmill"]
     C["Mine"] --> D["Crusher"]
     C --> E["Smeltery"]
+    Q["Quarry"] --> D
+    Q --> F
     D --> F["Stonemason / Brick Yard"]
     D --> G["Glassblower / Concrete Mixer"]
     E --> H["Blacksmith / Mechanic"]

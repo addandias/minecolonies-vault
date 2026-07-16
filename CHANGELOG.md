@@ -98,6 +98,14 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Perguntas frequentes e solução de problemas orientada por sintomas.
 - Links úteis, política de fontes e metodologia editorial.
 
+#### Lote 10 — Cobertura complementar
+
+##### PR 10A — Construções e profissões faltantes
+
+- Quarry, Stable, Gatehouse e Barracks Tower.
+- Profissões Quarrier e Stablemaster.
+- Integração da extração pesada, criação equina e novas estruturas defensivas aos índices e guias existentes.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -121,6 +129,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Créditos de desenvolvimento assistido por ChatGPT e Codex registrados no README.
 - Fluxo seguro de integração entre Obsidian Git e GitHub documentado no README.
 - Arquivos executáveis e configurações locais de plugins adicionados ao `.gitignore`.
+- Mine, índices, matriz produtiva, defesa e planejamento ampliados para o Lote 10A.
 
 ### Corrigido
 

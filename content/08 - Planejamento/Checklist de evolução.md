@@ -30,6 +30,8 @@ tags: [minecolonies, planejamento, checklist, lote-9a]
 - [ ] Oficinas de madeira, pedra e metal estão integradas.
 - [ ] Hospital e Graveyard atendem a população.
 - [ ] Guard Towers cobrem os acessos.
+- [ ] Barracks Towers evoluem junto do Barracks e possuem equipamento para todos os Guards.
+- [ ] Gatehouses e entradas formais estão cobertas sem bloquear as rotas.
 
 ## Maturidade
 
@@ -38,6 +40,8 @@ tags: [minecolonies, planejamento, checklist, lote-9a]
 - [ ] Estoques mínimos cobrem ferramentas e materiais críticos.
 - [ ] Logística não apresenta congestionamento recorrente.
 - [ ] Cadeias místicas e do Nether estão integradas quando necessárias.
+- [ ] Quarry foi construída somente se a demanda justificar a área e o fluxo de blocos.
+- [ ] Stable possui espaço, alimento e limite de reprodução compatíveis.
 - [ ] A colônia inicia grandes projetos sem paralisar serviços essenciais.
 
 ## Rotina de revisão

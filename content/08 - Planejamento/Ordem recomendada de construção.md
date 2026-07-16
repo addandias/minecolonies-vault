@@ -64,14 +64,18 @@ Consulte [[content/06 - Recursos e Produção/Matriz de receitas e oficinas]] an
 2. Hospital e Graveyard conforme a população
 3. Guard Towers nos acessos e áreas distantes
 4. Barracks, Combat Academy e Archery para defesa em escala
+5. Barracks Towers melhoradas junto do Barracks
+6. Gatehouse quando a entrada formal ou a conexão entre colônias fizer parte do plano
 
 ## Fase 7 — Diversificação
 
 1. Agricultura avançada e compostagem
 2. Criação de animais conforme a demanda de comida e materiais
-3. Mystical Site para felicidade e apoio à ressurreição
-4. Enchanter’s Tower para livros encantados e pergaminhos
-5. Nether Mine quando **Open the Nether** e a logística estiverem disponíveis
+3. Stable quando houver espaço e objetivo definido para criação de cavalos
+4. Quarry quando a demanda por pedra justificar uma escavação de grande escala
+5. Mystical Site para felicidade e apoio à ressurreição
+6. Enchanter’s Tower para livros encantados e pergaminhos
+7. Nether Mine quando **Open the Nether** e a logística estiverem disponíveis
 
 ## Rotas por maturidade
 
