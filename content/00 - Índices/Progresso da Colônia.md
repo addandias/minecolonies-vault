@@ -98,7 +98,7 @@ O tema será entregue em dois PRs menores para manter a documentação unificada
 O tema será entregue em dois PRs menores para concluir a navegação editorial sem comprometer a qualidade.
 
 - [x] PR 9A — Evolução da colônia
-- [ ] PR 9B — Referências e suporte
+- [x] PR 9B — Referências e suporte
 
 ## Próximas etapas
 
