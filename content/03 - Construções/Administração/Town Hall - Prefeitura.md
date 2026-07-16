@@ -11,9 +11,9 @@ tags: [minecolonies, construção, administração]
 ---
 # Town Hall — Prefeitura
 
-> [!TODO] Página planejada para o Lote 1 usando [[Conteúdo/10 - Modelos/Modelo - Construção]].
+> [!TODO] Página planejada para o Lote 1 usando [[content/10 - Modelos/Modelo - Construção]].
 
 ## Guias relacionados
 
-- [[Conteúdo/02 - Administração/Níveis da Prefeitura]]
-- [[Conteúdo/01 - Primeiros Passos/Criando a colônia]]
+- [[content/02 - Administração/Níveis da Prefeitura]]
+- [[content/01 - Primeiros Passos/Criando a colônia]]

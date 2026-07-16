@@ -13,5 +13,5 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Alterado
 
-- Pastas numeradas agrupadas em `Conteúdo` para simplificar a raiz do Vault.
-- Configuração do plugin de modelos apontada para `Conteúdo/10 - Modelos`.
+- Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
+- Configuração do plugin de modelos apontada para `content/10 - Modelos`.
