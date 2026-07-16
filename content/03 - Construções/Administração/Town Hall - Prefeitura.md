@@ -112,7 +112,7 @@ Use a lista de cidadãos para chamá-lo de volta e depois corrija o caminho.
 ## Construções relacionadas
 
 - [[content/03 - Construções/Produção/Builder's Hut - Cabana do Construtor]]
-- [[content/03 - Construções/Moradia/Citizen's Hut - Residência do Cidadão]]
+- [[content/03 - Construções/Moradia/Residence - Residência do Cidadão]]
 - [[content/03 - Construções/Transporte/Warehouse - Armazém]]
 
 ## Fontes

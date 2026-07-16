@@ -35,7 +35,7 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 - [[content/00 - Índices/Índice de Profissões]]
 - [[content/04 - Profissões/Builder - Construtor]]
 - [[content/04 - Profissões/Farmer - Fazendeiro]]
-- [[content/04 - Profissões/Cook - Cozinheiro]]
+- [[content/04 - Profissões/Waiter - Garçom]]
 
 ## ⚙️ Quero resolver um gargalo
 

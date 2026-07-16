@@ -61,7 +61,7 @@ Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bron
 
 ## Profissão
 
-Consulte [[content/04 - Profissões/Cook - Cozinheiro|Waiter — Garçom]].
+Consulte [[content/04 - Profissões/Waiter - Garçom|Waiter — Garçom]].
 
 ## Construções relacionadas
 

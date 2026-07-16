@@ -28,7 +28,7 @@ Esta é uma estratégia editorial do Vault baseada nas dependências oficiais. A
 
 ## Fase 2 — Estabilidade humana
 
-1. [[content/03 - Construções/Moradia/Citizen's Hut - Residência do Cidadão|Residences]] suficientes para os quatro cidadãos
+1. [[content/03 - Construções/Moradia/Residence - Residência do Cidadão|Residences]] suficientes para os quatro cidadãos
 2. Caminhos seguros entre casa, trabalho e Town Hall
 3. Fonte manual de comida enquanto a cadeia automatizada não existe
 
@@ -39,19 +39,26 @@ Esta é uma estratégia editorial do Vault baseada nas dependências oficiais. A
 3. Organizar recursos nos Racks do Warehouse
 4. Conectar as cabanas por caminhos diretos
 
-## Fase 4 — Próxima especialização
+## Fase 4 — Comida e recursos renováveis
 
-Escolha conforme o gargalo:
+1. [[content/03 - Construções/Alimentação/Dining Hall - Salão de Refeições]]
+2. [[content/03 - Construções/Alimentação/Farmer's Hut - Cabana do Fazendeiro]] e primeiro [[content/03 - Construções/Alimentação/Field - Campo]]
+3. [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
+4. [[content/03 - Construções/Recursos/Mine - Mina]]
+5. Fisher's Hut quando houver um corpo d'água adequado
 
-- madeira: Forester's Hut;
-- comida: Restaurant e produção agrícola;
-- pedra e minérios: Mine;
-- segurança: Guard Tower;
-- expansão técnica: University.
+## Fase 5 — Produção automatizada
 
-Esses ramos serão desenvolvidos nos lotes seguintes.
+1. University para liberar pesquisas de produção
+2. Sawmill para componentes de madeira
+3. Stonemason's Hut e Brick Yard para construção em pedra
+4. Smeltery e Blacksmith's Hut para metais e ferramentas
+5. Chef's Kitchen e Bakery conforme o cardápio
+6. Demais oficinas conforme os pedidos dos Builders
 
-## Checklist de saída do Lote 1
+Consulte [[content/06 - Recursos e Produção/Matriz de receitas e oficinas]] antes de escolher cada oficina.
+
+## Checklist da fundação estável
 
 - [ ] Town Hall fundada e acessível.
 - [ ] Builder's Hut construída.
@@ -62,6 +69,11 @@ Esses ramos serão desenvolvidos nos lotes seguintes.
 - [ ] Pelo menos um Courier ativo.
 - [ ] Caminhos básicos seguros.
 - [ ] Espaço reservado para níveis futuros.
+- [ ] Dining Hall abastecido.
+- [ ] Madeira e alimentos produzidos de forma renovável.
+- [ ] Mine conectada à logística.
+- [ ] University disponível para pesquisas.
+- [ ] Primeiras receitas ensinadas às oficinas.
 
 ## Fontes
 

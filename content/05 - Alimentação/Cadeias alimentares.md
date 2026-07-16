@@ -7,6 +7,9 @@ tags: [minecolonies, alimentação, cadeias, lote-2]
 
 # Cadeias alimentares
 
+> [!NOTE] Análise do Vault
+> As cadeias abaixo são uma organização editorial baseada nas dependências e no sistema de pedidos do mod. Elas representam fluxos recomendados para uma colônia estável, não uma ordem oficial obrigatória.
+
 ## Cadeia agrícola
 
 ```mermaid

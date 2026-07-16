@@ -7,6 +7,9 @@ tags: [minecolonies, recursos, produção, lote-3]
 
 # Materiais necessários
 
+> [!NOTE] Análise do Vault
+> As prioridades abaixo resultam da análise das receitas, pedidos e gargalos recorrentes do mod. A seleção é uma recomendação estratégica do guia, não uma lista oficial fixa.
+
 ## Estoque estratégico
 
 | Família | Entradas principais | Atende |

@@ -1,6 +1,6 @@
 # MineColonies Vault
 
-Um guia comunitário, visual e navegável sobre **MineColonies para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
+Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1232 para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
 
 > [!NOTE]
 > O projeto está em construção. As páginas marcadas como `rascunho` ainda precisam de pesquisa e revisão.
@@ -24,6 +24,13 @@ Um guia comunitário, visual e navegável sobre **MineColonies para Minecraft 1.
 - Fontes registradas em todas as páginas factuais.
 
 Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]] antes de contribuir.
+
+## Versão de referência
+
+- **Minecraft:** 1.20.1
+- **MineColonies:** 1.1.1232
+
+As páginas do Vault usam essa combinação como referência. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
 
 ## Estado atual
 
