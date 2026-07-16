@@ -23,6 +23,9 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Lote 4 com University, Library, School, Hospital, Tavern e Graveyard.
 - Profissões Researcher, Library Student, Teacher, Pupil, Doctor e Undertaker.
 - Guias administrativos de pedidos, felicidade, contratação, configurações e níveis da Town Hall.
+- Lote 5 com Guard Tower, Barracks, Combat Academy e Archery.
+- Profissões militares Knight, Archer e Druid.
+- Guias de invasões e estratégia defensiva em camadas.
 
 ### Alterado
 
@@ -34,6 +37,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices de construções, profissões e recursos ampliados para o Lote 2.
 - Índices e acompanhamento de progresso ampliados para o Lote 3.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 4.
+- Índices, início e acompanhamento de progresso ampliados para o Lote 5.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.

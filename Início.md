@@ -54,6 +54,13 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 - [[content/03 - Construções/Educação/School - Escola]]
 - [[content/03 - Construções/Especializadas/Hospital - Hospital]]
 
+## 🛡️ Quero defender a colônia
+
+- [[content/07 - Defesa/Estratégia defensiva]]
+- [[content/07 - Defesa/Invasões]]
+- [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda]]
+- [[content/03 - Construções/Militar/Barracks - Quartel]]
+
 ## 📈 Acompanhar o desenvolvimento
 
 - [[content/00 - Índices/Índice Geral]]

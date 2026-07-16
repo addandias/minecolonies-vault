@@ -37,6 +37,9 @@ tags:
 | [[content/04 - Profissões/Pupil - Aluno|Aluno]] | [[content/03 - Construções/Educação/School - Escola|School]] | Desenvolver Intelligence |
 | [[content/04 - Profissões/Doctor - Médico|Médico]] | [[content/03 - Construções/Especializadas/Hospital - Hospital|Hospital]] | Tratar doenças e ferimentos |
 | [[content/04 - Profissões/Undertaker - Coveiro|Coveiro]] | [[content/03 - Construções/Especializadas/Graveyard - Cemitério|Graveyard]] | Recuperar e enterrar cidadãos |
+| [[content/04 - Profissões/Knight - Cavaleiro|Cavaleiro]] | Guard Tower ou Barracks Tower | Defesa corpo a corpo |
+| [[content/04 - Profissões/Archer - Arqueiro|Arqueiro]] | Guard Tower ou Barracks Tower | Defesa a distância |
+| [[content/04 - Profissões/Druid - Druida|Druida]] | Guard Tower ou Barracks Tower | Suporte militar |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.

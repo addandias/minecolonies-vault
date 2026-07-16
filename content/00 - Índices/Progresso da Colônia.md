@@ -60,7 +60,16 @@ tags:
 - [x] Pedidos, felicidade, contratação e configurações
 - [x] Progressão administrativa da Town Hall
 
+## Lote 5 — Defesa militar
+
+- [x] Guard Tower e configurações de patrulha
+- [x] Barracks e Barracks Towers
+- [x] Combat Academy e treinamento de Knights
+- [x] Archery e treinamento de Archers
+- [x] Profissões Knight, Archer e Druid
+- [x] Sistema de invasões
+- [x] Estratégia defensiva em camadas
+
 ## Próximos lotes
 
-- [ ] Lote 5 — Defesa militar
 - [ ] Lote 6 — Colônia avançada
