@@ -1,6 +1,6 @@
 ---
 tipo: indice
-status: rascunho
+status: ativo
 tags:
   - minecolonies
   - recursos
@@ -17,9 +17,14 @@ tags:
 
 - [[content/06 - Recursos e Produção/Cadeias de produção]]
 - [[content/06 - Recursos e Produção/Materiais necessários]]
+- [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
+- [[content/03 - Construções/Recursos/Mine - Mina]]
+- [[content/03 - Construções/Recursos/Sifter's Hut - Cabana do Peneirador]]
 
 ## Alimentação
 
 - [[content/05 - Alimentação/Produção de alimentos]]
 - [[content/05 - Alimentação/Cadeias alimentares]]
 - [[content/05 - Alimentação/Cardápio recomendado]]
+- [[content/05 - Alimentação/Sistema de fome]]
+- [[content/05 - Alimentação/Restaurante]]
