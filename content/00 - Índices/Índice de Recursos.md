@@ -27,6 +27,8 @@ tags:
 - [[content/06 - Recursos e Produção/Alimentação e reprodução animal]]
 - [[content/06 - Recursos e Produção/Encantamentos e Ancient Tomes]]
 - [[content/06 - Recursos e Produção/Pergaminhos e teletransporte]]
+- [[content/06 - Recursos e Produção/Expedições ao Nether]]
+- [[content/06 - Recursos e Produção/Cadeia de recursos do Nether]]
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
 - [[content/03 - Construções/Recursos/Mine - Mina]]
 - [[content/03 - Construções/Recursos/Sifter's Hut - Cabana do Peneirador]]

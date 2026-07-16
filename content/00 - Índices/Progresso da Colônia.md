@@ -91,7 +91,7 @@ O tema foi entregue em dois PRs menores para manter a documentação unificada s
 O tema será entregue em dois PRs menores para manter a documentação unificada sem comprometer a qualidade.
 
 - [x] PR 8A — Magia e encantamentos
-- [ ] PR 8B — Exploração do Nether
+- [x] PR 8B — Exploração do Nether
 
 ## Próximos lotes
 
