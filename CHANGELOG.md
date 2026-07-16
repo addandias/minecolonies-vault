@@ -44,6 +44,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões militares Knight, Archer e Druid.
 - Guias de invasões e estratégia defensiva em camadas.
 
+#### Lote 6 — Agricultura avançada
+
+- Composter’s Hut, Flowershop e Plantation.
+- Profissões Composter, Florist e Planter.
+- Guias de agricultura avançada, compostagem e campos da Plantation.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -55,6 +61,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices e acompanhamento de progresso ampliados para o Lote 3.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 4.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 5.
+- Índices, matriz produtiva e acompanhamento de progresso ampliados para o Lote 6.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.

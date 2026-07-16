@@ -46,6 +46,14 @@ tags: [minecolonies, receitas, oficinas, produção, fix]
 | Corantes e itens coloridos | [[content/03 - Construções/Produção/Dyer's Hut - Oficina do Tingidor|Dyer's Hut]] | Flores, pigmentos e itens-base | Rainbow Heaven |
 | Poções | [[content/03 - Construções/Produção/Alchemist Laboratory - Laboratório do Alquimista|Alchemist Laboratory]] | Frascos e ingredientes de alquimia | Magic Potions |
 
+## Agricultura avançada
+
+| Produto ou família | Construção | Entradas comuns | Pesquisa |
+|---|---|---|---|
+| Compost, Dirt e Podzol | [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Composter’s Hut]] | Materiais orgânicos | Biodegradable |
+| Flores | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | Compost e machado | Flower Power |
+| Cana, bambu, cacto e plantas especiais | [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantation]] | Campos especializados | Let It Grow |
+
 ## Transformações de recursos
 
 ```mermaid

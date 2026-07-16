@@ -40,6 +40,9 @@ tags:
 | [[content/04 - Profissões/Knight - Cavaleiro|Cavaleiro]] | Guard Tower ou Barracks Tower | Defesa corpo a corpo |
 | [[content/04 - Profissões/Archer - Arqueiro|Arqueiro]] | Guard Tower ou Barracks Tower | Defesa a distância |
 | [[content/04 - Profissões/Druid - Druida|Druida]] | Guard Tower ou Barracks Tower | Suporte militar |
+| [[content/04 - Profissões/Composter - Compostador|Compostador]] | [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Composter’s Hut]] | Reciclar materiais orgânicos |
+| [[content/04 - Profissões/Florist - Florista|Florista]] | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | Cultivar flores |
+| [[content/04 - Profissões/Planter - Cultivador|Cultivador]] | [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantation]] | Cultivar plantas especiais |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.

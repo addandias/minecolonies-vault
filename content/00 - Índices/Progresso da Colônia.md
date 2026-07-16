@@ -70,6 +70,18 @@ tags:
 - [x] Sistema de invasões
 - [x] Estratégia defensiva em camadas
 
+## Lote 6 — Agricultura avançada
+
+- [x] Composter’s Hut e profissão Composter
+- [x] Flowershop e profissão Florist
+- [x] Plantation e profissão Planter
+- [x] Compostagem e fertilização
+- [x] Campos especializados da Plantation
+- [x] Cadeia de agricultura avançada
+
 ## Próximos lotes
 
-- [ ] Lote 6 — Colônia avançada
+- [ ] Lote 7 — Criação de animais
+- [ ] Lote 8 — Conteúdo místico e Nether
+- [ ] Lote 9 — Planejamento e referências
+- [ ] Finalização — Auditoria e versão 1.0
