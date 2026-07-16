@@ -7,4 +7,4 @@ tags: [minecolonies, administração]
 
 Esta página explica o papel administrativo da Prefeitura.
 
-Para a construção, consulte [[03 - Construções/Administração/Town Hall - Prefeitura]].
+Para a construção, consulte [[Conteúdo/03 - Construções/Administração/Town Hall - Prefeitura]].

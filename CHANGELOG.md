@@ -10,3 +10,8 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Página inicial e índices de navegação.
 - Modelos editoriais para construções, profissões, sistemas e guias.
 - Estrutura de categorias e diretórios de imagens.
+
+### Alterado
+
+- Pastas numeradas agrupadas em `Conteúdo` para simplificar a raiz do Vault.
+- Configuração do plugin de modelos apontada para `Conteúdo/10 - Modelos`.

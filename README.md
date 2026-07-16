@@ -35,11 +35,11 @@ Depois que o Vault for reconhecido localmente, use:
 - Criatividade na navegação, nos diagramas e na apresentação.
 - Fontes registradas em todas as páginas factuais.
 
-Leia [[09 - Referências/Princípios editoriais|Princípios editoriais]] antes de contribuir.
+Leia [[Conteúdo/09 - Referências/Princípios editoriais|Princípios editoriais]] antes de contribuir.
 
 ## Estado atual
 
-Consulte [[00 - Índices/Progresso da Colônia|Progresso da Colônia]] e o [CHANGELOG](CHANGELOG.md).
+Consulte [[Conteúdo/00 - Índices/Progresso da Colônia|Progresso da Colônia]] e o [CHANGELOG](CHANGELOG.md).
 
 ## Licença e atribuição
 
