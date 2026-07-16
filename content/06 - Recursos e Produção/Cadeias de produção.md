@@ -38,6 +38,22 @@ Pontos de controle: nível da Mine, ferramentas, profundidade configurada, ilumi
 
 A cadeia completa está em [[content/05 - Alimentação/Cadeias alimentares]].
 
+## Madeira processada
+
+Forester → Warehouse → Sawmill → Builder, Fletcher ou outras oficinas.
+
+## Pedra e vidro
+
+Mine → Crusher → Stonemason ou Brick Yard → Warehouse → Builder. A areia também alimenta Glassblower e Concrete Mixer.
+
+## Metalurgia
+
+Mine → Smeltery → Blacksmith ou Mechanic → trabalhadores consumidores.
+
+## Produção especializada
+
+Agricultura abastece Bakery; corantes abastecem Dyer e Concrete Mixer; vidro e ingredientes raros sustentam oficinas avançadas.
+
 ## Regra de diagnóstico
 
 Analise a cadeia na ordem:

@@ -1,0 +1,42 @@
+---
+tipo: construção
+nome: Stonemason's Hut
+nome_pt: Oficina do Pedreiro
+categoria: Produção
+trabalhador: Stonemason
+pesquisa: Stone Cake
+versao_minecraft: 1.20.1
+estilo: Medieval Dark Oak
+nivel_maximo: 5
+status: publicado
+ultima_revisao: 2026-07-16
+tags: [minecolonies, construção, alvenaria, lote-3]
+---
+
+# Stonemason's Hut — Oficina do Pedreiro
+
+## Galeria — Medieval Dark Oak
+
+| Frente | Traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/craftsmanship/masonry/stonemason/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/craftsmanship/masonry/stonemason/back.jpg]] |
+
+## Função
+
+O Stonemason fabrica receitas 3 × 3 formadas por pedras e minérios compatíveis, sem lingotes nem componentes de redstone. Exige **Stone Cake**.
+
+## Habilidades
+
+**Creativity** pode economizar materiais; **Dexterity** acelera a fabricação.
+
+## Configuração
+
+Ensine blocos, lajes, escadas e componentes realmente usados pelos Builders. A oficina conecta a Mine diretamente à construção civil.
+
+## Profissão
+
+[[content/04 - Profissões/Stonemason - Pedreiro]]
+
+## Fontes
+
+- [Stonemason's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/stonemason/)
