@@ -41,6 +41,12 @@ tags:
 - [[content/03 - Construções/Alimentação/Field - Campo]]
 - [[content/03 - Construções/Alimentação/Fisher's Hut - Cabana do Pescador]]
 
+## Agricultura
+
+- [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador]]
+- [[content/03 - Construções/Agricultura/Flowershop - Floricultura]]
+- [[content/03 - Construções/Agricultura/Plantation - Plantação]]
+
 ## Recursos
 
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
