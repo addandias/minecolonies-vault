@@ -5,18 +5,6 @@ Um guia comunitário, visual e navegável sobre **MineColonies para Minecraft 1.
 > [!NOTE]
 > O projeto está em construção. As páginas marcadas como `rascunho` ainda precisam de pesquisa e revisão.
 
-## Abrir no Obsidian
-
-1. Instale o [Obsidian](https://obsidian.md/).
-2. Baixe este repositório ou clone-o com Git.
-3. No Obsidian, escolha **Abrir pasta como cofre**.
-4. Selecione a pasta `minecolonies-vault`.
-5. Abra [[Início]].
-
-Depois que o Vault for reconhecido localmente, use:
-
-[Abrir a página inicial no Obsidian](obsidian://open?vault=minecolonies-vault&file=In%C3%ADcio)
-
 ## O que você encontrará
 
 - Guias para criar e desenvolver uma colônia.
@@ -40,6 +28,18 @@ Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]]
 ## Estado atual
 
 Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] e o [CHANGELOG](CHANGELOG.md).
+
+## Abrir no Obsidian
+
+1. Instale o [Obsidian](https://obsidian.md/).
+2. Baixe este repositório ou clone-o com Git.
+3. No Obsidian, escolha **Abrir pasta como cofre**.
+4. Selecione a pasta `minecolonies-vault`.
+5. Abra [[Início]].
+
+Depois que o Vault for reconhecido localmente, use:
+
+[Abrir a página inicial no Obsidian](obsidian://open?vault=minecolonies-vault&file=In%C3%ADcio)
 
 ## Licença e atribuição
 
