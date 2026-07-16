@@ -1,4 +1,4 @@
----
+﻿---
 tipo: indice
 status: ativo
 tags:
@@ -46,6 +46,9 @@ tags:
 | [[content/04 - Profissões/Beekeeper - Apicultor|Apicultor]] | [[content/03 - Construções/Criação de Animais/Apiary - Apiário|Apiary]] | Produzir mel e favos |
 | [[content/04 - Profissões/Chicken Farmer - Criador de Galinhas|Criador de Galinhas]] | [[content/03 - Construções/Criação de Animais/Chicken Farmer's Hut - Galinheiro|Chicken Farmer’s Hut]] | Produzir ovos, penas e carne |
 | [[content/04 - Profissões/Rabbit Herder - Criador de Coelhos|Criador de Coelhos]] | [[content/03 - Construções/Criação de Animais/Rabbit Hutch - Coelheira|Rabbit Hutch]] | Criar coelhos |
+| [[content/04 - Profissões/Cowhand - Vaqueiro|Vaqueiro]] | [[content/03 - Construções/Criação de Animais/Cowhand's Hut - Curral|Cowhand’s Hut]] | Criar gado e obter seus produtos |
+| [[content/04 - Profissões/Shepherd - Pastor|Pastor]] | [[content/03 - Construções/Criação de Animais/Shepherd's Hut - Aprisco|Shepherd’s Hut]] | Criar, tosquiar e tingir ovelhas |
+| [[content/04 - Profissões/Swineherd - Criador de Porcos|Criador de Porcos]] | [[content/03 - Construções/Criação de Animais/Swineherd's Hut - Chiqueiro|Swineherd’s Hut]] | Criar porcos |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.

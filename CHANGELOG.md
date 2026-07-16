@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 Todas as mudanças relevantes do projeto serão registradas aqui.
 
@@ -50,11 +50,21 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões Composter, Florist e Planter.
 - Guias de agricultura avançada, compostagem e campos da Plantation.
 
-#### Lote 7A — Abelhas e pequenos animais
+#### Lote 7 — Criação de animais
+
+> O Lote 7 foi dividido em dois PRs menores para manter o tema unificado sem comprometer a qualidade da documentação.
+
+##### PR 7A — Abelhas e pequenos animais
 
 - Apiary, Chicken Farmer’s Hut e Rabbit Hutch.
 - Profissões Beekeeper, Chicken Farmer e Rabbit Herder.
 - Guias de apicultura e criação de pequenos animais.
+
+##### PR 7B — Pecuária
+
+- Cowhand’s Hut, Shepherd’s Hut e Swineherd’s Hut.
+- Profissões Cowhand, Shepherd e Swineherd.
+- Guias de pecuária, alimentação e reprodução animal.
 
 ### Alterado
 
@@ -68,6 +78,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 4.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 5.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o Lote 6.
+- Índices e acompanhamento de progresso ampliados para o Lote 7.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
