@@ -1,0 +1,28 @@
+---
+tipo: profissão
+nome: Researcher
+nome_pt: Pesquisador
+construcao: University
+status: publicado
+ultima_revisao: 2026-07-16
+tags: [minecolonies, profissão, educação, lote-4]
+---
+
+# Researcher — Pesquisador
+
+## Visão geral
+
+O Researcher trabalha na [[content/03 - Construções/Educação/University - Universidade]], avançando projetos escolhidos pelo jogador.
+
+## Habilidades
+
+- **Knowledge:** influencia o tempo de pesquisa obtido durante períodos offline.
+- **Mana:** aumenta o limite de tempo offline acumulável.
+
+## Prioridades
+
+Mantenha bons candidatos na University, escolha pesquisas alinhadas ao gargalo atual e deixe os itens exigidos disponíveis. O trabalho não substitui a escolha do jogador: nenhuma pesquisa começa sem ser selecionada.
+
+## Fontes
+
+- [University e Researcher — Wiki oficial](https://minecolonies.com/wiki/buildings/university/)

@@ -49,8 +49,18 @@ tags:
 - [x] Profissões das 13 oficinas
 - [x] Automação, materiais e cadeias produtivas
 
+## Lote 4 — Educação, saúde e serviços
+
+- [x] University e profissão Researcher
+- [x] Library e Library Student
+- [x] School, Teacher e Pupil
+- [x] Hospital e profissão Doctor
+- [x] Tavern e recrutamento de visitantes
+- [x] Graveyard e profissão Undertaker
+- [x] Pedidos, felicidade, contratação e configurações
+- [x] Progressão administrativa da Town Hall
+
 ## Próximos lotes
 
-- [ ] Lote 4 — Educação, saúde e serviços
 - [ ] Lote 5 — Defesa militar
 - [ ] Lote 6 — Colônia avançada

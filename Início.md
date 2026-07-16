@@ -40,10 +40,19 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 ## ⚙️ Quero resolver um gargalo
 
 - [[content/00 - Índices/Índice de Recursos]]
+- [[content/02 - Administração/Sistema de pedidos]]
+- [[content/02 - Administração/Felicidade dos cidadãos]]
 - [[content/05 - Alimentação/Sistema de fome]]
 - [[content/06 - Recursos e Produção/Armazém e entregadores]]
 - [[content/07 - Defesa/Invasões]]
 - [[content/09 - Referências/Solução de problemas]]
+
+## 🎓 Quero desenvolver meus cidadãos
+
+- [[content/03 - Construções/Educação/University - Universidade]]
+- [[content/03 - Construções/Educação/Library - Biblioteca]]
+- [[content/03 - Construções/Educação/School - Escola]]
+- [[content/03 - Construções/Especializadas/Hospital - Hospital]]
 
 ## 📈 Acompanhar o desenvolvimento
 

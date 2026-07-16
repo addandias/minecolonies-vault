@@ -31,6 +31,12 @@ tags:
 | [[content/04 - Profissões/Glassblower - Vidreiro|Vidreiro]] | [[content/03 - Construções/Produção/Glassblower's Hut - Vidraçaria|Glassblower's Hut]] | Produzir vidro |
 | [[content/04 - Profissões/Concrete Mixer - Misturador de Concreto|Misturador]] | [[content/03 - Construções/Produção/Concrete Mixer's Hut - Oficina de Concreto|Concrete Mixer's Hut]] | Produzir concreto |
 | [[content/04 - Profissões/Alchemist - Alquimista|Alquimista]] | [[content/03 - Construções/Produção/Alchemist Laboratory - Laboratório do Alquimista|Alchemist Laboratory]] | Preparar poções |
+| [[content/04 - Profissões/Researcher - Pesquisador|Pesquisador]] | [[content/03 - Construções/Educação/University - Universidade|University]] | Desenvolver pesquisas |
+| [[content/04 - Profissões/Library Student - Estudante da Biblioteca|Estudante da Biblioteca]] | [[content/03 - Construções/Educação/Library - Biblioteca|Library]] | Aumentar Intelligence |
+| [[content/04 - Profissões/Teacher - Professor|Professor]] | [[content/03 - Construções/Educação/School - Escola|School]] | Ensinar crianças |
+| [[content/04 - Profissões/Pupil - Aluno|Aluno]] | [[content/03 - Construções/Educação/School - Escola|School]] | Desenvolver Intelligence |
+| [[content/04 - Profissões/Doctor - Médico|Médico]] | [[content/03 - Construções/Especializadas/Hospital - Hospital|Hospital]] | Tratar doenças e ferimentos |
+| [[content/04 - Profissões/Undertaker - Coveiro|Coveiro]] | [[content/03 - Construções/Especializadas/Graveyard - Cemitério|Graveyard]] | Recuperar e enterrar cidadãos |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.
