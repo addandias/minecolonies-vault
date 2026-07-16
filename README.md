@@ -52,6 +52,12 @@ Depois que o Vault for reconhecido localmente, use:
 
 MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
 
+### Desenvolvimento do projeto
+
+Este projeto é idealizado e dirigido por **addandias**, com apoio do **[ChatGPT](https://chatgpt.com/)** e do **[Codex da OpenAI](https://openai.com/codex/)** na pesquisa, organização editorial, redação, revisão, validação de links e manutenção do repositório.
+
+As decisões sobre escopo, estrutura, versão de referência e direção criativa permanecem sob responsabilidade do autor do projeto. O conteúdo assistido por inteligência artificial é revisado antes de sua publicação.
+
 ### Créditos das imagens
 
 As capturas das construções no estilo **Medieval Dark Oak** foram organizadas a partir do projeto comunitário:
