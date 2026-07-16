@@ -14,8 +14,14 @@ tags: [minecolonies, construção, administração, lote-1]
 
 # Town Hall — Prefeitura
 
-> [!NOTE] Imagens em preparação
-> As imagens verificadas do estilo Medieval Dark Oak serão adicionadas sem substituir screenshots oficiais por ilustrações imprecisas.
+## Galeria — Medieval Dark Oak
+
+| Vista frontal | Vista traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/fundamentals/townhall/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/fundamentals/townhall/back.jpg]] |
+
+> [!INFO] Variante disponível
+> O acervo também contém `fundamentals/alttownhall`.
 
 ## Visão geral
 

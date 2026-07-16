@@ -14,6 +14,15 @@ tags: [minecolonies, construção, produção, lote-1]
 
 # Builder's Hut — Cabana do Construtor
 
+## Galeria — Medieval Dark Oak
+
+| Vista frontal | Vista traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/fundamentals/builder/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/fundamentals/builder/back.jpg]] |
+
+> [!INFO] Variante disponível
+> O acervo também contém `fundamentals/altbuilder`.
+
 ## Visão geral
 
 É a primeira construção funcional obrigatória. Sem ela, o Builder não pode erguer as demais cabanas.

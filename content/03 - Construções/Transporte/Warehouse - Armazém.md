@@ -14,6 +14,15 @@ tags: [minecolonies, construção, logística, lote-1]
 
 # Warehouse — Armazém
 
+## Galeria — Medieval Dark Oak
+
+| Vista frontal | Vista traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/craftsmanship/storage/warehouse/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/craftsmanship/storage/warehouse/back.jpg]] |
+
+> [!INFO] Variante disponível
+> O acervo também contém `craftsmanship/storage/altwarehouse`.
+
 ## Visão geral
 
 O Warehouse é o armazenamento central da rede logística. Couriers depositam nele produtos e retiram itens necessários pelos trabalhadores.

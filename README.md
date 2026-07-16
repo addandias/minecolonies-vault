@@ -44,3 +44,15 @@ Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] e
 ## Licença e atribuição
 
 MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
+
+### Créditos das imagens
+
+As capturas das construções no estilo **Medieval Dark Oak** foram organizadas a partir do projeto comunitário:
+
+- **Autor do projeto:** [tomp2](https://github.com/tomp2)
+- **Projeto:** [tomp2/minecolonies-style-explorer](https://github.com/tomp2/minecolonies-style-explorer)
+- **Aplicação:** [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/)
+
+Agradecemos a **tomp2** pelo trabalho de catalogar e disponibilizar uma forma prática de explorar visualmente os estilos do MineColonies, e à comunidade e aos builders do **MineColonies** pela criação das construções apresentadas.
+
+As imagens são usadas para fins informativos e de referência visual. Os créditos e direitos das construções permanecem com seus respectivos autores.

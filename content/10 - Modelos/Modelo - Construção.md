@@ -17,7 +17,10 @@ tags:
 
 # {{nome}} — {{nome_pt}}
 
-![[assets/construcoes/medieval-dark-oak/{{slug}}/{{slug}}.webp]]
+## Galeria — Medieval Dark Oak
+
+Adicione uma tabela com as vistas `front.jpg` e `back.jpg` disponíveis em
+`assets/construcoes/medieval-dark-oak/<categoria>/<construcao>/`.
 
 ## Visão geral
 
