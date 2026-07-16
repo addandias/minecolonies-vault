@@ -14,6 +14,10 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Documentação da Town Hall, Builder's Hut, Residence, Warehouse e Courier's Hut.
 - Guia da profissão Builder e ordem recomendada de construção.
 - Galeria Medieval Dark Oak com 155 imagens de construções em 500 × 500.
+- Lote 2 com Dining Hall, Chef's Kitchen, Farmer's Hut, Field e Fisher's Hut.
+- Documentação da Forester's Hut, Mine e Sifter's Hut.
+- Guias das profissões Waiter, Chef, Farmer, Fisher, Forester, Miner e Sifter.
+- Sistema de fome, cardápio recomendado e cadeias de alimentação, madeira e mineração.
 
 ### Alterado
 
@@ -21,3 +25,5 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Configuração do plugin de modelos apontada para `content/10 - Modelos`.
 - Nome canônico da antiga Citizen's Hut atualizado para Residence, preservando aliases.
 - Créditos de tomp2 e do MineColonies Style Explorer registrados no README e no diretório das imagens.
+- Nome atual Dining Hall adotado, preservando Restaurant como alias.
+- Índices de construções, profissões e recursos ampliados para o Lote 2.

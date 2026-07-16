@@ -28,9 +28,20 @@ tags:
 - [x] Profissão Builder
 - [x] Ordem inicial de construção
 
+## Lote 2 — Comida e recursos básicos
+
+- [x] Dining Hall e profissão Waiter
+- [x] Chef's Kitchen e profissão Chef
+- [x] Farmer's Hut, Fields e profissão Farmer
+- [x] Fisher's Hut e profissão Fisher
+- [x] Forester's Hut e profissão Forester
+- [x] Mine e profissão Miner
+- [x] Sifter's Hut e profissão Sifter
+- [x] Sistema de fome e cardápio recomendado
+- [x] Cadeias de alimentação, madeira e mineração
+
 ## Próximos lotes
 
-- [ ] Lote 2 — Comida e recursos básicos
 - [ ] Lote 3 — Produção e artesanato
 - [ ] Lote 4 — Educação, saúde e serviços
 - [ ] Lote 5 — Defesa militar
