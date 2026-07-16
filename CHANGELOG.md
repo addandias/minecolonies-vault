@@ -119,6 +119,8 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
 - Créditos de desenvolvimento assistido por ChatGPT e Codex registrados no README.
+- Fluxo seguro de integração entre Obsidian Git e GitHub documentado no README.
+- Arquivos executáveis e configurações locais de plugins adicionados ao `.gitignore`.
 
 ### Corrigido
 

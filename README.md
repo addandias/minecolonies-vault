@@ -48,6 +48,19 @@ Depois que o Vault for reconhecido localmente, use:
 
 [Abrir a página inicial no Obsidian](obsidian://open?vault=minecolonies-vault&file=In%C3%ADcio)
 
+### Sincronizar com o GitHub
+
+O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidian.md/plugins/obsidian-git):
+
+1. Clone o repositório em uma pasta local fora de serviços como OneDrive.
+2. Abra a pasta clonada como cofre.
+3. Instale e ative o plugin **Git**.
+4. Ative **Pull updates on startup**.
+5. Comece com commits e sincronizações manuais pelo comando **Commit-and-sync**.
+6. Só habilite intervalos automáticos depois de confirmar que `pull` e `push` funcionam sem conflitos.
+
+Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
+
 ## Licença e atribuição
 
 MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
