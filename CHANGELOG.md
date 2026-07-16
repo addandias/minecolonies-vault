@@ -82,6 +82,16 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Guia de expedições e tabela de recursos por nível.
 - Cadeia logística dos recursos do Nether.
 
+#### Lote 9 — Planejamento e referências
+
+> O Lote 9 foi dividido em dois PRs menores para concluir a navegação editorial sem comprometer a qualidade da documentação.
+
+##### PR 9A — Evolução da colônia
+
+- Guias de colônia inicial, intermediária e avançada.
+- Checklist completo de evolução.
+- Ordem recomendada ampliada até serviços, defesa e conteúdo especializado.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -97,6 +107,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices e acompanhamento de progresso ampliados para o Lote 7.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8A.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8B.
+- Página inicial e acompanhamento de progresso ampliados para o PR 9A.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.

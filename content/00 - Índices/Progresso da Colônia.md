@@ -93,7 +93,14 @@ O tema será entregue em dois PRs menores para manter a documentação unificada
 - [x] PR 8A — Magia e encantamentos
 - [x] PR 8B — Exploração do Nether
 
-## Próximos lotes
+## Lote 9 — Planejamento e referências
 
-- [ ] Lote 9 — Planejamento e referências
+O tema será entregue em dois PRs menores para concluir a navegação editorial sem comprometer a qualidade.
+
+- [x] PR 9A — Evolução da colônia
+- [ ] PR 9B — Referências e suporte
+
+## Próximas etapas
+
+- [ ] Integração operacional — Obsidian e GitHub
 - [ ] Finalização — Auditoria e versão 1.0

@@ -1,10 +1,10 @@
----
+﻿---
 tipo: guia
 nome: Ordem recomendada de construção
 versao_minecraft: 1.20.1
 status: publicado
 ultima_revisao: 2026-07-16
-tags: [minecolonies, planejamento, lote-1]
+tags: [minecolonies, planejamento, lote-1, lote-9a]
 ---
 
 # Ordem recomendada de construção
@@ -57,6 +57,28 @@ Esta é uma estratégia editorial do Vault baseada nas dependências oficiais. A
 6. Demais oficinas conforme os pedidos dos Builders
 
 Consulte [[content/06 - Recursos e Produção/Matriz de receitas e oficinas]] antes de escolher cada oficina.
+
+## Fase 6 — Serviços e defesa
+
+1. School e Library para desenvolver cidadãos
+2. Hospital e Graveyard conforme a população
+3. Guard Towers nos acessos e áreas distantes
+4. Barracks, Combat Academy e Archery para defesa em escala
+
+## Fase 7 — Diversificação
+
+1. Agricultura avançada e compostagem
+2. Criação de animais conforme a demanda de comida e materiais
+3. Mystical Site para felicidade e apoio à ressurreição
+4. Enchanter’s Tower para livros encantados e pergaminhos
+5. Nether Mine quando **Open the Nether** e a logística estiverem disponíveis
+
+## Rotas por maturidade
+
+- [[content/08 - Planejamento/Colônia inicial]]
+- [[content/08 - Planejamento/Colônia intermediária]]
+- [[content/08 - Planejamento/Colônia avançada]]
+- [[content/08 - Planejamento/Checklist de evolução]]
 
 ## Checklist da fundação estável
 
