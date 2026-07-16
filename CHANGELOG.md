@@ -18,6 +18,8 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Documentação da Forester's Hut, Mine e Sifter's Hut.
 - Guias das profissões Waiter, Chef, Farmer, Fisher, Forester, Miner e Sifter.
 - Sistema de fome, cardápio recomendado e cadeias de alimentação, madeira e mineração.
+- Lote 3 com 13 oficinas de produção e artesanato e suas profissões.
+- Guias de automação, materiais estratégicos e cadeias produtivas integradas.
 
 ### Alterado
 
@@ -27,3 +29,4 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Créditos de tomp2 e do MineColonies Style Explorer registrados no README e no diretório das imagens.
 - Nome atual Dining Hall adotado, preservando Restaurant como alias.
 - Índices de construções, profissões e recursos ampliados para o Lote 2.
+- Índices e acompanhamento de progresso ampliados para o Lote 3.

@@ -40,9 +40,17 @@ tags:
 - [x] Sistema de fome e cardápio recomendado
 - [x] Cadeias de alimentação, madeira e mineração
 
+## Lote 3 — Produção e artesanato
+
+- [x] Madeira: Sawmill e Fletcher's Hut
+- [x] Alvenaria: Crusher's Hut, Stonemason's Hut e Brick Yard
+- [x] Metalurgia: Smeltery, Blacksmith's Hut e Mechanic's Hut
+- [x] Especialidades: Bakery, Dyer, Glassblower, Concrete Mixer e Alchemist
+- [x] Profissões das 13 oficinas
+- [x] Automação, materiais e cadeias produtivas
+
 ## Próximos lotes
 
-- [ ] Lote 3 — Produção e artesanato
 - [ ] Lote 4 — Educação, saúde e serviços
 - [ ] Lote 5 — Defesa militar
 - [ ] Lote 6 — Colônia avançada
