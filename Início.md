@@ -47,6 +47,8 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 - [[content/06 - Recursos e Produção/Armazém e entregadores]]
 - [[content/07 - Defesa/Invasões]]
 - [[content/09 - Referências/Solução de problemas]]
+- [[content/09 - Referências/Perguntas frequentes]]
+- [[content/09 - Referências/Glossário]]
 
 ## 🎓 Quero desenvolver meus cidadãos
 

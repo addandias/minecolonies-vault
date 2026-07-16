@@ -1,4 +1,4 @@
----
+﻿---
 tipo: indice
 status: ativo
 tags:
@@ -25,6 +25,9 @@ tags:
 - [[content/09 - Referências/Glossário]]
 - [[content/09 - Referências/Perguntas frequentes]]
 - [[content/09 - Referências/Solução de problemas]]
+- [[content/09 - Referências/Links úteis]]
+- [[content/09 - Referências/Fontes]]
+- [[content/09 - Referências/Princípios editoriais]]
 
 ## Acompanhar
 

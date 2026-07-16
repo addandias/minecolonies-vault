@@ -92,6 +92,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Checklist completo de evolução.
 - Ordem recomendada ampliada até serviços, defesa e conteúdo especializado.
 
+##### PR 9B — Referências e suporte
+
+- Glossário de termos oficiais e traduções adotadas.
+- Perguntas frequentes e solução de problemas orientada por sintomas.
+- Links úteis, política de fontes e metodologia editorial.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -108,6 +114,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8A.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8B.
 - Página inicial e acompanhamento de progresso ampliados para o PR 9A.
+- Índice geral e acompanhamento de progresso concluídos para o PR 9B.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
