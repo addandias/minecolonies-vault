@@ -6,24 +6,41 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+#### Fundação
+
 - Fundação do Vault para Obsidian.
 - Página inicial e índices de navegação.
 - Modelos editoriais para construções, profissões, sistemas e guias.
 - Estrutura de categorias e diretórios de imagens.
-- Lote 1 com guias de fundação, Build Tool e primeiros cidadãos.
+- Galeria Medieval Dark Oak com 155 imagens de construções em 500 × 500.
+
+#### Lote 1 — Primeiros passos e construções essenciais
+
+- Guias de fundação, Build Tool e primeiros cidadãos.
 - Documentação da Town Hall, Builder's Hut, Residence, Warehouse e Courier's Hut.
 - Guia da profissão Builder e ordem recomendada de construção.
-- Galeria Medieval Dark Oak com 155 imagens de construções em 500 × 500.
-- Lote 2 com Dining Hall, Chef's Kitchen, Farmer's Hut, Field e Fisher's Hut.
+
+#### Lote 2 — Comida e recursos básicos
+
+- Dining Hall, Chef's Kitchen, Farmer's Hut, Field e Fisher's Hut.
 - Documentação da Forester's Hut, Mine e Sifter's Hut.
 - Guias das profissões Waiter, Chef, Farmer, Fisher, Forester, Miner e Sifter.
 - Sistema de fome, cardápio recomendado e cadeias de alimentação, madeira e mineração.
-- Lote 3 com 13 oficinas de produção e artesanato e suas profissões.
+
+#### Lote 3 — Produção e artesanato
+
+- Treze oficinas de produção e artesanato e suas profissões.
 - Guias de automação, materiais estratégicos e cadeias produtivas integradas.
-- Lote 4 com University, Library, School, Hospital, Tavern e Graveyard.
+
+#### Lote 4 — Educação, saúde e serviços
+
+- University, Library, School, Hospital, Tavern e Graveyard.
 - Profissões Researcher, Library Student, Teacher, Pupil, Doctor e Undertaker.
 - Guias administrativos de pedidos, felicidade, contratação, configurações e níveis da Town Hall.
-- Lote 5 com Guard Tower, Barracks, Combat Academy e Archery.
+
+#### Lote 5 — Defesa militar
+
+- Guard Tower, Barracks, Combat Academy e Archery.
 - Profissões militares Knight, Archer e Druid.
 - Guias de invasões e estratégia defensiva em camadas.
 
