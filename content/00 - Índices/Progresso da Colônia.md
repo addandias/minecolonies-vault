@@ -81,7 +81,8 @@ tags:
 
 ## Próximos lotes
 
-- [ ] Lote 7 — Criação de animais
+- [x] Lote 7A — Abelhas e pequenos animais
+- [ ] Lote 7B — Pecuária
 - [ ] Lote 8 — Conteúdo místico e Nether
 - [ ] Lote 9 — Planejamento e referências
 - [ ] Finalização — Auditoria e versão 1.0
