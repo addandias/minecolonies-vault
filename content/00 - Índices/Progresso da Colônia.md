@@ -15,17 +15,18 @@ tags:
 - [x] Índices iniciais
 - [x] Modelos editoriais
 - [x] Configuração compartilhável do Obsidian
-- [ ] Revisão completa dos links
+- [x] Revisão completa dos links
 
 ## Lote 1 — Primeiros passos e construções essenciais
 
-- [ ] Guia de primeiros passos
-- [ ] Town Hall
-- [ ] Builder's Hut
-- [ ] Citizen's Hut
-- [ ] Warehouse
-- [ ] Courier's Hut
-- [ ] Ordem inicial de construção
+- [x] Guia de primeiros passos
+- [x] Town Hall
+- [x] Builder's Hut
+- [x] Residence (antiga Citizen's Hut)
+- [x] Warehouse
+- [x] Courier's Hut
+- [x] Profissão Builder
+- [x] Ordem inicial de construção
 
 ## Próximos lotes
 
