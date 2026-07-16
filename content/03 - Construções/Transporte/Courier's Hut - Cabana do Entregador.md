@@ -14,6 +14,15 @@ tags: [minecolonies, construção, logística, lote-1]
 
 # Courier's Hut — Cabana do Entregador
 
+## Galeria — Medieval Dark Oak
+
+| Vista frontal | Vista traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/craftsmanship/storage/deliveryman/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/craftsmanship/storage/deliveryman/back.jpg]] |
+
+> [!INFO] Variante disponível
+> O acervo também contém `craftsmanship/storage/altdeliveryman`.
+
 ## Visão geral
 
 O Courier transporta recursos entre Warehouse e cabanas de trabalho. Cada Courier precisa de sua própria cabana.

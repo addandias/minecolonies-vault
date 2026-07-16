@@ -15,6 +15,15 @@ tags: [minecolonies, construção, moradia, lote-1]
 
 # Residence — Residência do Cidadão
 
+## Galeria — Medieval Dark Oak
+
+| Vista frontal | Vista traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/fundamentals/residence/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/fundamentals/residence/back.jpg]] |
+
+> [!INFO] Variante disponível
+> O acervo também contém `fundamentals/altresidence`.
+
 > [!NOTE] Nome oficial
 > A documentação oficial atual chama a construção de **Residence**. O nome antigo “Citizen's Hut” permanece como alias para facilitar buscas.
 
