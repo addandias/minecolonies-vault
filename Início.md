@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: inicio
 status: ativo
 versao_minecraft: 1.20.1
