@@ -60,7 +60,10 @@ tags:
 
 ## Militar
 
-Em preparação.
+- [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda]]
+- [[content/03 - Construções/Militar/Barracks - Quartel]]
+- [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]]
+- [[content/03 - Construções/Militar/Archery - Campo de Arquearia]]
 
 ## Especializadas
 
