@@ -86,8 +86,14 @@ O tema foi entregue em dois PRs menores para manter a documentação unificada s
 - [x] PR 7A — Abelhas e pequenos animais
 - [x] PR 7B — Pecuária
 
+## Lote 8 — Conteúdo místico e Nether
+
+O tema será entregue em dois PRs menores para manter a documentação unificada sem comprometer a qualidade.
+
+- [x] PR 8A — Magia e encantamentos
+- [ ] PR 8B — Exploração do Nether
+
 ## Próximos lotes
 
-- [ ] Lote 8 — Conteúdo místico e Nether
 - [ ] Lote 9 — Planejamento e referências
 - [ ] Finalização — Auditoria e versão 1.0

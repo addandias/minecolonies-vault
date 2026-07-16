@@ -66,6 +66,16 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões Cowhand, Shepherd e Swineherd.
 - Guias de pecuária, alimentação e reprodução animal.
 
+#### Lote 8 — Conteúdo místico e Nether
+
+> O Lote 8 foi dividido em dois PRs menores para manter o tema unificado sem comprometer a qualidade da documentação.
+
+##### PR 8A — Magia e encantamentos
+
+- Enchanter’s Tower e Mystical Site.
+- Profissão Enchanter.
+- Guias de encantamentos, Ancient Tomes, pergaminhos e teletransporte.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -79,6 +89,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices, início e acompanhamento de progresso ampliados para o Lote 5.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o Lote 6.
 - Índices e acompanhamento de progresso ampliados para o Lote 7.
+- Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8A.
 - Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.

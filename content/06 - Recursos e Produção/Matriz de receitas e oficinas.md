@@ -1,4 +1,4 @@
----
+﻿---
 tipo: referencia
 status: publicado
 ultima_revisao: 2026-07-16
@@ -54,6 +54,13 @@ tags: [minecolonies, receitas, oficinas, produção, fix]
 | Flores | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | Compost e machado | Flower Power |
 | Cana, bambu, cacto e plantas especiais | [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantation]] | Campos especializados | Let It Grow |
 
+## Magia e encantamentos
+
+| Produto ou família | Construção | Entradas comuns | Pesquisa |
+|---|---|---|---|
+| Livros encantados | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Ancient Tome e experiência observada | Nenhuma |
+| Pergaminhos de teletransporte | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Papel, bússola, Build Tool ou pergaminhos-base | Varia conforme a receita |
+
 ## Transformações de recursos
 
 ```mermaid
@@ -66,6 +73,8 @@ flowchart LR
     E --> H["Blacksmith / Mechanic"]
     I["Farmer e criadores"] --> J["Bakery / Chef's Kitchen"]
     J --> K["Dining Hall"]
+    L["Ancient Tome"] --> M["Enchanter"]
+    M --> N["Livros encantados e pergaminhos"]
 ```
 
 ## Fontes

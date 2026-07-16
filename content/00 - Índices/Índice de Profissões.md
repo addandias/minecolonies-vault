@@ -49,6 +49,7 @@ tags:
 | [[content/04 - Profissões/Cowhand - Vaqueiro|Vaqueiro]] | [[content/03 - Construções/Criação de Animais/Cowhand's Hut - Curral|Cowhand’s Hut]] | Criar gado e obter seus produtos |
 | [[content/04 - Profissões/Shepherd - Pastor|Pastor]] | [[content/03 - Construções/Criação de Animais/Shepherd's Hut - Aprisco|Shepherd’s Hut]] | Criar, tosquiar e tingir ovelhas |
 | [[content/04 - Profissões/Swineherd - Criador de Porcos|Criador de Porcos]] | [[content/03 - Construções/Criação de Animais/Swineherd's Hut - Chiqueiro|Swineherd’s Hut]] | Criar porcos |
+| [[content/04 - Profissões/Enchanter - Encantador|Encantador]] | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Produzir livros encantados e pergaminhos |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.
