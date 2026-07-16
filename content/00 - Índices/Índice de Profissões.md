@@ -43,6 +43,9 @@ tags:
 | [[content/04 - Profissões/Composter - Compostador|Compostador]] | [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Composter’s Hut]] | Reciclar materiais orgânicos |
 | [[content/04 - Profissões/Florist - Florista|Florista]] | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | Cultivar flores |
 | [[content/04 - Profissões/Planter - Cultivador|Cultivador]] | [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantation]] | Cultivar plantas especiais |
+| [[content/04 - Profissões/Beekeeper - Apicultor|Apicultor]] | [[content/03 - Construções/Criação de Animais/Apiary - Apiário|Apiary]] | Produzir mel e favos |
+| [[content/04 - Profissões/Chicken Farmer - Criador de Galinhas|Criador de Galinhas]] | [[content/03 - Construções/Criação de Animais/Chicken Farmer's Hut - Galinheiro|Chicken Farmer’s Hut]] | Produzir ovos, penas e carne |
+| [[content/04 - Profissões/Rabbit Herder - Criador de Coelhos|Criador de Coelhos]] | [[content/03 - Construções/Criação de Animais/Rabbit Hutch - Coelheira|Rabbit Hutch]] | Criar coelhos |
 
 > [!NOTE]
 > A lista será ampliada por lotes conforme as construções forem documentadas.

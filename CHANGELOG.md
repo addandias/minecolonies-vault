@@ -50,6 +50,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões Composter, Florist e Planter.
 - Guias de agricultura avançada, compostagem e campos da Plantation.
 
+#### Lote 7A — Abelhas e pequenos animais
+
+- Apiary, Chicken Farmer’s Hut e Rabbit Hutch.
+- Profissões Beekeeper, Chicken Farmer e Rabbit Herder.
+- Guias de apicultura e criação de pequenos animais.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.

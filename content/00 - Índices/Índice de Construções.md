@@ -47,6 +47,12 @@ tags:
 - [[content/03 - Construções/Agricultura/Flowershop - Floricultura]]
 - [[content/03 - Construções/Agricultura/Plantation - Plantação]]
 
+## Criação de Animais
+
+- [[content/03 - Construções/Criação de Animais/Apiary - Apiário]]
+- [[content/03 - Construções/Criação de Animais/Chicken Farmer's Hut - Galinheiro]]
+- [[content/03 - Construções/Criação de Animais/Rabbit Hutch - Coelheira]]
+
 ## Recursos
 
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]

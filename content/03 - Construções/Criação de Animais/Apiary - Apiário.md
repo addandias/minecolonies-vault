@@ -1,0 +1,51 @@
+---
+tipo: construção
+nome: Apiary
+nome_pt: Apiário
+aliases: [Beekeeper’s Hut]
+categoria: Criação de Animais
+trabalhador: Beekeeper
+pesquisa: nenhuma
+versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1232
+estilo: Medieval Dark Oak
+nivel_maximo: 5
+status: publicado
+ultima_revisao: 2026-07-16
+tags: [minecolonies, construção, apicultura, lote-7a]
+---
+
+# Apiary — Apiário
+
+## Galeria — Medieval Dark Oak
+
+| Frente | Traseira |
+|---|---|
+| ![[assets/construcoes/medieval-dark-oak/agriculture/husbandry/beekeeper/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/agriculture/husbandry/beekeeper/back.jpg]] |
+
+## Função
+
+O Beekeeper cria abelhas e coleta favos, frascos de mel ou ambos. Não exige pesquisa.
+
+| Nível | Colmeias |
+|---:|---:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 4 |
+| 4 | 8 |
+| 5 | 16 |
+
+Associe colmeias com a ferramenta da interface. Em **Settings**, controle reprodução e tipo de coleta; em **Flower List**, habilite flores para reprodução — todas começam desativadas.
+
+## Habilidades
+
+- **Dexterity:** reduz o risco de ferroada.
+- **Adaptability:** reduz a espera entre verificações.
+
+## Profissão
+
+[[content/04 - Profissões/Beekeeper - Apicultor]]
+
+## Fontes
+
+- [Apiary — Wiki oficial](https://minecolonies.com/wiki/buildings/beekeeper/)
