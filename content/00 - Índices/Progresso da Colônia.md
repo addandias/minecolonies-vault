@@ -1,4 +1,4 @@
----
+﻿---
 tipo: acompanhamento
 status: ativo
 tags:
@@ -79,10 +79,15 @@ tags:
 - [x] Campos especializados da Plantation
 - [x] Cadeia de agricultura avançada
 
+## Lote 7 — Criação de animais
+
+O tema foi entregue em dois PRs menores para manter a documentação unificada sem comprometer a qualidade.
+
+- [x] PR 7A — Abelhas e pequenos animais
+- [x] PR 7B — Pecuária
+
 ## Próximos lotes
 
-- [x] Lote 7A — Abelhas e pequenos animais
-- [ ] Lote 7B — Pecuária
 - [ ] Lote 8 — Conteúdo místico e Nether
 - [ ] Lote 9 — Planejamento e referências
 - [ ] Finalização — Auditoria e versão 1.0

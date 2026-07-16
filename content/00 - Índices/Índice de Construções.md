@@ -1,4 +1,4 @@
----
+﻿---
 tipo: indice
 status: ativo
 tags:
@@ -52,6 +52,9 @@ tags:
 - [[content/03 - Construções/Criação de Animais/Apiary - Apiário]]
 - [[content/03 - Construções/Criação de Animais/Chicken Farmer's Hut - Galinheiro]]
 - [[content/03 - Construções/Criação de Animais/Rabbit Hutch - Coelheira]]
+- [[content/03 - Construções/Criação de Animais/Cowhand's Hut - Curral]]
+- [[content/03 - Construções/Criação de Animais/Shepherd's Hut - Aprisco]]
+- [[content/03 - Construções/Criação de Animais/Swineherd's Hut - Chiqueiro]]
 
 ## Recursos
 
