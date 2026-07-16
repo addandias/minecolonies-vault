@@ -14,7 +14,7 @@ tags: [minecolonies, defesa, estratégia, lote-5]
 
 ```mermaid
 flowchart LR
-    A["Borda e aviso"] --> B["Torres externas"]
+    A["Borda e aviso"] --> B["Gatehouse e torres externas"]
     B --> C["Portões e gargalos"]
     C --> D["Reserva do Barracks"]
     D --> E["Hospital e recuperação"]
@@ -35,6 +35,8 @@ Use Knights na frente, Archers com linha de visão e Druids protegidos. Não exi
 - torres externas vigiam acessos e produtores;
 - torres internas protegem Residences, Warehouse e Hospital;
 - Barracks oferece reserva concentrada;
+- Barracks Towers ampliam a guarnição conforme o nível, até cinco Guards por torre;
+- Gatehouses organizam entradas, mas não substituem a cobertura das torres;
 - patrulhas manuais cobrem portões e pontos cegos;
 - caminhos internos permitem reforço rápido.
 
@@ -53,9 +55,13 @@ Use Knights na frente, Archers com linha de visão e Druids protegidos. Não exi
 - [[content/07 - Defesa/Invasões]]
 - [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda]]
 - [[content/03 - Construções/Militar/Barracks - Quartel]]
+- [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel]]
+- [[content/03 - Construções/Militar/Gatehouse - Portaria]]
 
 ## Fontes
 
 - [Guard Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/guardtower/)
 - [Barracks — Wiki oficial](https://minecolonies.com/wiki/buildings/barracks/)
+- [Barracks Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/barrackstower/)
+- [Gatehouse — Wiki oficial](https://minecolonies.com/wiki/buildings/gatehouse/)
 - [Raids — Wiki oficial](https://minecolonies.com/wiki/systems/raid/)

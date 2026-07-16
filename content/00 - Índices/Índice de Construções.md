@@ -55,12 +55,14 @@ tags:
 - [[content/03 - Construções/Criação de Animais/Cowhand's Hut - Curral]]
 - [[content/03 - Construções/Criação de Animais/Shepherd's Hut - Aprisco]]
 - [[content/03 - Construções/Criação de Animais/Swineherd's Hut - Chiqueiro]]
+- [[content/03 - Construções/Criação de Animais/Stable - Estábulo]]
 
 ## Recursos
 
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
 - [[content/03 - Construções/Recursos/Mine - Mina]]
 - [[content/03 - Construções/Recursos/Sifter's Hut - Cabana do Peneirador]]
+- [[content/03 - Construções/Recursos/Quarry - Pedreira]]
 
 ## Transporte
 
@@ -79,6 +81,8 @@ tags:
 - [[content/03 - Construções/Militar/Barracks - Quartel]]
 - [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]]
 - [[content/03 - Construções/Militar/Archery - Campo de Arquearia]]
+- [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel]]
+- [[content/03 - Construções/Militar/Gatehouse - Portaria]]
 
 ## Especializadas
 

@@ -31,7 +31,9 @@ tags:
 - [[content/06 - Recursos e Produção/Cadeia de recursos do Nether]]
 - [[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador]]
 - [[content/03 - Construções/Recursos/Mine - Mina]]
+- [[content/03 - Construções/Recursos/Quarry - Pedreira]]
 - [[content/03 - Construções/Recursos/Sifter's Hut - Cabana do Peneirador]]
+- [[content/03 - Construções/Criação de Animais/Stable - Estábulo]]
 
 ## Alimentação
 

@@ -26,7 +26,7 @@ tags: [minecolonies, construção, defesa, lote-5]
 
 ## Visão geral
 
-O Barracks reúne várias Barracks Towers. Nos estilos oficiais, são quatro torres, com capacidade final de até 20 Guards. Estilos personalizados podem variar. Exige **Tactic Training**.
+O Barracks reúne várias [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]]. Nos estilos oficiais, são quatro torres, com capacidade final de até 20 Guards. Estilos personalizados podem variar. Exige **Tactic Training**.
 
 ## Progressão
 
@@ -38,7 +38,7 @@ O Barracks reúne várias Barracks Towers. Nos estilos oficiais, são quatro tor
 | 4 | 4 | 4 |
 | 5 | 4 | 5 |
 
-Cada Barracks Tower abriga um Guard por nível. As torres internas só podem alcançar o nível do Barracks.
+Cada [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] abriga um Guard por nível. As torres internas só podem alcançar o nível do Barracks.
 
 ## Recursos táticos
 

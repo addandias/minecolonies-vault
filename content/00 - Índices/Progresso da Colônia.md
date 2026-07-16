@@ -102,5 +102,6 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 
 ## Próximas etapas
 
-- [ ] Integração operacional — Obsidian e GitHub
+- [x] Integração operacional — Obsidian e GitHub
+- [x] Lote 10A — Quarry, Stable, Gatehouse, Barracks Tower, Quarrier e Stablemaster
 - [ ] Finalização — Auditoria e versão 1.0

@@ -27,7 +27,9 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 | Logístico | Warehouse e Courier’s Huts |
 | Industrial | Sawmill, Smeltery, Blacksmith, Mechanic e oficinas de pedra |
 | Alimentar | Farmer, criadores, Chef’s Kitchen, Bakery e Dining Hall |
-| Militar | Barracks, Guard Towers, Combat Academy e Archery |
+| Militar | Barracks, Barracks Towers, Guard Towers, Gatehouse, Combat Academy e Archery |
+| Extração pesada | Mine, Quarry, Crusher e oficinas de pedra |
+| Rural especializado | Stable e demais construções de criação |
 | Especializado | Hospital, Graveyard, Mystical Site, Enchanter’s Tower e Nether Mine |
 
 ## Revisão de autossuficiência
