@@ -72,7 +72,7 @@ As posições das torres vêm prontas no esquema do Barracks. A decisão estrat�
 - [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda]]
 - [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]]
 - [[content/03 - Construções/Militar/Archery - Campo de Arquearia]]
-- [[content/03 - Construções/Especializadas/Hospital - Hospital]]
+- [[content/03 - Construções/Saúde/Hospital - Hospital]]
 
 ## Fontes
 

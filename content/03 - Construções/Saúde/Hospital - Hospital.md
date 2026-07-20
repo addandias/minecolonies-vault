@@ -2,7 +2,7 @@
 tipo: construção
 nome: Hospital
 nome_pt: Hospital
-categoria: Especializadas
+categoria: Saúde
 trabalhador: Doctor
 pesquisa: Stamina
 versao_minecraft: 1.20.1

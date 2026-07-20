@@ -55,7 +55,7 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 - [[content/03 - Construções/Educação/University - Universidade]]
 - [[content/03 - Construções/Educação/Library - Biblioteca]]
 - [[content/03 - Construções/Educação/School - Escola]]
-- [[content/03 - Construções/Especializadas/Hospital - Hospital]]
+- [[content/03 - Construções/Saúde/Hospital - Hospital]]
 
 ## 🛡️ Quero defender a colônia
 

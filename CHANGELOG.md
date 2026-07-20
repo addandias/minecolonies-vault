@@ -161,6 +161,6 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 - Páginas analíticas identificadas como recomendações editoriais do Vault.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
-- Categorias de Graveyard, Hospital e Tavern alinhadas à pasta `Especializadas`.
+- Categorias separadas em `Saúde` para Hospital, `Serviços` para Tavern e Graveyard, e `Especializadas` para conteúdo mágico e dimensional.
 - Construções com lacunas editoriais reclassificadas como `em_revisao`, com os tópicos faltantes registrados em `revisao_pendente`.
 - Referências operacionais alinhadas ao novo comportamento de pathfinding e chunks descarregados da 1.1.1259.
