@@ -27,7 +27,7 @@ tags: [minecolonies, alimentação, produção, lote-2, lote-10c]
 3. Acrescente Fields conforme o nível da cabana.
 4. Use Fisher's Hut quando houver água adequada.
 5. Acrescente Bakery ou Chef's Kitchen conforme os ingredientes disponíveis.
-6. Ensine poucas receitas e confira o rendimento atual na 1.1.1259.
+6. Ensine poucas receitas e confira o rendimento atual em 1259-snapshot.
 7. Use a estimativa de ingredientes do Dining Hall para ajustar estoques e entregadores.
 
 ## Gargalos comuns
@@ -39,7 +39,7 @@ tags: [minecolonies, alimentação, produção, lote-2, lote-10c]
 - Couriers sobrecarregados;
 - combustível bloqueado;
 - alimento final não autorizado no salão.
-- planejamento baseado em rendimentos anteriores ao rebalanceamento da 1.1.1259;
+- planejamento baseado em rendimentos anteriores ao rebalanceamento de 1259-snapshot;
 - falta de garrafas de reposição para receitas da Bakery.
 
 ## Fontes

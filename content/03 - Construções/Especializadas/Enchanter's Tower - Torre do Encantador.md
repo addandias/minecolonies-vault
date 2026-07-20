@@ -56,9 +56,9 @@ O nível da construção e **Knowledge** do trabalhador influenciam a qualidade 
 
 ## Missões de pergaminhos
 
-A snapshot 1.1.1259 adiciona cinco missões narrativas ligadas aos pergaminhos. Elas envolvem outros cidadãos e construções, exigem entregas específicas e oferecem pergaminhos, itens ou felicidade como recompensa.
+O registro 1259-snapshot adiciona cinco missões narrativas ligadas aos pergaminhos. Elas envolvem outros cidadãos e construções, exigem entregas específicas e oferecem pergaminhos, itens ou felicidade como recompensa.
 
-Os requisitos variam entre os níveis 1 e 3 da torre. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões da snapshot 1.1.1259|Missões da snapshot 1.1.1259]] para a tabela completa.
+Os requisitos variam entre os níveis 1 e 3 da torre. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões de 1259-snapshot|Missões de 1259-snapshot]] para a tabela completa.
 
 ## Profissão
 

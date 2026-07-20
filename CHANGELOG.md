@@ -109,29 +109,30 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões Quarrier e Stablemaster.
 - Integração da extração pesada, criação equina e novas estruturas defensivas aos índices e guias existentes.
 
-##### PR 10B — Defesa atualizada para a snapshot 1.1.1259
+##### PR 10B — Defesa atualizada para 1259-snapshot
 
 - Profissões militares Huscarl e Marksman, com pesquisas, equipamento e funções táticas.
 - Mudanças na distribuição das invasões, dificuldade dos raiders e rebalanceamento dos Norsemen.
 - Composição defensiva ampliada para os cinco tipos de Guard documentados.
 
-##### PR 10C — Alimentação atualizada para a snapshot 1.1.1259
+##### PR 10C — Alimentação atualizada para 1259-snapshot
 
 - Sistema de fome atualizado com tiers, consumo por Residence e segurança contra alimentos venenosos.
 - Rebalanceamento alimentar integrado ao cardápio, às cadeias e à matriz de oficinas.
 - Dining Hall documentado com estimativa diária de ingredientes.
 - Bakery e Baker atualizados com novas receitas e menor perda de garrafas.
 
-##### PR 10D — Operação e missões na snapshot 1.1.1259
+##### PR 10D — Operação e missões em 1259-snapshot
 
 - Cinco missões narrativas de pergaminhos do Enchanter documentadas com requisitos e recompensas.
 - Nova configuração de limite do pathfinding e melhorias em pontes, escadas e áreas descarregadas.
 - Field atualizado com a opção de lanterna no espantalho.
 - Correções operacionais de Florist e esquemas Medieval da Crusher’s Hut.
-- Cobertura das mudanças relevantes da snapshot 1.1.1259 concluída.
+- Cobertura das mudanças relevantes de 1259-snapshot concluída.
 
 ### Alterado
 
+- Registros editoriais de versão abreviados para `1259-snapshot`, mantendo o número técnico e a tag oficial completa nos metadados e links.
 - Modelos de construções e profissões preparados para galerias e variantes sem confundir vistas diferentes com modelos alternativos.
 - Aviso e estado atual do README reformulados para apresentar o Vault como projeto pré-1.0 e diferenciá-lo da classificação `prerelease` do mod.
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -168,5 +169,5 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
 - Categorias separadas em `Saúde` para Hospital, `Serviços` para Tavern e Graveyard, e `Especializadas` para conteúdo mágico e dimensional.
 - Construções com lacunas editoriais reclassificadas como `em_revisao`, com os tópicos faltantes registrados em `revisao_pendente`.
-- Referências operacionais alinhadas ao novo comportamento de pathfinding e chunks descarregados da 1.1.1259.
+- Referências operacionais alinhadas ao novo comportamento de pathfinding e chunks descarregados de 1259-snapshot.
 - Arquivos textuais padronizados em UTF-8 sem BOM, com EditorConfig e validação automática no GitHub Actions.

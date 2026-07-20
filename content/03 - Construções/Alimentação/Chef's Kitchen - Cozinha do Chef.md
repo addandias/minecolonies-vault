@@ -40,7 +40,7 @@ A Chef's Kitchen produz refeições elaboradas sob demanda para manter os Dining
 
 Ensine receitas de fundição na interface e selecione combustíveis permitidos. A aba de tarefas ajuda a acompanhar pedidos em andamento.
 
-> [!IMPORTANT] Receitas na 1.1.1259
+> [!IMPORTANT] Receitas em 1259-snapshot
 > Custos, rendimentos e tiers de diversas refeições foram rebalanceados. Reabra as receitas ensinadas após atualizar e confirme se os estoques mínimos ainda cobrem os ingredientes atuais.
 
 ## Habilidades do trabalhador

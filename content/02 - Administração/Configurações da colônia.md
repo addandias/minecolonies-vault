@@ -30,7 +30,7 @@ Revise permissões antes de adicionar jogadores. A proteção da colônia contro
 
 Configurações comuns e de servidor podem mudar tamanho máximo, doenças, invasões e outros sistemas. Em servidor, alterações devem ser feitas por quem administra o mundo e podem variar conforme o modpack.
 
-### Pathfinding na 1.1.1259
+### Pathfinding em 1259-snapshot
 
 A opção de servidor **`pathNodeLimitMultiplier`** multiplica o limite de nós pesquisados pelo pathfinding. O valor padrão e mínimo é `1`; o máximo permitido é `4`.
 

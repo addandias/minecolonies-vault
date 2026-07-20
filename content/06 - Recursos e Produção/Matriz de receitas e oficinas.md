@@ -57,7 +57,7 @@ tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 | Poções | [[content/03 - Construções/Produção/Alchemist Laboratory - Laboratório do Alquimista|Alchemist Laboratory]] | Frascos e ingredientes de alquimia | Magic Potions |
 
 > [!IMPORTANT] Versão de referência
-> Receitas e rendimentos de vários alimentos foram rebalanceados na 1.1.1259. Use esta matriz para localizar a oficina, mas confirme os ingredientes e a quantidade produzida na receita atual antes de dimensionar estoques.
+> Receitas e rendimentos de vários alimentos foram rebalanceados em 1259-snapshot. Use esta matriz para localizar a oficina, mas confirme os ingredientes e a quantidade produzida na receita atual antes de dimensionar estoques.
 
 ## Agricultura avançada
 

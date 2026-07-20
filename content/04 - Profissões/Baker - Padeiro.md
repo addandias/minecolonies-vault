@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, lote-3, lote-10c]
 
 Trabalha na [[content/03 - Construções/Produção/Bakery - Padaria]], preparando massas e produtos assados sob pedido. **Knowledge** pode economizar ingredientes; **Dexterity** acelera artesanato e forno.
 
-Na snapshot 1.1.1259, a chance de quebra das garrafas usadas nas receitas do Baker foi reduzida pela metade. Ainda assim, a cadeia deve manter garrafas vazias disponíveis para reposição.
+Em 1259-snapshot, a chance de quebra das garrafas usadas nas receitas do Baker foi reduzida pela metade. Ainda assim, a cadeia deve manter garrafas vazias disponíveis para reposição.
 
 ## Fontes
 

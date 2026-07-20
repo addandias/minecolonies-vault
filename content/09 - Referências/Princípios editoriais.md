@@ -14,7 +14,8 @@ Este Vault deve parecer uma central de planejamento de colônia: útil, visual, 
 
 ## Precisão
 
-- Verificar informações para Minecraft 1.20.1 usando MineColonies 1.1.1259, tag `v1.20.1-1.1.1259-snapshot`, como versão de referência.
+- Verificar informações para Minecraft 1.20.1 usando MineColonies 1.1.1259, registro curto `1259-snapshot` e tag oficial `v1.20.1-1.1.1259-snapshot`.
+- Usar o registro curto `1259-snapshot` em títulos, notas de atualização e histórico; reservar a tag completa para links e referências técnicas.
 - Registrar essa versão como `tipo_versao: prerelease`, acompanhando a classificação pública adotada pelos desenvolvedores.
 - Separar fatos confirmados, recomendações e experiências práticas.
 - Não inventar requisitos, materiais, desbloqueios ou imagens.

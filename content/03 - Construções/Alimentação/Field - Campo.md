@@ -33,7 +33,7 @@ O campo pode ocupar até **11 × 11 blocos**, com o bloco de controle no centro 
 
 ## Lanterna do espantalho
 
-Na snapshot 1.1.1259, o Field pode exibir uma lanterna acesa. Projetistas de esquemas também podem deixar essa opção ativada por padrão; nesse caso, a lanterna passa a integrar os materiais exigidos pela construção.
+Em 1259-snapshot, o Field pode exibir uma lanterna acesa. Projetistas de esquemas também podem deixar essa opção ativada por padrão; nesse caso, a lanterna passa a integrar os materiais exigidos pela construção.
 
 A lanterna acompanha as duas partes do bloco e é devolvida quando o Field é quebrado. Não existe uma interação separada para removê-la sem quebrar o bloco, pois o clique já abre a interface do campo.
 

@@ -23,7 +23,7 @@ O melhor cardápio não é o maior: é aquele que a colônia consegue produzir s
 | Cozinha | Duas ou três receitas ensinadas ao Chef | Melhorar qualidade sem dispersar ingredientes |
 | Colônia madura | Pratos variados de alta qualidade | Sustentar felicidade e vários salões |
 
-## Após o rebalanceamento da 1.1.1259
+## Após o rebalanceamento de 1259-snapshot
 
 Receitas, rendimentos e tiers de vários alimentos foram ajustados. Ao atualizar um mundo, não presuma que o custo antigo de um prato continua válido: confira a receita atual e observe o consumo real antes de definir estoques mínimos.
 

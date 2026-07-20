@@ -30,9 +30,10 @@ Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]]
 - **Minecraft:** 1.20.1
 - **MineColonies:** 1.1.1259
 - **Tipo da versão:** `prerelease`
+- **Registro curto:** `1259-snapshot`
 - **Tag oficial:** `v1.20.1-1.1.1259-snapshot`
 
-O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. As páginas do Vault usam essa combinação como referência. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
+O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. Nas notas editoriais e no histórico, o Vault usa o registro curto `1259-snapshot`; a tag oficial completa fica reservada para referências técnicas e links. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
 
 ## Estado atual
 

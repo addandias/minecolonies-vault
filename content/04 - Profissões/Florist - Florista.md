@@ -22,7 +22,7 @@ O Florist trabalha na [[content/03 - Construções/Agricultura/Flowershop - Flor
 
 Forneça machado, Compost e espaço logístico para retirar a produção. A partir do nível 3, escolha flores alinhadas às receitas do Dyer.
 
-A snapshot 1.1.1259 corrige a colheita de plantas cujos drops dependem do cidadão e da ferramenta, incluindo samambaias e grama.
+O registro 1259-snapshot corrige a colheita de plantas cujos drops dependem do cidadão e da ferramenta, incluindo samambaias e grama.
 
 ## Fontes
 

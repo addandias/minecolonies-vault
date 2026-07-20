@@ -41,7 +41,7 @@ O Florist usa Compost e machado para produzir flores. A construção exige **Flo
 
 Antes do nível 3, cultiva apenas papoulas e dentes-de-leão. A partir do nível 3, a lista **Plantables** permite escolher as flores autorizadas.
 
-Na snapshot 1.1.1259, a colheita passou a considerar corretamente o Florist e sua ferramenta ao consultar os drops. Isso corrige plantas como samambaias e grama, cujos drops dependem da ferramenta exigida pela loot table.
+Em 1259-snapshot, a colheita passou a considerar corretamente o Florist e sua ferramenta ao consultar os drops. Isso corrige plantas como samambaias e grama, cujos drops dependem da ferramenta exigida pela loot table.
 
 ## Habilidades
 

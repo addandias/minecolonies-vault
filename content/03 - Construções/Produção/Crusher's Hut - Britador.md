@@ -41,7 +41,7 @@ O custo padrão é 2 entradas para 1 saída. A pesquisa **Gilded Hammer** melhor
 
 ## Correção dos esquemas Medieval
 
-A atualização 1.1.1259 ajusta o percurso interno de esquemas Medieval da Crusher’s Hut: o trilho deixa de depender de uma orientação problemática e os trapdoors foram substituídos por panels para impedir que o trabalhador caia e tenha dificuldade de retornar.
+O registro 1259-snapshot ajusta o percurso interno de esquemas Medieval da Crusher’s Hut: o trilho deixa de depender de uma orientação problemática e os trapdoors foram substituídos por panels para impedir que o trabalhador caia e tenha dificuldade de retornar.
 
 Essa correção vale para construções erguidas ou atualizadas com os esquemas corrigidos. Se uma Crusher antiga continuar prendendo o trabalhador, compare o interior com a prévia atual antes de alterar blocos manualmente.
 
