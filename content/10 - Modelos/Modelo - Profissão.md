@@ -4,7 +4,7 @@ nome:
 nome_pt:
 construcao:
 versao_minecraft: 1.20.1
-versao_minecolonies: 1.1.1232
+versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: rascunho
 ultima_revisao:

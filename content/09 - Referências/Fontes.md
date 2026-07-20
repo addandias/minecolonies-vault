@@ -17,9 +17,9 @@ tags: [minecolonies, fontes, metodologia, lote-9b]
 ## Versão de referência
 
 - Minecraft 1.20.1
-- MineColonies 1.1.1232
+- MineColonies 1.1.1259
 - Tipo: `prerelease`
-- Tag: `v1.20.1-1.1.1232-snapshot`
+- Tag: `v1.20.1-1.1.1259-snapshot`
 
 A classificação `prerelease` reproduz o estado atribuído pelos desenvolvedores à versão pública no GitHub. Uma página pode consultar documentação mais recente para localizar o conceito, mas deve evitar transportar números ou regras incompatíveis sem conferência.
 
@@ -36,7 +36,7 @@ A classificação `prerelease` reproduz o estado atribuído pelos desenvolvedore
 
 - [Wiki oficial do MineColonies](https://minecolonies.com/wiki/)
 - [Repositório oficial](https://github.com/ldtteam/minecolonies)
-- [Release oficial v1.20.1-1.1.1232-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1232-snapshot)
+- [Release oficial v1.20.1-1.1.1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)
 - [MineColonies no CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 
 ## Imagens

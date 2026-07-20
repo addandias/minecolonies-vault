@@ -49,4 +49,4 @@ Não. Apenas o Mystical Site de maior nível fornece o bônus.
 
 ## O Vault funciona fora da versão indicada?
 
-Grande parte da estrutura continua útil, mas nomes, interfaces, receitas e pesquisas podem mudar. A referência editorial é Minecraft 1.20.1 com MineColonies 1.1.1232.
+Grande parte da estrutura continua útil, mas nomes, interfaces, receitas e pesquisas podem mudar. A referência editorial é Minecraft 1.20.1 com MineColonies 1.1.1259.

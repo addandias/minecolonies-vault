@@ -5,7 +5,7 @@ nome_pt: Salão de Refeições
 aliases: [Restaurant, Restaurante]
 categoria: Alimentação
 versao_minecraft: 1.20.1
-versao_minecolonies: 1.1.1232
+versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5

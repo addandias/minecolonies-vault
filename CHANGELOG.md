@@ -123,14 +123,14 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Índices, matriz produtiva e acompanhamento de progresso ampliados para o PR 8B.
 - Página inicial e acompanhamento de progresso ampliados para o PR 9A.
 - Índice geral e acompanhamento de progresso concluídos para o PR 9B.
-- Versão de referência fixada em MineColonies 1.1.1232 para Minecraft 1.20.1.
+- Versão de referência fixada em MineColonies 1.1.1259 para Minecraft 1.20.1.
 - Nomes canônicos Residence, Dining Hall e Waiter padronizados em arquivos e links.
 - Ordem recomendada de construção atualizada para refletir os Lotes 2 e 3.
 - Créditos de desenvolvimento assistido por ChatGPT e Codex registrados no README.
 - Fluxo seguro de integração entre Obsidian Git e GitHub documentado no README.
 - Arquivos executáveis e configurações locais de plugins adicionados ao `.gitignore`.
 - Mine, índices, matriz produtiva, defesa e planejamento ampliados para o Lote 10A.
-- Metadados de construções e profissões padronizados para Minecraft 1.20.1, MineColonies 1.1.1232 e `tipo_versao: prerelease`.
+- Metadados de construções e profissões padronizados para Minecraft 1.20.1, MineColonies 1.1.1259 e `tipo_versao: prerelease`.
 - Modelos editoriais atualizados para preservar a versão de referência e registrar pendências de revisão.
 
 ### Corrigido

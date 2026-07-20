@@ -4,7 +4,7 @@ nome: Quarry
 nome_pt: Pedreira
 categoria: Recursos
 versao_minecraft: 1.20.1
-versao_minecolonies: 1.1.1232
+versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 nivel_maximo: 1
 trabalhador: Quarrier
