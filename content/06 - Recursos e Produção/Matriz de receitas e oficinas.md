@@ -1,8 +1,11 @@
 ﻿---
 tipo: referencia
+versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, receitas, oficinas, produção, fix]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 ---
 
 # Matriz de receitas e oficinas
@@ -53,6 +56,9 @@ tags: [minecolonies, receitas, oficinas, produção, fix]
 | Corantes e itens coloridos | [[content/03 - Construções/Produção/Dyer's Hut - Oficina do Tingidor|Dyer's Hut]] | Flores, pigmentos e itens-base | Rainbow Heaven |
 | Poções | [[content/03 - Construções/Produção/Alchemist Laboratory - Laboratório do Alquimista|Alchemist Laboratory]] | Frascos e ingredientes de alquimia | Magic Potions |
 
+> [!IMPORTANT] Versão de referência
+> Receitas e rendimentos de vários alimentos foram rebalanceados na 1.1.1259. Use esta matriz para localizar a oficina, mas confirme os ingredientes e a quantidade produzida na receita atual antes de dimensionar estoques.
+
 ## Agricultura avançada
 
 | Produto ou família | Construção | Entradas comuns | Pesquisa |
@@ -102,3 +108,4 @@ flowchart LR
 - [Buildings — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/)
 - [Research — Wiki oficial do MineColonies](https://minecolonies.com/wiki/systems/research/)
 - [Request System — Wiki oficial do MineColonies](https://minecolonies.com/wiki/systems/request/)
+- [PR #11683 — Food Adjustments #1](https://github.com/ldtteam/minecolonies/pull/11683)

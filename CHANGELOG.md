@@ -112,6 +112,13 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Mudanças na distribuição das invasões, dificuldade dos raiders e rebalanceamento dos Norsemen.
 - Composição defensiva ampliada para os cinco tipos de Guard documentados.
 
+##### PR 10C — Alimentação atualizada para a snapshot 1.1.1259
+
+- Sistema de fome atualizado com tiers, consumo por Residence e segurança contra alimentos venenosos.
+- Rebalanceamento alimentar integrado ao cardápio, às cadeias e à matriz de oficinas.
+- Dining Hall documentado com estimativa diária de ingredientes.
+- Bakery e Baker atualizados com novas receitas e menor perda de garrafas.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -139,6 +146,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Metadados de construções e profissões padronizados para Minecraft 1.20.1, MineColonies 1.1.1259 e `tipo_versao: prerelease`.
 - Modelos editoriais atualizados para preservar a versão de referência e registrar pendências de revisão.
 - Índices, construções militares, defesa e planejamento atualizados para o Lote 10B.
+- Alimentação, construções relacionadas, profissão Baker e planejamento produtivo atualizados para o Lote 10C.
 
 ### Corrigido
 

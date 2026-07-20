@@ -13,7 +13,7 @@ trabalhador: Chef
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, alimentação, lote-2]
+tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 ---
 
 # Chef's Kitchen — Cozinha do Chef
@@ -40,6 +40,9 @@ A Chef's Kitchen produz refeições elaboradas sob demanda para manter os Dining
 
 Ensine receitas de fundição na interface e selecione combustíveis permitidos. A aba de tarefas ajuda a acompanhar pedidos em andamento.
 
+> [!IMPORTANT] Receitas na 1.1.1259
+> Custos, rendimentos e tiers de diversas refeições foram rebalanceados. Reabra as receitas ensinadas após atualizar e confirme se os estoques mínimos ainda cobrem os ingredientes atuais.
+
 ## Habilidades do trabalhador
 
 - **Creativity:** aumenta a velocidade de produção.
@@ -65,3 +68,4 @@ Consulte [[content/04 - Profissões/Chef - Chef]].
 ## Fontes
 
 - [Chef's Kitchen — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/kitchen/)
+- [PR #11683 — Food Adjustments #1](https://github.com/ldtteam/minecolonies/pull/11683)
