@@ -1,0 +1,20 @@
+name: Validar UTF-8
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  utf8-sem-bom:
+    name: UTF-8 sem BOM
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+
+      - name: Verificar arquivos textuais
+        shell: pwsh
+        run: ./.github/scripts/check-utf8.ps1

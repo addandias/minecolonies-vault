@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Enchanter’s Tower
 nome_pt: Torre do Encantador

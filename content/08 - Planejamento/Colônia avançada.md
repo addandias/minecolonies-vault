@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: guia
 status: publicado
 ultima_revisao: 2026-07-20

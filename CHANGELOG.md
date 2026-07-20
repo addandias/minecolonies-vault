@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 Todas as mudanças relevantes do projeto serão registradas aqui.
 
@@ -164,3 +164,4 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Categorias separadas em `Saúde` para Hospital, `Serviços` para Tavern e Graveyard, e `Especializadas` para conteúdo mágico e dimensional.
 - Construções com lacunas editoriais reclassificadas como `em_revisao`, com os tópicos faltantes registrados em `revisao_pendente`.
 - Referências operacionais alinhadas ao novo comportamento de pathfinding e chunks descarregados da 1.1.1259.
+- Arquivos textuais padronizados em UTF-8 sem BOM, com EditorConfig e validação automática no GitHub Actions.

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: referencia
 status: publicado
 ultima_revisao: 2026-07-16

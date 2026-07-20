@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Mystical Site
 nome_pt: Local Místico

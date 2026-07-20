@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Shepherd’s Hut
 nome_pt: Aprisco

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 status: ativo
 tags:

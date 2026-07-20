@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Swineherd’s Hut
 nome_pt: Chiqueiro

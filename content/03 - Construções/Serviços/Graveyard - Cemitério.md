@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Graveyard
 nome_pt: Cemitério

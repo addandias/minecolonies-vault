@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Enchanter
 nome_pt: Encantador

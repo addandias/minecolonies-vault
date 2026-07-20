@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: guia
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259

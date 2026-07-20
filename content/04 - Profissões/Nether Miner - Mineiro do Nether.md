@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Nether Miner
 nome_pt: Mineiro do Nether

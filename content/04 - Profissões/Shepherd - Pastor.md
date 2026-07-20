@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Shepherd
 nome_pt: Pastor
