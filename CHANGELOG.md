@@ -129,6 +129,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Alterado
 
+- Aviso e estado atual do README reformulados para apresentar o Vault como projeto pré-1.0 e diferenciá-lo da classificação `prerelease` do mod.
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
 - Configuração do plugin de modelos apontada para `content/10 - Modelos`.
 - Nome canônico da antiga Citizen's Hut atualizado para Residence, preservando aliases.

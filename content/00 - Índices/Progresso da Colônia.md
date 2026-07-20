@@ -111,5 +111,6 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 - [x] Cobertura das mudanças relevantes da snapshot 1.1.1259
 - [x] Separação das categorias Saúde, Serviços e Especializadas
 - [x] Padronização UTF-8 sem BOM e validação automática
+- [x] Aviso do estado pré-1.0 e distinção da versão `prerelease` do mod
 - [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0

@@ -2,8 +2,8 @@
 
 Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1259 para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
 
-> [!NOTE]
-> O projeto está em construção. Páginas `rascunho` ainda precisam de pesquisa; páginas `em_revisao` já possuem conteúdo útil, mas conservam pendências editoriais explícitas no campo `revisao_pendente`.
+> [!WARNING] Projeto em estado pré-1.0
+> O Vault já possui conteúdo utilizável, mas ainda passa por revisão antes da primeira versão estável. Estrutura, nomes, links e orientações podem mudar; páginas `rascunho` ainda precisam de pesquisa, enquanto páginas `em_revisao` conservam pendências editoriais explícitas no campo `revisao_pendente`.
 
 ## O que você encontrará
 
@@ -36,7 +36,9 @@ O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na v
 
 ## Estado atual
 
-Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] e o [CHANGELOG](CHANGELOG.md).
+O projeto está em fase **pré-1.0**: a estrutura principal e os lotes planejados já estão disponíveis, mas a revisão editorial das construções e a auditoria final ainda não foram concluídas. Esse estado descreve a maturidade do Vault e não deve ser confundido com o tipo `prerelease` da versão de referência do MineColonies.
+
+Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] para acompanhar as pendências e o [CHANGELOG](CHANGELOG.md) para conferir as alterações já incorporadas.
 
 ## Abrir no Obsidian
 
