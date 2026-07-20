@@ -13,7 +13,7 @@ nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, magia, encantamentos, lote-8a]
+tags: [minecolonies, construção, magia, encantamentos, lote-8a, lote-10d]
 ---
 
 # Enchanter’s Tower — Torre do Encantador
@@ -54,6 +54,12 @@ O nível da construção e **Knowledge** do trabalhador influenciam a qualidade 
 - Evite ensinar pergaminhos que não serão usados, reduzindo pedidos desnecessários.
 - Suba a torre para o nível 3 antes de tratá-la como parte da defesa contra invasores.
 
+## Missões de pergaminhos
+
+A snapshot 1.1.1259 adiciona cinco missões narrativas ligadas aos pergaminhos. Elas envolvem outros cidadãos e construções, exigem entregas específicas e oferecem pergaminhos, itens ou felicidade como recompensa.
+
+Os requisitos variam entre os níveis 1 e 3 da torre. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões da snapshot 1.1.1259|Missões da snapshot 1.1.1259]] para a tabela completa.
+
 ## Profissão
 
 [[content/04 - Profissões/Enchanter - Encantador]]
@@ -67,3 +73,5 @@ O nível da construção e **Knowledge** do trabalhador influenciam a qualidade 
 
 - [Enchanter’s Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/enchanter/)
 - [Enchantments — Wiki oficial do MineColonies](https://minecolonies.com/wiki/misc/enchantments/)
+- [PR #11650 — cinco missões de pergaminhos](https://github.com/ldtteam/minecolonies/pull/11650)
+- [PR #11727 — compatibilidade das missões com Minecraft 1.20.1](https://github.com/ldtteam/minecolonies/pull/11727)

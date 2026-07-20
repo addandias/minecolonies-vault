@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: publicado
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, defesa, lote-5, lote-10b]
+tags: [minecolonies, construção, defesa, lote-5, lote-10b, lote-10d]
 ---
 
 # Guard Tower — Torre de Guarda
@@ -50,6 +50,8 @@ O aumento do alcance permite cobrir rotas mais longas, mas cada Guard Tower cont
 
 Use o **Guard Scepter** para definir postos e rotas. Configure a lista de hostis, retirada com pouca vida e estoque mínimo de equipamento.
 
+Na snapshot 1.1.1259, Guards ignoram pontos de patrulha em chunks descarregados. Isso evita tentativas repetidas de alcançar uma área indisponível, mas significa que a rota só volta a ser percorrida quando o local estiver carregado.
+
 ## Posicionamento
 
 Cubra acessos, bairros residenciais, produtores isolados e pontos cegos. Evite sobrepor todas as torres no centro enquanto a borda permanece aberta.
@@ -66,3 +68,4 @@ Cubra acessos, bairros residenciais, produtores isolados e pontos cegos. Evite s
 
 - [Guard Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/guardtower/)
 - [PR #11717 — novos tipos de Guard](https://github.com/ldtteam/minecolonies/pull/11717)
+- [PR #11736 — cidadãos e patrulhas em áreas descarregadas](https://github.com/ldtteam/minecolonies/pull/11736)

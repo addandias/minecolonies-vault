@@ -119,6 +119,14 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Dining Hall documentado com estimativa diária de ingredientes.
 - Bakery e Baker atualizados com novas receitas e menor perda de garrafas.
 
+##### PR 10D — Operação e missões na snapshot 1.1.1259
+
+- Cinco missões narrativas de pergaminhos do Enchanter documentadas com requisitos e recompensas.
+- Nova configuração de limite do pathfinding e melhorias em pontes, escadas e áreas descarregadas.
+- Field atualizado com a opção de lanterna no espantalho.
+- Correções operacionais de Florist e esquemas Medieval da Crusher’s Hut.
+- Cobertura das mudanças relevantes da snapshot 1.1.1259 concluída.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -147,6 +155,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Modelos editoriais atualizados para preservar a versão de referência e registrar pendências de revisão.
 - Índices, construções militares, defesa e planejamento atualizados para o Lote 10B.
 - Alimentação, construções relacionadas, profissão Baker e planejamento produtivo atualizados para o Lote 10C.
+- Magia, administração, agricultura, produção, defesa e suporte atualizados para o Lote 10D.
 
 ### Corrigido
 
@@ -154,3 +163,4 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
 - Categorias de Graveyard, Hospital e Tavern alinhadas à pasta `Especializadas`.
 - Construções com lacunas editoriais reclassificadas como `em_revisao`, com os tópicos faltantes registrados em `revisao_pendente`.
+- Referências operacionais alinhadas ao novo comportamento de pathfinding e chunks descarregados da 1.1.1259.

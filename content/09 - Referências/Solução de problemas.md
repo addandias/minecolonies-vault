@@ -1,8 +1,11 @@
 ﻿---
 tipo: referencia
+versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, diagnóstico, suporte, lote-9b]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, diagnóstico, suporte, lote-9b, lote-10d]
 ---
 
 # Solução de problemas
@@ -21,6 +24,16 @@ tags: [minecolonies, diagnóstico, suporte, lote-9b]
 | Felicidade baixa | Fome, doença, moradia, emprego, luto e distância | [[content/02 - Administração/Felicidade dos cidadãos]] |
 | Guardas falham | Cobertura, equipamento, treinamento e alimento | [[content/07 - Defesa/Estratégia defensiva]] |
 | Expedição do Nether não inicia | Pesquisa, trabalhador, alimento e pedidos | [[content/06 - Recursos e Produção/Expedições ao Nether]] |
+| Cidadão não encontra a rota | Ponte, escada, água, chunks e bloqueios físicos | [[content/02 - Administração/Configurações da colônia#Pathfinding na 1.1.1259|Configurações da colônia]] |
+| Cidadão desaparece em área distante | Chunks descarregados, casa e trabalho válidos | Seção abaixo |
+
+## Áreas parcialmente descarregadas
+
+Na snapshot 1.1.1259, um cidadão pode desaparecer temporariamente depois de insistir em uma rota para uma área descarregada. Se possui casa ou trabalho válido, ele não deve reaparecer na Town Hall: o retorno ocorre ao nascer do sol ou na verificação periódica de cinco minutos.
+
+Antes de usar Recall Workers, carregue a casa, o trabalho e o caminho entre eles. Guards também pulam pontos de patrulha descarregados.
+
+As melhorias da mesma versão tornam pontes mais atraentes que travessias a nado e estabilizam o movimento em escadas. Se o erro persistir com todos os chunks carregados, revise a geometria da rota e só depois considere aumentar `pathNodeLimitMultiplier`.
 
 ## Método de isolamento
 
@@ -46,3 +59,9 @@ Informe:
 - pedido exibido na interface;
 - trecho relevante do log, quando houver erro;
 - passos para reproduzir o problema.
+
+## Fontes
+
+- [PR #11698 — melhorias de pathfinding e pontes](https://github.com/ldtteam/minecolonies/pull/11698)
+- [PR #11721 — melhorias de escadas e movimento](https://github.com/ldtteam/minecolonies/pull/11721)
+- [PR #11736 — cidadãos em colônias parcialmente descarregadas](https://github.com/ldtteam/minecolonies/pull/11736)

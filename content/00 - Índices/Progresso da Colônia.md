@@ -107,5 +107,7 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 - [x] Padronização da versão de referência e auditoria estrutural das construções
 - [x] Lote 10B — Huscarl, Marksman e defesa atualizada para a snapshot 1.1.1259
 - [x] Lote 10C — alimentação, tiers, receitas e segurança alimentar na snapshot 1.1.1259
+- [x] Lote 10D — missões, navegação e correções operacionais da snapshot 1.1.1259
+- [x] Cobertura das mudanças relevantes da snapshot 1.1.1259
 - [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0
