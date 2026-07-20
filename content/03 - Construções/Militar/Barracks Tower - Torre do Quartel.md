@@ -7,10 +7,10 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 nivel_maximo: 5
-trabalhadores: [Knight, Archer, Druid]
+trabalhadores: [Knight, Archer, Druid, Huscarl, Marksman]
 status: publicado
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, defesa, guardas, lote-10a]
+tags: [minecolonies, construção, defesa, guardas, lote-10a, lote-10b]
 ---
 
 # Barracks Tower — Torre do Quartel
@@ -47,7 +47,9 @@ Cada novo Guard precisa inicialmente de uma vaga em Residence para surgir. Depoi
 
 - [[content/04 - Profissões/Knight - Cavaleiro|Knight]] — combate corpo a corpo;
 - [[content/04 - Profissões/Archer - Arqueiro|Archer]] — ataque a distância;
-- [[content/04 - Profissões/Druid - Druida|Druid]] — suporte militar.
+- [[content/04 - Profissões/Druid - Druida|Druid]] — suporte militar;
+- [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] — machado e pressão contra armadura; requer **Sliced and Diced!**;
+- [[content/04 - Profissões/Marksman - Atirador|Marksman]] — besta e ataque contra armadura; requer **That hit the mark!**.
 
 ## Configurações recomendadas
 
@@ -77,4 +79,5 @@ As posições das torres vêm prontas no esquema do Barracks. A decisão estrat�
 - [Barracks Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/barrackstower/)
 - [Barracks — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/barracks/)
 - [Mine — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/miner/)
+- [PR #11717 — novos tipos de Guard](https://github.com/ldtteam/minecolonies/pull/11717)
 

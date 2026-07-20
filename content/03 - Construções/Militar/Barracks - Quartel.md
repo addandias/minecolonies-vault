@@ -12,7 +12,7 @@ nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, defesa, lote-5]
+tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 ---
 
 # Barracks — Quartel
@@ -46,6 +46,8 @@ Cada [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barr
 
 A partir do nível 3, o Barracks pode contratar espiões durante invasões para destacar inimigos. Torres configuram patrulha, guarda, acompanhamento, hostis e equipamento individualmente.
 
+As Barracks Towers aceitam Knight, Archer, Druid e, após as pesquisas correspondentes, os novos Guards [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]].
+
 ## Posicionamento
 
 Reserve uma área grande e coloque o complexo próximo ao setor mais vulnerável, sem afastá-lo tanto que Couriers e Guards percam tempo em deslocamento.
@@ -54,3 +56,4 @@ Reserve uma área grande e coloque o complexo próximo ao setor mais vulnerável
 
 - [Barracks — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/barracks/)
 - [Barracks Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/barrackstower/)
+- [PR #11717 — novos tipos de Guard](https://github.com/ldtteam/minecolonies/pull/11717)

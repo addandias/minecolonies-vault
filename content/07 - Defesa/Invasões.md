@@ -1,8 +1,8 @@
 ---
 tipo: sistema
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, defesa, invasões, lote-5]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, defesa, invasões, lote-5, lote-10b]
 ---
 
 # Invasões
@@ -10,6 +10,15 @@ tags: [minecolonies, defesa, invasões, lote-5]
 ## Como surgem
 
 Raids aparecem em noites aleatórias. Os invasores normalmente surgem fora da colônia, mas edifícios muito espalhados podem criar espaços onde o ponto de surgimento fica entre setores habitados.
+
+## Mudanças na snapshot 1.1.1259
+
+Quando o tipo de raid não é definido previamente, o mod sorteia **Barbarians em dois terços dos casos** e **Norsemen em um terço**. Com isso, ataques Norsemen podem ocorrer em qualquer local, sem depender do bioma.
+
+Os atributos básicos dos grupos de invasores passaram a responder de forma mais explícita à dificuldade do mundo. Os Norsemen também foram rebalanceados: receberam mais armadura e menos vida.
+
+> [!NOTE] Análise do Vault
+> Como a armadura ganhou importância nos ataques Norsemen, [[content/04 - Profissões/Huscarl - Huscarl|Huscarls]] e [[content/04 - Profissões/Marksman - Atirador|Marksmen]] podem ajudar por converterem parte do dano em uma parcela que ignora armadura. Preserve Knights para bloqueio e proteja as unidades de longo alcance.
 
 ## Durante o ataque
 
@@ -42,3 +51,5 @@ Um Barracks de nível 3 ou superior pode contratar espiões durante a invasão, 
 - [Barracks — Wiki oficial](https://minecolonies.com/wiki/buildings/barracks/)
 - [Barracks Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/barrackstower/)
 - [Gatehouse — Wiki oficial](https://minecolonies.com/wiki/buildings/gatehouse/)
+- [PR #11717 — Huscarl, Marksman e rebalanceamento de invasores](https://github.com/ldtteam/minecolonies/pull/11717)
+- [MineColonies 1.20.1-1.1.1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)

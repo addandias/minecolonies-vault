@@ -14,7 +14,7 @@ nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, treinamento, lote-5]
+tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ---
 
 # Archery — Campo de Arquearia
@@ -42,6 +42,11 @@ Trainees passam a residir na Archery, liberando a cama anterior. Eles ainda não
 
 Mantenha arcos e munição disponíveis, treine antes de abrir vagas nas torres e combine arqueiros com Knights que bloqueiem inimigos próximos.
 
+## Pesquisa relacionada
+
+No nível 3, a Archery atende ao requisito de construção da pesquisa **That hit the mark!**. Ela custa cinco bestas, depende de **Improved Bows** e libera o [[content/04 - Profissões/Marksman - Atirador|Marksman]] como tipo de Guard. A Archery continua treinando Archers; o Marksman trabalha em Guard Towers e Barracks Towers.
+
 ## Fontes
 
 - [Archery — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/archery/)
+- [PR #11717 — pesquisa That hit the mark!](https://github.com/ldtteam/minecolonies/pull/11717)

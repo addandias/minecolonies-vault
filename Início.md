@@ -63,6 +63,8 @@ Bem-vindo ao guia em português de MineColonies para Minecraft 1.20.1. Escolha u
 - [[content/07 - Defesa/Invasões]]
 - [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda]]
 - [[content/03 - Construções/Militar/Barracks - Quartel]]
+- [[content/04 - Profissões/Huscarl - Huscarl]]
+- [[content/04 - Profissões/Marksman - Atirador]]
 
 ## 📈 Acompanhar o desenvolvimento
 

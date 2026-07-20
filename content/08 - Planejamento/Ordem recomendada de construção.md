@@ -3,8 +3,8 @@ tipo: guia
 nome: Ordem recomendada de construção
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, planejamento, lote-1, lote-9a]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, planejamento, lote-1, lote-9a, lote-10b]
 ---
 
 # Ordem recomendada de construção
@@ -66,6 +66,7 @@ Consulte [[content/06 - Recursos e Produção/Matriz de receitas e oficinas]] an
 4. Barracks, Combat Academy e Archery para defesa em escala
 5. Barracks Towers melhoradas junto do Barracks
 6. Gatehouse quando a entrada formal ou a conexão entre colônias fizer parte do plano
+7. Combat Academy e Archery no nível 3 para pesquisar Huscarl e Marksman quando invasores com armadura exigirem especialização
 
 ## Fase 7 — Diversificação
 
