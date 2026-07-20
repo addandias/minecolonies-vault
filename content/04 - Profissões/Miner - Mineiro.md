@@ -4,8 +4,10 @@ nome: Miner
 nome_pt: Mineiro
 construcao: Mine
 versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1232
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, profissão, mineração, lote-2]
 ---
 

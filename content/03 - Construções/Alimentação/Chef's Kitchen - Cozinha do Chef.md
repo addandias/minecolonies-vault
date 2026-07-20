@@ -5,11 +5,14 @@ nome_pt: Cozinha do Chef
 aliases: [Cookery]
 categoria: Alimentação
 versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1232
+tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: Chef
-status: publicado
-ultima_revisao: 2026-07-16
+status: em_revisao
+revisao_pendente: [progressao, posicionamento]
+ultima_revisao: 2026-07-20
 tags: [minecolonies, construção, alimentação, lote-2]
 ---
 

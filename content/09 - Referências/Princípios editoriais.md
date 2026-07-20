@@ -14,7 +14,8 @@ Este Vault deve parecer uma central de planejamento de colônia: útil, visual, 
 
 ## Precisão
 
-- Verificar informações para Minecraft 1.20.1 usando MineColonies 1.1.1232 como versão de referência.
+- Verificar informações para Minecraft 1.20.1 usando MineColonies 1.1.1232, tag `v1.20.1-1.1.1232-snapshot`, como versão de referência.
+- Registrar essa versão como `tipo_versao: prerelease`, acompanhando a classificação pública adotada pelos desenvolvedores.
 - Separar fatos confirmados, recomendações e experiências práticas.
 - Não inventar requisitos, materiais, desbloqueios ou imagens.
 - Registrar fontes próximas das afirmações que sustentam.
@@ -37,6 +38,6 @@ Este Vault deve parecer uma central de planejamento de colônia: útil, visual, 
 ## Status
 
 - `rascunho`: estrutura criada, pesquisa incompleta.
-- `em_revisao`: conteúdo escrito, aguardando conferência.
+- `em_revisao`: conteúdo escrito, aguardando conferência ou complementação indicada em `revisao_pendente`.
 - `publicado`: conteúdo revisado, com fontes para fatos externos ou identificação clara quando for análise própria do Vault.
 - `desatualizado`: precisa ser revisto para a versão indicada.

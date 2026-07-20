@@ -5,10 +5,11 @@ nome_pt: Torre do Quartel
 categoria: Militar
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1232
+tipo_versao: prerelease
 nivel_maximo: 5
 trabalhadores: [Knight, Archer, Druid]
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, construção, defesa, guardas, lote-10a]
 ---
 

@@ -3,7 +3,7 @@
 Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1232 para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
 
 > [!NOTE]
-> O projeto está em construção. As páginas marcadas como `rascunho` ainda precisam de pesquisa e revisão.
+> O projeto está em construção. Páginas `rascunho` ainda precisam de pesquisa; páginas `em_revisao` já possuem conteúdo útil, mas conservam pendências editoriais explícitas no campo `revisao_pendente`.
 
 ## O que você encontrará
 
@@ -29,8 +29,10 @@ Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]]
 
 - **Minecraft:** 1.20.1
 - **MineColonies:** 1.1.1232
+- **Tipo da versão:** `prerelease`
+- **Tag oficial:** `v1.20.1-1.1.1232-snapshot`
 
-As páginas do Vault usam essa combinação como referência. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
+O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. As páginas do Vault usam essa combinação como referência. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
 
 ## Estado atual
 

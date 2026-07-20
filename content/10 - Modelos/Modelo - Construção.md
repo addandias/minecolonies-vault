@@ -4,11 +4,13 @@ nome:
 nome_pt:
 categoria:
 versao_minecraft: 1.20.1
-versao_minecolonies:
+versao_minecolonies: 1.1.1232
+tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador:
 status: rascunho
+revisao_pendente: []
 ultima_revisao:
 tags:
   - minecolonies

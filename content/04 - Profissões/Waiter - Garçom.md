@@ -5,8 +5,10 @@ nome_pt: Garçom
 aliases: [Cook, Cozinheiro]
 construcao: Dining Hall
 versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1232
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, profissão, alimentação, lote-2]
 ---
 

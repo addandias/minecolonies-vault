@@ -130,8 +130,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Fluxo seguro de integração entre Obsidian Git e GitHub documentado no README.
 - Arquivos executáveis e configurações locais de plugins adicionados ao `.gitignore`.
 - Mine, índices, matriz produtiva, defesa e planejamento ampliados para o Lote 10A.
+- Metadados de construções e profissões padronizados para Minecraft 1.20.1, MineColonies 1.1.1232 e `tipo_versao: prerelease`.
+- Modelos editoriais atualizados para preservar a versão de referência e registrar pendências de revisão.
 
 ### Corrigido
 
 - Páginas analíticas identificadas como recomendações editoriais do Vault.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
+- Categorias de Graveyard, Hospital e Tavern alinhadas à pasta `Especializadas`.
+- Construções com lacunas editoriais reclassificadas como `em_revisao`, com os tópicos faltantes registrados em `revisao_pendente`.
