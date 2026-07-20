@@ -4,8 +4,11 @@ nome: Doctor
 nome_pt: Médico
 aliases: [Healer]
 construcao: Hospital
+versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, profissão, saúde, lote-4]
 ---
 

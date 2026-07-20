@@ -4,10 +4,12 @@ nome: Field
 nome_pt: Campo
 categoria: Alimentação
 versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 nivel_maximo: 1
 trabalhador: Farmer
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, agricultura, campo, lote-2]
 ---
 

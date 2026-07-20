@@ -104,4 +104,6 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 
 - [x] Integração operacional — Obsidian e GitHub
 - [x] Lote 10A — Quarry, Stable, Gatehouse, Barracks Tower, Quarrier e Stablemaster
+- [x] Padronização da versão de referência e auditoria estrutural das construções
+- [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0

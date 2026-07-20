@@ -7,10 +7,13 @@ categoria: Produção
 trabalhador: Brickmaker
 pesquisa: The Flintstones
 versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5
-status: publicado
-ultima_revisao: 2026-07-16
+status: em_revisao
+revisao_pendente: [operacao_config, posicionamento]
+ultima_revisao: 2026-07-20
 tags: [minecolonies, construção, alvenaria, lote-3]
 ---
 

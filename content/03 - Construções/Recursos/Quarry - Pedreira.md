@@ -4,11 +4,12 @@ nome: Quarry
 nome_pt: Pedreira
 categoria: Recursos
 versao_minecraft: 1.20.1
-versao_minecolonies: 1.1.1232
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 nivel_maximo: 1
 trabalhador: Quarrier
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, construção, mineração, pedreira, lote-10a]
 ---
 

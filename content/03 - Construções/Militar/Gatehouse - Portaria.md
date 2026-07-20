@@ -4,10 +4,11 @@ nome: Gatehouse
 nome_pt: Portaria
 categoria: Militar
 versao_minecraft: 1.20.1
-versao_minecolonies: 1.1.1232
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 nivel_maximo: 5
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-20
 tags: [minecolonies, construção, defesa, conexão, lote-10a]
 ---
 
