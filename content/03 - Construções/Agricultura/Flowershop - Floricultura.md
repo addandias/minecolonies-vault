@@ -14,7 +14,7 @@ nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, flores, lote-6]
+tags: [minecolonies, construção, flores, lote-6, lote-10d]
 ---
 
 # Flowershop — Floricultura
@@ -41,6 +41,8 @@ O Florist usa Compost e machado para produzir flores. A construção exige **Flo
 
 Antes do nível 3, cultiva apenas papoulas e dentes-de-leão. A partir do nível 3, a lista **Plantables** permite escolher as flores autorizadas.
 
+Na snapshot 1.1.1259, a colheita passou a considerar corretamente o Florist e sua ferramenta ao consultar os drops. Isso corrige plantas como samambaias e grama, cujos drops dependem da ferramenta exigida pela loot table.
+
 ## Habilidades
 
 - **Dexterity:** aumenta a chance de colheita bem-sucedida.
@@ -57,3 +59,4 @@ Composter’s Hut → Compost → Flowershop → flores → Dyer’s Hut ou deco
 ## Fontes
 
 - [Flowershop — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/florist/)
+- [PR #11685 — correção da colheita do Florist](https://github.com/ldtteam/minecolonies/pull/11685)

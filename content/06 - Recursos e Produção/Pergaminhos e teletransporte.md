@@ -1,8 +1,11 @@
 ﻿---
 tipo: guia
+versao_minecraft: 1.20.1
+versao_minecolonies: 1.1.1259
+tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, pergaminhos, teletransporte, magia, lote-8a]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, pergaminhos, teletransporte, magia, lote-8a, lote-10d]
 ---
 
 # Pergaminhos e teletransporte
@@ -18,6 +21,21 @@ A Enchanter’s Tower pode produzir pergaminhos mágicos quando conhece a receit
 
 Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo pergaminhos para localizar trabalhadores e convocar guardas.
 
+## Missões da snapshot 1.1.1259
+
+| Missão | Requisitos principais | Recompensa central |
+|---|---|---|
+| **Things That Go Bump in the Night** | Enchanter’s Tower nível 2 ou superior e Enchanter | 3 Spatial Guard Reinforcements Scrolls, devolução de parte dos materiais e felicidade |
+| **A Promise to Keep** | Enchanter’s Tower nível 1 e um Knight | 3 Teleport Scrolls, torta de abóbora e felicidade do Guard |
+| **A Day in the Field** | Enchanter’s Tower nível 2 | 1 Group Teleport Scroll, devolução de 3 Teleport Scrolls e felicidade |
+| **Where’s the Builder?** | Enchanter’s Tower nível 3 e um Builder | 5 Worker-Where-Are-You Scrolls, devolução de materiais e felicidade |
+| **Ancient Magic** | Hospital nível 1, Enchanter e [[content/04 - Profissões/Doctor - Médico|Doctor (Healer)]] | 3 poções de Luck e felicidade prolongada do Doctor |
+
+As missões usam diálogos, entregas e etapas de retorno. Algumas pedem que o jogador espere e converse novamente no dia seguinte. Elas complementam as receitas da torre; não substituem o fluxo normal de fabricação sob pedido.
+
+> [!NOTE] Compatibilidade 1.20.1
+> As missões foram originalmente adicionadas com o formato de dados da 1.21.1 e corrigidas posteriormente para o esquema da 1.20.1. A correção já está presente na snapshot 1.1.1259 usada pelo Vault.
+
 ## Preparação logística
 
 - mantenha papel disponível;
@@ -32,3 +50,5 @@ Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo perg
 ## Fontes
 
 - [Enchanter’s Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/enchanter/)
+- [PR #11650 — Add Enchanter scroll quests](https://github.com/ldtteam/minecolonies/pull/11650)
+- [PR #11727 — Fix Enchanter scroll quests for 1.20.1](https://github.com/ldtteam/minecolonies/pull/11727)
