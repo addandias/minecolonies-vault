@@ -13,6 +13,8 @@ Este diretório reúne capturas em formato JPG e resolução **500 × 500**, org
 
 - `front.jpg`: vista frontal.
 - `back.jpg`: vista traseira.
-- pastas iniciadas por `alt`: variações alternativas da construção.
+- pastas iniciadas por `alt`: variantes arquitetônicas herdadas da organização original.
 
 A hierarquia original foi preservada para facilitar a rastreabilidade e a inclusão automática das imagens nas páginas do Vault.
+
+Novos conjuntos não devem copiar a convenção `alt...`. Use uma pasta por construção e guarde modelos alternativos em `variantes/<variante>/`. Frente, traseira e detalhes continuam sendo vistas do mesmo modelo, não variantes diferentes. Consulte [[assets/README|Organização dos assets]].

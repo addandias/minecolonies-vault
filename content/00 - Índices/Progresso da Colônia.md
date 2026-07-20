@@ -112,5 +112,6 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 - [x] Separação das categorias Saúde, Serviços e Especializadas
 - [x] Padronização UTF-8 sem BOM e validação automática
 - [x] Aviso do estado pré-1.0 e distinção da versão `prerelease` do mod
+- [x] Galerias e padrão de variantes para construções, profissões e itens
 - [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0

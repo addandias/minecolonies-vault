@@ -6,6 +6,9 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Sistema de galerias para construções, profissões e itens, com índice próprio, padrões de assets e uma galeria das variantes Medieval Dark Oak já disponíveis.
+- Modelo editorial para páginas individuais de itens.
+
 #### Fundação
 
 - Fundação do Vault para Obsidian.
@@ -129,6 +132,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Alterado
 
+- Modelos de construções e profissões preparados para galerias e variantes sem confundir vistas diferentes com modelos alternativos.
 - Aviso e estado atual do README reformulados para apresentar o Vault como projeto pré-1.0 e diferenciá-lo da classificação `prerelease` do mod.
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
 - Configuração do plugin de modelos apontada para `content/10 - Modelos`.
