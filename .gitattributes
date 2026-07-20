@@ -1,0 +1,2 @@
+# Inclui a documentação Markdown nas estatísticas de linguagem do GitHub.
+*.md linguist-detectable
