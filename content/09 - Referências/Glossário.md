@@ -1,8 +1,8 @@
 ﻿---
 tipo: referencia
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, glossário, lote-9b]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, glossário, lote-9b, lote-10b]
 ---
 
 # Glossário
@@ -18,8 +18,10 @@ tags: [minecolonies, glossário, lote-9b]
 | Dining Hall | Salão de Refeições | Distribui comida aos cidadãos; antigo Restaurant |
 | Field | Campo | Área agrícola vinculada à Farmer’s Hut |
 | Happiness | Felicidade | Indicador global das condições da colônia |
+| Huscarl | Huscarl | Guard corpo a corpo que usa machado |
 | Hut Level | Nível da construção | Progressão funcional de 1 a 5 |
 | Minimum Stock | Estoque mínimo | Quantidade que uma construção tenta manter disponível |
+| Marksman | Atirador | Guard de longo alcance que usa besta |
 | Pickup Priority | Prioridade de retirada | Ordem de atendimento dos Couriers |
 | Rack | Estante | Armazenamento interno das construções |
 | Recipe | Receita | Transformação ensinada a uma oficina |

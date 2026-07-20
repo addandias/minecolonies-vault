@@ -13,7 +13,7 @@ nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, treinamento, lote-5]
+tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ---
 
 # Combat Academy — Academia de Combate
@@ -47,6 +47,11 @@ Knights in Training precisam de espada e escudo. Ao serem contratados pela acade
 - **Adaptability:** aumenta a velocidade de ataque.
 - **Stamina:** aumenta a vida.
 
+## Pesquisa relacionada
+
+No nível 3, a Combat Academy atende ao requisito de construção da pesquisa **Sliced and Diced!**. Ela custa um machado de diamante, depende de **Improved Swords** e libera o [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] como tipo de Guard. A academia continua treinando Knights; o Huscarl trabalha em Guard Towers e Barracks Towers.
+
 ## Fontes
 
 - [Combat Academy — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/combatacademy/)
+- [PR #11717 — pesquisa Sliced and Diced!](https://github.com/ldtteam/minecolonies/pull/11717)

@@ -1,8 +1,8 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, defesa, estratégia, lote-5]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, defesa, estratégia, lote-5, lote-10b]
 ---
 
 # Estratégia defensiva
@@ -27,8 +27,13 @@ flowchart LR
 | Knight | Bloqueio e combate próximo |
 | Archer | Dano a distância |
 | Druid | Suporte e efeitos |
+| Huscarl | Combate com machado e pressão contra armadura |
+| Marksman | Ataque com besta e pressão contra armadura |
 
-Use Knights na frente, Archers com linha de visão e Druids protegidos. Não existe proporção universal: florestas, montanhas e muralhas mudam o valor de cada tipo.
+Use Knights na frente, Archers com linha de visão e Druids protegidos. Após desbloquear as pesquisas, Huscarls ajudam contra alvos blindados no corpo a corpo e Marksmen cumprem essa função a distância.
+
+> [!NOTE] Análise do Vault
+> Huscarl e Marksman ampliam as opções, mas não tornam Knight e Archer obsoletos. O Huscarl abre mão do escudo; o Marksman depende de linha de visão e proteção. Não existe proporção universal: terreno, muralhas, equipamento e composição da invasão mudam o valor de cada tipo.
 
 ## Cobertura
 
@@ -43,7 +48,7 @@ Use Knights na frente, Archers com linha de visão e Druids protegidos. Não exi
 ## Checklist antes da noite
 
 - [ ] Guards empregados e alimentados.
-- [ ] Armas, armaduras, escudos e flechas disponíveis.
+- [ ] Armas, armaduras, escudos, flechas, machados e bestas disponíveis para a composição escolhida.
 - [ ] Retirada com pouca vida configurada.
 - [ ] Lista de hostis revisada.
 - [ ] Portões acessíveis aos defensores.
@@ -57,6 +62,8 @@ Use Knights na frente, Archers com linha de visão e Druids protegidos. Não exi
 - [[content/03 - Construções/Militar/Barracks - Quartel]]
 - [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel]]
 - [[content/03 - Construções/Militar/Gatehouse - Portaria]]
+- [[content/04 - Profissões/Huscarl - Huscarl]]
+- [[content/04 - Profissões/Marksman - Atirador]]
 
 ## Fontes
 
@@ -65,3 +72,4 @@ Use Knights na frente, Archers com linha de visão e Druids protegidos. Não exi
 - [Barracks Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/barrackstower/)
 - [Gatehouse — Wiki oficial](https://minecolonies.com/wiki/buildings/gatehouse/)
 - [Raids — Wiki oficial](https://minecolonies.com/wiki/systems/raid/)
+- [PR #11717 — Huscarl, Marksman e rebalanceamento de invasores](https://github.com/ldtteam/minecolonies/pull/11717)

@@ -10,10 +10,9 @@ versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5
-status: em_revisao
-revisao_pendente: [progressao]
+status: publicado
 ultima_revisao: 2026-07-20
-tags: [minecolonies, construção, defesa, lote-5]
+tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 ---
 
 # Guard Tower — Torre de Guarda
@@ -41,6 +40,8 @@ A Guard Tower emprega e abriga um Guard. Torres próximas de casas e trabalhos a
 | 4 | 170 blocos |
 | 5 | 200 blocos |
 
+O aumento do alcance permite cobrir rotas mais longas, mas cada Guard Tower continua abrigando um único Guard. Melhorar a torre amplia sua área operacional; distribuir torres continua necessário para eliminar pontos cegos.
+
 ## Tarefas
 
 - **Patrol:** percorre cabanas automaticamente ou pontos manuais.
@@ -58,7 +59,10 @@ Cubra acessos, bairros residenciais, produtores isolados e pontos cegos. Evite s
 - [[content/04 - Profissões/Knight - Cavaleiro]]
 - [[content/04 - Profissões/Archer - Arqueiro]]
 - [[content/04 - Profissões/Druid - Druida]]
+- [[content/04 - Profissões/Huscarl - Huscarl]] — requer **Sliced and Diced!**
+- [[content/04 - Profissões/Marksman - Atirador]] — requer **That hit the mark!**
 
 ## Fontes
 
 - [Guard Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/guardtower/)
+- [PR #11717 — novos tipos de Guard](https://github.com/ldtteam/minecolonies/pull/11717)

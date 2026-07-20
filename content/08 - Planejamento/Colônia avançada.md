@@ -1,8 +1,8 @@
 ﻿---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
-tags: [minecolonies, planejamento, colônia-avançada, lote-9a]
+ultima_revisao: 2026-07-20
+tags: [minecolonies, planejamento, colônia-avançada, lote-9a, lote-10b]
 ---
 
 # Colônia avançada
@@ -49,6 +49,11 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 - guardas recebem equipamento sem intervenção constante;
 - mortes e doenças não provocam colapso operacional;
 - projetos grandes não esvaziam todos os estoques estratégicos.
+- composição militar combina Guards gerais e especializados conforme o tipo de invasor.
+
+## Especialização militar
+
+Com Combat Academy e Archery no nível 3, desenvolva **Sliced and Diced!** e **That hit the mark!** para liberar [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]]. Eles acrescentam opções contra armadura às Guard Towers e Barracks Towers.
 
 > [!NOTE] Análise do Vault
 > Autossuficiência absoluta não é necessária. Automatize primeiro itens frequentes e previsíveis; mantenha recursos raros e projetos excepcionais sob controle do jogador.

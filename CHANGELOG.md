@@ -106,6 +106,12 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Profissões Quarrier e Stablemaster.
 - Integração da extração pesada, criação equina e novas estruturas defensivas aos índices e guias existentes.
 
+##### PR 10B — Defesa atualizada para a snapshot 1.1.1259
+
+- Profissões militares Huscarl e Marksman, com pesquisas, equipamento e funções táticas.
+- Mudanças na distribuição das invasões, dificuldade dos raiders e rebalanceamento dos Norsemen.
+- Composição defensiva ampliada para os cinco tipos de Guard documentados.
+
 ### Alterado
 
 - Pastas numeradas agrupadas em `content` para simplificar a raiz do Vault.
@@ -132,6 +138,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 - Mine, índices, matriz produtiva, defesa e planejamento ampliados para o Lote 10A.
 - Metadados de construções e profissões padronizados para Minecraft 1.20.1, MineColonies 1.1.1259 e `tipo_versao: prerelease`.
 - Modelos editoriais atualizados para preservar a versão de referência e registrar pendências de revisão.
+- Índices, construções militares, defesa e planejamento atualizados para o Lote 10B.
 
 ### Corrigido
 
