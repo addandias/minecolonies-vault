@@ -114,5 +114,6 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 - [x] Aviso do estado pré-1.0 e distinção da versão `prerelease` do mod
 - [x] Galerias e padrão de variantes para construções, profissões e itens
 - [x] Registros editoriais de versão no formato curto `1259-snapshot`
+- [x] Verificador local e GitHub Actions para conteúdo e estrutura do Vault
 - [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0

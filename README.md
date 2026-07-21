@@ -66,6 +66,16 @@ O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidia
 
 Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
 
+### Validar antes de contribuir
+
+Na raiz do repositório, execute:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.github/scripts/validate-vault.ps1
+```
+
+O verificador confere UTF-8 sem BOM, links e imagens do Obsidian, links Markdown locais, frontmatter das construções e profissões e a convenção curta dos registros de versão. O mesmo comando é executado automaticamente pelo GitHub Actions em cada `push` e pull request.
+
 ## Licença e atribuição
 
 MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
