@@ -6,6 +6,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Branch editorial permanente `vault-edits`, com fluxo de promoção validada para a `main` e proteção contra force-push e exclusão.
 - Verificador local do Vault e GitHub Actions compartilhado para validar codificação, referências, metadados editoriais e registros de versão.
 - Sistema de galerias para construções, profissões e itens, com índice próprio, padrões de assets e uma galeria das variantes Medieval Dark Oak já disponíveis.
 - Modelo editorial para páginas individuais de itens.
@@ -133,6 +134,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Alterado
 
+- Branch `main` protegida com pull request, verificação **Conteúdo e estrutura**, resolução de conversas e histórico linear obrigatórios.
 - Validação isolada de UTF-8 incorporada ao verificador completo, evitando automações duplicadas.
 - Registros editoriais de versão abreviados para `1259-snapshot`, mantendo o número técnico e a tag oficial completa nos metadados e links.
 - Modelos de construções e profissões preparados para galerias e variantes sem confundir vistas diferentes com modelos alternativos.

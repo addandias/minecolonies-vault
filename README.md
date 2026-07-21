@@ -76,6 +76,19 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.github/scripts/valida
 
 O verificador confere UTF-8 sem BOM, links e imagens do Obsidian, links Markdown locais, frontmatter das construções e profissões e a convenção curta dos registros de versão. O mesmo comando é executado automaticamente pelo GitHub Actions em cada `push` e pull request.
 
+### Fluxo de edição protegido
+
+O trabalho editorial contínuo deve ser feito na branch `vault-edits`:
+
+1. Atualize `vault-edits` antes de começar.
+2. Faça e revise as alterações no Vault.
+3. Execute o verificador local.
+4. Envie as alterações para `vault-edits`.
+5. Abra um pull request de `vault-edits` para `main`.
+6. Mescle somente depois que a verificação **Conteúdo e estrutura** estiver aprovada e todas as conversas estiverem resolvidas.
+
+A branch `main` exige pull request, validação atualizada com a base e histórico linear. Force-push e exclusão estão bloqueados tanto em `main` quanto em `vault-edits`. Atualmente, somente **addandias** possui permissão de escrita e mesclagem no repositório.
+
 ## Licença e atribuição
 
 MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
