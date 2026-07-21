@@ -27,7 +27,7 @@ flowchart LR
 
 ## Qualidade e tiers
 
-Refeições do MineColonies possuem um tier próprio: bronze, prata ou ouro. Na snapshot 1.1.1259, os valores e tiers foram rebalanceados para aproximar alimentos da mesma categoria. A nutrição usada pelos cidadãos também favorece as refeições do mod em relação à comida comum.
+Refeições do MineColonies possuem um tier próprio: bronze, prata ou ouro. Em 1259-snapshot, os valores e tiers foram rebalanceados para aproximar alimentos da mesma categoria. A nutrição usada pelos cidadãos também favorece as refeições do mod em relação à comida comum.
 
 Comidas vanilla normalmente aparecem sem classificação. Uma comida vanilla só alcança bronze quando combina nutrição e saturação excepcionalmente altas; portanto, continua sendo mais seguro desenvolver um cardápio do MineColonies.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: referencia
 status: publicado
 ultima_revisao: 2026-07-20
@@ -19,6 +19,7 @@ tags: [minecolonies, fontes, metodologia, lote-9b, lote-10d]
 - Minecraft 1.20.1
 - MineColonies 1.1.1259
 - Tipo: `prerelease`
+- Registro curto: `1259-snapshot`
 - Tag: `v1.20.1-1.1.1259-snapshot`
 
 A classificação `prerelease` reproduz o estado atribuído pelos desenvolvedores à versão pública no GitHub. Uma página pode consultar documentação mais recente para localizar o conceito, mas deve evitar transportar números ou regras incompatíveis sem conferência.
@@ -36,14 +37,14 @@ A classificação `prerelease` reproduz o estado atribuído pelos desenvolvedore
 
 - [Wiki oficial do MineColonies](https://minecolonies.com/wiki/)
 - [Repositório oficial](https://github.com/ldtteam/minecolonies)
-- [Release oficial v1.20.1-1.1.1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)
+- [Release oficial 1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)
 - [MineColonies no CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 
-## Cobertura da snapshot 1.1.1259
+## Cobertura de 1259-snapshot
 
 As mudanças com impacto direto no jogador foram distribuídas pelos Lotes 10B, 10C e 10D. A comparação oficial completa permanece como referência para correções internas, compatibilidade e alterações visuais que não exigem instruções próprias no Vault.
 
-- [Comparação oficial 1.1.1232 → 1.1.1259](https://github.com/ldtteam/minecolonies/compare/v1.20.1-1.1.1232-snapshot...v1.20.1-1.1.1259-snapshot)
+- [Comparação oficial 1232-snapshot → 1259-snapshot](https://github.com/ldtteam/minecolonies/compare/v1.20.1-1.1.1232-snapshot...v1.20.1-1.1.1259-snapshot)
 - **Lote 10B:** Guards e invasões;
 - **Lote 10C:** alimentação e receitas;
 - **Lote 10D:** missões, navegação e correções operacionais.

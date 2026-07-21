@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Cowhand
 nome_pt: Vaqueiro

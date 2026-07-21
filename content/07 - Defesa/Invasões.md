@@ -11,7 +11,7 @@ tags: [minecolonies, defesa, invasões, lote-5, lote-10b]
 
 Raids aparecem em noites aleatórias. Os invasores normalmente surgem fora da colônia, mas edifícios muito espalhados podem criar espaços onde o ponto de surgimento fica entre setores habitados.
 
-## Mudanças na snapshot 1.1.1259
+## Mudanças em 1259-snapshot
 
 Quando o tipo de raid não é definido previamente, o mod sorteia **Barbarians em dois terços dos casos** e **Norsemen em um terço**. Com isso, ataques Norsemen podem ocorrer em qualquer local, sem depender do bioma.
 
@@ -52,4 +52,4 @@ Um Barracks de nível 3 ou superior pode contratar espiões durante a invasão, 
 - [Barracks Tower — Wiki oficial](https://minecolonies.com/wiki/buildings/barrackstower/)
 - [Gatehouse — Wiki oficial](https://minecolonies.com/wiki/buildings/gatehouse/)
 - [PR #11717 — Huscarl, Marksman e rebalanceamento de invasores](https://github.com/ldtteam/minecolonies/pull/11717)
-- [MineColonies 1.20.1-1.1.1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)
+- [MineColonies 1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)

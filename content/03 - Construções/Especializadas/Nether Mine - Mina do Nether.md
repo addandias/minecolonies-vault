@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Nether Mine
 nome_pt: Mina do Nether

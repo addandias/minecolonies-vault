@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 status: ativo
 tags:
@@ -36,8 +36,8 @@ tags:
 | [[content/04 - Profissões/Library Student - Estudante da Biblioteca|Estudante da Biblioteca]] | [[content/03 - Construções/Educação/Library - Biblioteca|Library]] | Aumentar Intelligence |
 | [[content/04 - Profissões/Teacher - Professor|Professor]] | [[content/03 - Construções/Educação/School - Escola|School]] | Ensinar crianças |
 | [[content/04 - Profissões/Pupil - Aluno|Aluno]] | [[content/03 - Construções/Educação/School - Escola|School]] | Desenvolver Intelligence |
-| [[content/04 - Profissões/Doctor - Médico|Médico]] | [[content/03 - Construções/Especializadas/Hospital - Hospital|Hospital]] | Tratar doenças e ferimentos |
-| [[content/04 - Profissões/Undertaker - Coveiro|Coveiro]] | [[content/03 - Construções/Especializadas/Graveyard - Cemitério|Graveyard]] | Recuperar e enterrar cidadãos |
+| [[content/04 - Profissões/Doctor - Médico|Médico]] | [[content/03 - Construções/Saúde/Hospital - Hospital|Hospital]] | Tratar doenças e ferimentos |
+| [[content/04 - Profissões/Undertaker - Coveiro|Coveiro]] | [[content/03 - Construções/Serviços/Graveyard - Cemitério|Graveyard]] | Recuperar e enterrar cidadãos |
 | [[content/04 - Profissões/Knight - Cavaleiro|Cavaleiro]] | [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] | Defesa corpo a corpo |
 | [[content/04 - Profissões/Archer - Arqueiro|Arqueiro]] | [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] | Defesa a distância |
 | [[content/04 - Profissões/Druid - Druida|Druida]] | [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] | Suporte militar |

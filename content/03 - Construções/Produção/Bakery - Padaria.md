@@ -39,7 +39,7 @@ O Baker prepara massas e assa pão, biscoitos, bolos e tortas de abóbora. Traba
 
 Ligue a Bakery à produção de trigo, açúcar, ovos e abóboras. Defina estoque mínimo apenas para produtos cuja cadeia agrícola seja sustentável.
 
-## Mudanças na 1.1.1259
+## Mudanças em 1259-snapshot
 
 - **Flatbread:** a receita passou a produzir duas unidades;
 - **Muffin Dough:** passou a usar ovo e teve custo e rendimento ajustados;

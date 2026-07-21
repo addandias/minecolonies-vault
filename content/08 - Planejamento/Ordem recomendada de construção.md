@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: guia
 nome: Ordem recomendada de construção
 versao_minecraft: 1.20.1

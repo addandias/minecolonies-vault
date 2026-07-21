@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Enchanter
 nome_pt: Encantador
@@ -29,7 +29,7 @@ Trabalha na [[content/03 - Construções/Especializadas/Enchanter's Tower - Torr
 
 O Enchanter também fabrica pergaminhos conhecidos pela torre mediante solicitação.
 
-Na snapshot 1.1.1259, o Enchanter também participa de cinco missões narrativas de pergaminhos. Algumas exigem Knight, Builder, Healer ou construções em níveis específicos. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões da snapshot 1.1.1259|Pergaminhos e teletransporte]].
+Em 1259-snapshot, o Enchanter também participa de cinco missões narrativas de pergaminhos. Algumas exigem Knight, Builder, Healer ou construções em níveis específicos. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões de 1259-snapshot|Pergaminhos e teletransporte]].
 
 ## Fontes
 

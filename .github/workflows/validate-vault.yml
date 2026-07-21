@@ -1,0 +1,20 @@
+name: Validar Vault
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-vault:
+    name: Conteúdo e estrutura
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+
+      - name: Executar verificador do Vault
+        shell: pwsh
+        run: ./.github/scripts/validate-vault.ps1

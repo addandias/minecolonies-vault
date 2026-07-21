@@ -7,6 +7,9 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 estilo: Medieval Dark Oak
+galeria:
+variante_principal:
+variantes: []
 nivel_maximo: 5
 trabalhador:
 status: rascunho
@@ -21,8 +24,13 @@ tags:
 
 ## Galeria — Medieval Dark Oak
 
-Adicione uma tabela com as vistas `front.jpg` e `back.jpg` disponíveis em
-`assets/construcoes/medieval-dark-oak/<categoria>/<construcao>/`.
+| Variante | Frente | Traseira |
+|---|---|---|
+| Principal | `front.jpg` | `back.jpg` |
+
+Use `galeria` para registrar a pasta visual da construção, `variante_principal` para o identificador exibido por padrão e `variantes` apenas quando existirem modelos arquitetônicos alternativos. Vistas diferentes do mesmo modelo não são variantes.
+
+Consulte [[content/00 - Índices/Índice de Galerias|Índice de Galerias]] e [[assets/README|Organização dos assets]].
 
 ## Visão geral
 

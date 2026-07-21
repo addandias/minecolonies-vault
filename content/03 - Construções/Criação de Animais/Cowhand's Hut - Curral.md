@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Cowhand’s Hut
 nome_pt: Curral

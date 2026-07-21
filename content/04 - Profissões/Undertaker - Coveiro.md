@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, serviço, lote-4]
 
 ## Visão geral
 
-O Undertaker trabalha no [[content/03 - Construções/Especializadas/Graveyard - Cemitério]], recuperando sepulturas, inventários e tentando ressuscitar cidadãos.
+O Undertaker trabalha no [[content/03 - Construções/Serviços/Graveyard - Cemitério]], recuperando sepulturas, inventários e tentando ressuscitar cidadãos.
 
 ## Habilidades
 

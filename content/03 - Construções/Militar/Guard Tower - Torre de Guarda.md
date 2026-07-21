@@ -50,7 +50,7 @@ O aumento do alcance permite cobrir rotas mais longas, mas cada Guard Tower cont
 
 Use o **Guard Scepter** para definir postos e rotas. Configure a lista de hostis, retirada com pouca vida e estoque mínimo de equipamento.
 
-Na snapshot 1.1.1259, Guards ignoram pontos de patrulha em chunks descarregados. Isso evita tentativas repetidas de alcançar uma área indisponível, mas significa que a rota só volta a ser percorrida quando o local estiver carregado.
+Em 1259-snapshot, Guards ignoram pontos de patrulha em chunks descarregados. Isso evita tentativas repetidas de alcançar uma área indisponível, mas significa que a rota só volta a ser percorrida quando o local estiver carregado.
 
 ## Posicionamento
 

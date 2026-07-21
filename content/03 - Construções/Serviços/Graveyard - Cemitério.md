@@ -1,8 +1,8 @@
-﻿---
+---
 tipo: construção
 nome: Graveyard
 nome_pt: Cemitério
-categoria: Especializadas
+categoria: Serviços
 trabalhador: Undertaker
 pesquisa: Remembrance
 versao_minecraft: 1.20.1

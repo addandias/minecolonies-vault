@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: construção
 nome: Mystical Site
 nome_pt: Local Místico
@@ -44,7 +44,7 @@ O bônus de felicidade não acumula. Se houver mais de um Mystical Site, somente
 ## Integrações
 
 - [[content/02 - Administração/Felicidade dos cidadãos]]
-- [[content/03 - Construções/Especializadas/Graveyard - Cemitério]]
+- [[content/03 - Construções/Serviços/Graveyard - Cemitério]]
 - [[content/04 - Profissões/Undertaker - Coveiro]]
 
 ## Fontes

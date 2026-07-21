@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 status: ativo
 tags:
@@ -84,11 +84,17 @@ tags:
 - [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel]]
 - [[content/03 - Construções/Militar/Gatehouse - Portaria]]
 
+## Saúde
+
+- [[content/03 - Construções/Saúde/Hospital - Hospital]]
+
+## Serviços
+
+- [[content/03 - Construções/Serviços/Tavern - Taverna]]
+- [[content/03 - Construções/Serviços/Graveyard - Cemitério]]
+
 ## Especializadas
 
-- [[content/03 - Construções/Especializadas/Hospital - Hospital]]
-- [[content/03 - Construções/Especializadas/Tavern - Taverna]]
-- [[content/03 - Construções/Especializadas/Graveyard - Cemitério]]
 - [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador]]
 - [[content/03 - Construções/Especializadas/Mystical Site - Local Místico]]
 - [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether]]

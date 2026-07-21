@@ -42,11 +42,11 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 
 Nas listas de **Food** e **Fuel**, escolha o que o trabalhador pode utilizar. Uma lista excessivamente restrita pode deixar cidadãos sem comida mesmo com estoque disponível.
 
-Na snapshot 1.1.1259, o menu de alimentos passou a calcular os ingredientes das refeições selecionadas e estimar quanto os cidadãos atendidos consomem por dia. Trate o intervalo como uma referência operacional, não como estoque máximo: atrasos logísticos e novos moradores ainda exigem margem.
+Em 1259-snapshot, o menu de alimentos passou a calcular os ingredientes das refeições selecionadas e estimar quanto os cidadãos atendidos consomem por dia. Trate o intervalo como uma referência operacional, não como estoque máximo: atrasos logísticos e novos moradores ainda exigem margem.
 
 ## Qualidade dos alimentos
 
-Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bronze. Na 1.1.1259, os tiers e valores foram rebalanceados. A maioria dos alimentos vanilla permanece sem classificação; somente opções vanilla com nutrição e saturação muito altas podem alcançar bronze.
+Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bronze. Em 1259-snapshot, os tiers e valores foram rebalanceados. A maioria dos alimentos vanilla permanece sem classificação; somente opções vanilla com nutrição e saturação muito altas podem alcançar bronze.
 
 ## Evolução recomendada
 

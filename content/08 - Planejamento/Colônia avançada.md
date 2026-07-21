@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: guia
 status: publicado
 ultima_revisao: 2026-07-20
@@ -30,7 +30,9 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 | Militar | Barracks, Barracks Towers, Guard Towers, Gatehouse, Combat Academy e Archery |
 | Extração pesada | Mine, Quarry, Crusher e oficinas de pedra |
 | Rural especializado | Stable e demais construções de criação |
-| Especializado | Hospital, Graveyard, Mystical Site, Enchanter’s Tower e Nether Mine |
+| Saúde | Hospital |
+| Serviços | Tavern e Graveyard |
+| Especializado | Mystical Site, Enchanter’s Tower e Nether Mine |
 
 ## Revisão de autossuficiência
 

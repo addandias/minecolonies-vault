@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: indice
 status: ativo
 tags:
@@ -22,6 +22,7 @@ tags:
 - [[Índice de Construções]]
 - [[Índice de Profissões]]
 - [[Índice de Recursos]]
+- [[Índice de Galerias]]
 - [[content/09 - Referências/Glossário]]
 - [[content/09 - Referências/Perguntas frequentes]]
 - [[content/09 - Referências/Solução de problemas]]

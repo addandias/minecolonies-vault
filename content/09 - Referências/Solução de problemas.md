@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: referencia
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
@@ -24,12 +24,12 @@ tags: [minecolonies, diagnóstico, suporte, lote-9b, lote-10d]
 | Felicidade baixa | Fome, doença, moradia, emprego, luto e distância | [[content/02 - Administração/Felicidade dos cidadãos]] |
 | Guardas falham | Cobertura, equipamento, treinamento e alimento | [[content/07 - Defesa/Estratégia defensiva]] |
 | Expedição do Nether não inicia | Pesquisa, trabalhador, alimento e pedidos | [[content/06 - Recursos e Produção/Expedições ao Nether]] |
-| Cidadão não encontra a rota | Ponte, escada, água, chunks e bloqueios físicos | [[content/02 - Administração/Configurações da colônia#Pathfinding na 1.1.1259|Configurações da colônia]] |
+| Cidadão não encontra a rota | Ponte, escada, água, chunks e bloqueios físicos | [[content/02 - Administração/Configurações da colônia#Pathfinding em 1259-snapshot|Configurações da colônia]] |
 | Cidadão desaparece em área distante | Chunks descarregados, casa e trabalho válidos | Seção abaixo |
 
 ## Áreas parcialmente descarregadas
 
-Na snapshot 1.1.1259, um cidadão pode desaparecer temporariamente depois de insistir em uma rota para uma área descarregada. Se possui casa ou trabalho válido, ele não deve reaparecer na Town Hall: o retorno ocorre ao nascer do sol ou na verificação periódica de cinco minutos.
+Em 1259-snapshot, um cidadão pode desaparecer temporariamente depois de insistir em uma rota para uma área descarregada. Se possui casa ou trabalho válido, ele não deve reaparecer na Town Hall: o retorno ocorre ao nascer do sol ou na verificação periódica de cinco minutos.
 
 Antes de usar Recall Workers, carregue a casa, o trabalho e o caminho entre eles. Guards também pulam pontos de patrulha descarregados.
 

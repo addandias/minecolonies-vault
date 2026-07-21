@@ -3,6 +3,8 @@ tipo: profissão
 nome:
 nome_pt:
 construcao:
+galeria:
+variantes: []
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
@@ -14,6 +16,14 @@ tags:
 ---
 
 # {{nome}} — {{nome_pt}}
+
+## Galeria
+
+| Principal | Em atividade | Variantes |
+|---|---|---|
+|  |  |  |
+
+Use imagens de `assets/profissoes/<profissao>/` conforme [[assets/profissoes/README|Imagens de profissões]]. Omita esta seção enquanto não houver imagens aprovadas.
 
 ## Visão geral
 

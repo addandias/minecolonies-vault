@@ -16,7 +16,7 @@ tags: [minecolonies, profissão, saúde, lote-4]
 
 ## Visão geral
 
-O Doctor atende cidadãos doentes ou feridos no [[content/03 - Construções/Especializadas/Hospital - Hospital]] e consome os tratamentos correspondentes.
+O Doctor atende cidadãos doentes ou feridos no [[content/03 - Construções/Saúde/Hospital - Hospital]] e consome os tratamentos correspondentes.
 
 ## Habilidades
 

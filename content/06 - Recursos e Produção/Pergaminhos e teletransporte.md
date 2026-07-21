@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: guia
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
@@ -21,7 +21,7 @@ A Enchanter’s Tower pode produzir pergaminhos mágicos quando conhece a receit
 
 Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo pergaminhos para localizar trabalhadores e convocar guardas.
 
-## Missões da snapshot 1.1.1259
+## Missões de 1259-snapshot
 
 | Missão | Requisitos principais | Recompensa central |
 |---|---|---|
@@ -34,7 +34,7 @@ Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo perg
 As missões usam diálogos, entregas e etapas de retorno. Algumas pedem que o jogador espere e converse novamente no dia seguinte. Elas complementam as receitas da torre; não substituem o fluxo normal de fabricação sob pedido.
 
 > [!NOTE] Compatibilidade 1.20.1
-> As missões foram originalmente adicionadas com o formato de dados da 1.21.1 e corrigidas posteriormente para o esquema da 1.20.1. A correção já está presente na snapshot 1.1.1259 usada pelo Vault.
+> As missões foram originalmente adicionadas com o formato de dados da 1.21.1 e corrigidas posteriormente para o esquema da 1.20.1. A correção já está presente em 1259-snapshot, registro usado pelo Vault.
 
 ## Preparação logística
 

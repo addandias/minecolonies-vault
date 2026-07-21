@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: profissão
 nome: Swineherd
 nome_pt: Criador de Porcos

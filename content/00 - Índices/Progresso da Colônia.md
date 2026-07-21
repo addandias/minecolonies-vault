@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: acompanhamento
 status: ativo
 tags:
@@ -105,9 +105,16 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 - [x] Integração operacional — Obsidian e GitHub
 - [x] Lote 10A — Quarry, Stable, Gatehouse, Barracks Tower, Quarrier e Stablemaster
 - [x] Padronização da versão de referência e auditoria estrutural das construções
-- [x] Lote 10B — Huscarl, Marksman e defesa atualizada para a snapshot 1.1.1259
-- [x] Lote 10C — alimentação, tiers, receitas e segurança alimentar na snapshot 1.1.1259
-- [x] Lote 10D — missões, navegação e correções operacionais da snapshot 1.1.1259
-- [x] Cobertura das mudanças relevantes da snapshot 1.1.1259
+- [x] Lote 10B — Huscarl, Marksman e defesa atualizada para 1259-snapshot
+- [x] Lote 10C — alimentação, tiers, receitas e segurança alimentar em 1259-snapshot
+- [x] Lote 10D — missões, navegação e correções operacionais de 1259-snapshot
+- [x] Cobertura das mudanças relevantes de 1259-snapshot
+- [x] Separação das categorias Saúde, Serviços e Especializadas
+- [x] Padronização UTF-8 sem BOM e validação automática
+- [x] Aviso do estado pré-1.0 e distinção da versão `prerelease` do mod
+- [x] Galerias e padrão de variantes para construções, profissões e itens
+- [x] Registros editoriais de versão no formato curto `1259-snapshot`
+- [x] Verificador local e GitHub Actions para conteúdo e estrutura do Vault
+- [x] Fluxo protegido entre `vault-edits` e `main`
 - [ ] Revisão editorial das construções marcadas como `em_revisao`
 - [ ] Finalização — Auditoria e versão 1.0

@@ -50,4 +50,4 @@ O Marksman usa besta e deriva do comportamento de ataque a distância do Archer.
 ## Fontes
 
 - [PR #11717 — Huscarl, Marksman and raider rebalance](https://github.com/ldtteam/minecolonies/pull/11717)
-- [MineColonies 1.20.1-1.1.1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)
+- [MineColonies 1259-snapshot](https://github.com/ldtteam/minecolonies/releases/tag/v1.20.1-1.1.1259-snapshot)

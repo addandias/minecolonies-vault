@@ -2,8 +2,8 @@
 
 Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1259 para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
 
-> [!NOTE]
-> O projeto está em construção. Páginas `rascunho` ainda precisam de pesquisa; páginas `em_revisao` já possuem conteúdo útil, mas conservam pendências editoriais explícitas no campo `revisao_pendente`.
+> [!WARNING] Projeto em estado pré-1.0
+> O Vault já possui conteúdo utilizável, mas ainda passa por revisão antes da primeira versão estável. Estrutura, nomes, links e orientações podem mudar; páginas `rascunho` ainda precisam de pesquisa, enquanto páginas `em_revisao` conservam pendências editoriais explícitas no campo `revisao_pendente`.
 
 ## O que você encontrará
 
@@ -30,13 +30,16 @@ Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]]
 - **Minecraft:** 1.20.1
 - **MineColonies:** 1.1.1259
 - **Tipo da versão:** `prerelease`
+- **Registro curto:** `1259-snapshot`
 - **Tag oficial:** `v1.20.1-1.1.1259-snapshot`
 
-O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. As páginas do Vault usam essa combinação como referência. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
+O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. Nas notas editoriais e no histórico, o Vault usa o registro curto `1259-snapshot`; a tag oficial completa fica reservada para referências técnicas e links. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
 
 ## Estado atual
 
-Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] e o [CHANGELOG](CHANGELOG.md).
+O projeto está em fase **pré-1.0**: a estrutura principal e os lotes planejados já estão disponíveis, mas a revisão editorial das construções e a auditoria final ainda não foram concluídas. Esse estado descreve a maturidade do Vault e não deve ser confundido com o tipo `prerelease` da versão de referência do MineColonies.
+
+Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] para acompanhar as pendências e o [CHANGELOG](CHANGELOG.md) para conferir as alterações já incorporadas.
 
 ## Abrir no Obsidian
 
@@ -62,6 +65,29 @@ O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidia
 6. Só habilite intervalos automáticos depois de confirmar que `pull` e `push` funcionam sem conflitos.
 
 Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
+
+### Validar antes de contribuir
+
+Na raiz do repositório, execute:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.github/scripts/validate-vault.ps1
+```
+
+O verificador confere UTF-8 sem BOM, links e imagens do Obsidian, links Markdown locais, frontmatter das construções e profissões e a convenção curta dos registros de versão. O mesmo comando é executado automaticamente pelo GitHub Actions em cada `push` e pull request.
+
+### Fluxo de edição protegido
+
+O trabalho editorial contínuo deve ser feito na branch `vault-edits`:
+
+1. Atualize `vault-edits` antes de começar.
+2. Faça e revise as alterações no Vault.
+3. Execute o verificador local.
+4. Envie as alterações para `vault-edits`.
+5. Abra um pull request de `vault-edits` para `main`.
+6. Mescle somente depois que a verificação **Conteúdo e estrutura** estiver aprovada e todas as conversas estiverem resolvidas.
+
+A branch `main` exige pull request, validação atualizada com a base e histórico linear. Force-push e exclusão estão bloqueados tanto em `main` quanto em `vault-edits`. Atualmente, somente **addandias** possui permissão de escrita e mesclagem no repositório.
 
 ## Licença e atribuição
 

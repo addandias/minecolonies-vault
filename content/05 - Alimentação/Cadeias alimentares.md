@@ -49,7 +49,7 @@ flowchart LR
     E --> F["Cidadão"]
 ```
 
-Garrafas usadas em receitas do Baker ainda podem quebrar. A snapshot 1.1.1259 reduziu essa perda, mas o estoque deve continuar prevendo reposição.
+Garrafas usadas em receitas do Baker ainda podem quebrar. O registro 1259-snapshot reduziu essa perda, mas o estoque deve continuar prevendo reposição.
 
 ## Como estabilizar
 
@@ -60,7 +60,7 @@ Garrafas usadas em receitas do Baker ainda podem quebrar. A snapshot 1.1.1259 re
 - aproxime produtores, Warehouse, cozinha e salão;
 - preserve um alimento de emergência.
 - dimensione a produção pelo consumo diário estimado no Dining Hall;
-- revalide receitas e rendimentos após atualizar para a 1.1.1259.
+- revalide receitas e rendimentos após atualizar para 1259-snapshot.
 
 ## Leitura relacionada
 
