@@ -8,6 +8,11 @@ tags:
 
 # Índice de Recursos
 
+## Itens funcionais
+
+- [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira]]
+- [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro]]
+
 ## Logística
 
 - [[content/06 - Recursos e Produção/Armazém e entregadores]]

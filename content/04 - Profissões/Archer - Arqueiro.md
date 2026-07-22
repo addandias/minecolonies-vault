@@ -2,7 +2,7 @@
 tipo: profissão
 nome: Archer
 nome_pt: Arqueiro
-construcao: Guard Tower ou Barracks Tower
+construcao: Guard Tower, Barracks Tower ou Gatehouse
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
@@ -28,7 +28,7 @@ O arqueiro é um guarda de longo alcance. Funciona melhor com linha de visão, m
 
 ## Preparação
 
-Treine na [[content/03 - Construções/Militar/Archery - Campo de Arquearia]], mantenha arcos e flechas em estoque e use torres com campo de visão aberto.
+Treine na [[content/03 - Construções/Militar/Archery - Campo de Arquearia]], mantenha arcos e flechas em estoque e use torres com campo de visão aberto. Também pode ocupar uma das duas posições fixas da [[content/03 - Construções/Militar/Gatehouse - Portaria|Portaria]].
 
 ## Fontes
 

@@ -9,6 +9,7 @@ assets/
 ├── construcoes/<estilo>/<grupo>/<subgrupo>/<construcao>/
 ├── profissoes/<identificador-do-worker>/
 ├── itens/blocos-de-construcao/<identificador-do-item>/
+├── itens/blocos/<identificador-do-item>/
 ├── interfaces/construcoes/<identificador-da-interface>/
 ├── diagramas/<tema>/
 └── icones/<uso>/
@@ -29,6 +30,7 @@ Três grupos de recursos oficiais podem complementar as capturas das construçõ
 
 - `interfaces/construcoes/`: capturas das abas do bloco da construção;
 - `itens/blocos-de-construcao/`: ícones dos blocos das cabanas;
+- `itens/blocos/`: ícones e estados visuais de blocos funcionais, como os portões;
 - `profissoes/`: retratos renderizados dos trabalhadores.
 
 Cada grupo possui um README próprio com convenção de nomes, origem e cuidados de versão. Os arquivos importados nesta etapa apontam para [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki); os itens preservam também o commit exato do fork usado para recuperar o acervo.

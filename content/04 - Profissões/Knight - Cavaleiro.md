@@ -2,7 +2,7 @@
 tipo: profissão
 nome: Knight
 nome_pt: Cavaleiro
-construcao: Guard Tower ou Barracks Tower
+construcao: Guard Tower, Barracks Tower ou Gatehouse
 versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
@@ -28,7 +28,7 @@ O cavaleiro é um guarda corpo a corpo. Usa espada, armadura e opcionalmente esc
 
 ## Preparação
 
-Treine na [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]], equipe conforme o nível da torre e posicione em entradas estreitas, portões e rotas onde consiga interceptar invasores.
+Treine na [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]], equipe conforme o nível da torre e posicione em entradas estreitas, portões e rotas onde consiga interceptar invasores. Também pode ocupar uma das duas posições fixas da [[content/03 - Construções/Militar/Gatehouse - Portaria|Portaria]].
 
 ## Fontes
 
