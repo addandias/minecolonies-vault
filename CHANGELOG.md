@@ -6,6 +6,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Páginas canônicas do Portão de Madeira e do Portão de Ferro, com receitas da Oficina do Mecânico, instruções de colocação e seis capturas oficiais de uso.
 - Fichas visuais laterais com blocos de construção e renders femininos e masculinos dos trabalhadores.
 - Galerias das interfaces oficiais em todas as 52 páginas de construção, com nomes de abas apresentados em português.
 - Acervo selecionado do MinecoloniesWiki com 350 imagens, origem e snapshot registrados nos créditos.
@@ -172,6 +173,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Corrigido
 
+- Gatehouse corrigida para três níveis, dois postos fixos de guarda e integração real com os Gates usados no esquema.
 - Páginas analíticas identificadas como recomendações editoriais do Vault.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
 - Categorias separadas em `Saúde` para Hospital, `Serviços` para Tavern e Graveyard, e `Especializadas` para conteúdo mágico e dimensional.
