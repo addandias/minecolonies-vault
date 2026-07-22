@@ -18,6 +18,9 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 
 # Combat Academy — Academia de Combate
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutcombatacademy/principal.png" alt="Bloco da construção Academia de Combate" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -30,6 +33,16 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ## Visão geral
 
 A Academia de Combate treina cavaleiros sem o risco de enfrentar monstros. Exige **Improved Swords**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Academia de Combate](../../../assets/interfaces/construcoes/combatacademy/principal.png) | ![Estoque mínimo — Academia de Combate](../../../assets/interfaces/construcoes/combatacademy/estoque.png) |
 
 ## Capacidade
 

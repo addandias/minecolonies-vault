@@ -18,6 +18,9 @@ tags: [minecolonies, construção, felicidade, ressurreição, lote-8a]
 
 # Mystical Site — Local Místico
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutmysticalsite/principal.png" alt="Bloco da construção Local Místico" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -47,6 +50,14 @@ O bônus de felicidade não acumula. Se houver mais de um Local Místico, soment
 - [[content/03 - Construções/Serviços/Graveyard - Cemitério]]
 - [[content/04 - Profissões/Undertaker - Coveiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal |  |
+|---|---|
+| ![Principal — Local Místico](../../../assets/interfaces/construcoes/mysticalsite/principal.png) |  |
+
+## Fontes
 - [Mystical Site — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/mysticalsite/)

@@ -19,6 +19,9 @@ tags: [minecolonies, construção, apicultura, lote-7a]
 
 # Apiary — Apiário
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutbeekeeper/principal.png" alt="Bloco da construção Apiário" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -48,6 +51,22 @@ Associe colmeias com a ferramenta da interface. Em **Settings**, controle reprod
 
 [[content/04 - Profissões/Beekeeper - Apicultor]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Flores |
+|---|---|
+| ![Principal — Apiário](../../../assets/interfaces/construcoes/beekeeper/principal.png) | ![Flores — Apiário](../../../assets/interfaces/construcoes/beekeeper/flores.png) |
+
+| Ferramenta de colmeias | Configurações |
+|---|---|
+| ![Ferramenta de colmeias — Apiário](../../../assets/interfaces/construcoes/beekeeper/ferramenta-de-colmeias.png) | ![Configurações — Apiário](../../../assets/interfaces/construcoes/beekeeper/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Apiário](../../../assets/interfaces/construcoes/beekeeper/estoque.png) |  |
+
+## Fontes
 - [Apiary — Wiki oficial](https://minecolonies.com/wiki/buildings/beekeeper/)

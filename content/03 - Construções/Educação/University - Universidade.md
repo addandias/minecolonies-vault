@@ -18,6 +18,9 @@ tags: [minecolonies, construção, educação, lote-4]
 
 # University — Universidade
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutuniversity/principal.png" alt="Bloco da construção Universidade" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -30,6 +33,16 @@ tags: [minecolonies, construção, educação, lote-4]
 ## Visão geral
 
 A University é o centro de pesquisa da colônia. Suas árvores liberam construções, melhorias de trabalhadores, combate, logística e efeitos gerais.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Pesquisas |
+|---|---|
+| ![Principal — Universidade](../../../assets/interfaces/construcoes/university/principal.png) | ![Pesquisas — Universidade](../../../assets/interfaces/construcoes/university/pesquisas.png) |
 
 ## Funcionamento
 

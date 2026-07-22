@@ -15,9 +15,30 @@ tags: [minecolonies, construção, defesa, guardas, lote-10a, lote-10b]
 
 # Barracks Tower — Torre do Quartel
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutbarrackstower/principal.png" alt="Bloco da construção Torre do Quartel" width="96" align="right">
+
 ## Visão geral
 
 A Torre do Quartel é uma torre interna do [[content/03 - Construções/Militar/Barracks - Quartel|Barracks]]. Ela emprega e abriga **um guarda por nível**, chegando a cinco no nível máximo. Diferentemente da Torre de Guarda independente, sua posição é determinada pelo esquema do Quartel.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Ferramenta de patrulha |
+|---|---|
+| ![Principal — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/principal.png) | ![Ferramenta de patrulha — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/ferramenta-de-patrulha.png) |
+
+| Hostis | Configurações |
+|---|---|
+| ![Hostis — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/hostis.png) | ![Configurações — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/configuracoes.png) |
+
+| Estatísticas | Estoque mínimo |
+|---|---|
+| ![Estatísticas — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/estatisticas.png) | ![Estoque mínimo — Torre do Quartel](../../../assets/interfaces/construcoes/barrackstower/estoque.png) |
 
 ## Relação com o Quartel
 

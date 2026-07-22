@@ -15,12 +15,25 @@ tags: [minecolonies, construção, mineração, pedreira, lote-10a]
 
 # Quarry — Pedreira
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutsimplequarry/principal.png" alt="Bloco da construção Pedreira" width="96" align="right">
+
 ## Visão geral
 
 A Pedreira escava uma área delimitada para obter grandes volumes dos blocos que realmente existem no terreno. O modelo simples ocupa **uma região de 16 × 16 blocos** e o médio, **uma área de 2 × 2 dessas regiões**. Diferentemente da [[content/03 - Construções/Recursos/Mine - Mina|Mine]], ela não gera oportunidades adicionais de minério: entrega somente os blocos removidos durante a escavação.
 
 > [!IMPORTANT] Contratação incomum
 > O [[content/04 - Profissões/Quarrier - Pedreiro de pedreira|Quarrier]] precisa ser contratado primeiro em uma Mina e, em seguida, atribuído à Pedreira. Enquanto a Mina emprega o pedreiro de pedreira, ela não pode manter um mineiro no mesmo posto.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Trabalhadores |
+|---|---|
+| ![Principal — Pedreira](../../../assets/interfaces/construcoes/quarry/principal.png) | ![Trabalhadores — Pedreira](../../../assets/interfaces/construcoes/quarry/trabalhadores.png) |
 
 ## Trabalhador responsável
 

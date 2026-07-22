@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Alchemist — Alquimista
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/alchemist/masculino.png" alt="Alquimista — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/alchemist/feminino.png" alt="Alquimista — aparência feminina" width="120" align="right">
+
 Trabalha no [[content/03 - Construções/Produção/Alchemist Laboratory - Laboratório do Alquimista]], preparando poções ensinadas. **Destreza** (*Dexterity*) acelera a preparação e **Mana** permite operar mais suportes de poções.
 
 ## Fontes

@@ -17,6 +17,9 @@ tags: [minecolonies, construção, pesca, lote-2]
 
 # Fisher's Hut — Cabana do Pescador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutfisherman/principal.png" alt="Bloco da construção Cabana do Pescador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -29,6 +32,16 @@ tags: [minecolonies, construção, pesca, lote-2]
 ## Visão geral
 
 O Fisher captura peixes e itens adicionais usando uma vara. A cabana exige um corpo d'água próximo com pelo menos **7 × 7 blocos e 2 de profundidade**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Cabana do Pescador](../../../assets/interfaces/construcoes/fisherman/principal.png) | ![Estoque mínimo — Cabana do Pescador](../../../assets/interfaces/construcoes/fisherman/estoque.png) |
 
 ## Evolução
 

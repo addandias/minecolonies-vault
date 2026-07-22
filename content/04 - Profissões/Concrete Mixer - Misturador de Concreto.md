@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Concrete Mixer — Misturador de Concreto
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/concretemixer/masculino.png" alt="Misturador de Concreto — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/concretemixer/feminino.png" alt="Misturador de Concreto — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Concrete Mixer's Hut - Oficina de Concreto]], transformando areia, cascalho e corantes em concreto. **Vigor** (*Stamina*) acelera a coleta; **Destreza** (*Dexterity*), a fabricação.
 
 ## Fontes

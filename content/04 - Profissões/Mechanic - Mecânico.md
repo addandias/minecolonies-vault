@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Mechanic — Mecânico
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/mechanic/masculino.png" alt="Mecânico — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/mechanic/feminino.png" alt="Mecânico — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Mechanic's Hut - Oficina do Mecânico]], cobrindo redstone e receitas especiais. **Conhecimento** (*Knowledge*) pode economizar materiais; **Agilidade** (*Agility*) acelera a fabricação.
 
 ## Fontes

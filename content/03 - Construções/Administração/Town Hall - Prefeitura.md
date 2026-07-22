@@ -16,6 +16,9 @@ tags: [minecolonies, construção, administração, lote-1]
 
 # Town Hall — Prefeitura
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhuttownhall/principal.png" alt="Bloco da construção Prefeitura" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -28,6 +31,40 @@ tags: [minecolonies, construção, administração, lote-1]
 ## Visão geral
 
 A Prefeitura é o centro administrativo da colônia. Seu primeiro posicionamento define o centro permanente da proteção, e só pode existir uma por colônia.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Ações | Alianças |
+|---|---|
+| ![Ações — Prefeitura](../../../assets/interfaces/construcoes/townhall/acoes.png) | ![Alianças — Prefeitura](../../../assets/interfaces/construcoes/townhall/aliancas.png) |
+
+| Cidadãos | Estandarte da colônia |
+|---|---|
+| ![Cidadãos — Prefeitura](../../../assets/interfaces/construcoes/townhall/cidadaos.png) | ![Estandarte da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/estandarte-da-colonia.png) |
+
+| Fundação da colônia | Colônia existente |
+|---|---|
+| ![Fundação da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/fundacao-da-colonia.png) | ![Colônia existente — Prefeitura](../../../assets/interfaces/construcoes/townhall/colonia-existente.png) |
+
+| Informações | Permissões 1 |
+|---|---|
+| ![Informações — Prefeitura](../../../assets/interfaces/construcoes/townhall/informacoes.png) | ![Permissões 1 — Prefeitura](../../../assets/interfaces/construcoes/townhall/permissoes-1.png) |
+
+| Permissões 2 | Permissões 3 |
+|---|---|
+| ![Permissões 2 — Prefeitura](../../../assets/interfaces/construcoes/townhall/permissoes-2.png) | ![Permissões 3 — Prefeitura](../../../assets/interfaces/construcoes/townhall/permissoes-3.png) |
+
+| Configurações da colônia | Estatísticas da colônia |
+|---|---|
+| ![Configurações da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/configuracoes-da-colonia.png) | ![Estatísticas da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/estatisticas-da-colonia.png) |
+
+| Mapa da colônia |  |
+|---|---|
+| ![Mapa da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/mapa-da-colonia.png) |  |
 
 ## Funções principais
 

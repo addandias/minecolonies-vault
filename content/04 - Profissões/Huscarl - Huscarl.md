@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, defesa, lote-10b]
 
 # Huscarl
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/knight/masculino.png" alt="Huscarl — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/knight/feminino.png" alt="Huscarl — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Huscarl é um guarda corpo a corpo especializado em machados. Parte de seu dano ignora armadura, o que o torna uma alternativa ao cavaleiro contra alvos resistentes.

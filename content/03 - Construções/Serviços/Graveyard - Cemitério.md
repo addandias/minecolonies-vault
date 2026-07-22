@@ -18,6 +18,9 @@ tags: [minecolonies, construção, serviço, lote-4]
 
 # Graveyard — Cemitério
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutgraveyard/principal.png" alt="Bloco da construção Cemitério" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -27,6 +30,16 @@ tags: [minecolonies, construção, serviço, lote-4]
 ## Visão geral
 
 O coveiro recupera cidadãos mortos, recolhe o inventário da sepultura e tenta revivê-los. Se a tentativa falhar, realiza o enterro. Exige **Remembrance**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Túmulos |
+|---|---|
+| ![Principal — Cemitério](../../../assets/interfaces/construcoes/graveyard/principal.png) | ![Túmulos — Cemitério](../../../assets/interfaces/construcoes/graveyard/tumulos.png) |
 
 ## Capacidade recomendada do esquema
 

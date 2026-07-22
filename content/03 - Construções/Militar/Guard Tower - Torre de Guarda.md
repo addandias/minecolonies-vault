@@ -17,6 +17,9 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b, lote-10d]
 
 # Guard Tower — Torre de Guarda
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutguardtower/principal.png" alt="Bloco da construção Torre de Guarda" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -29,6 +32,24 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b, lote-10d]
 ## Visão geral
 
 A Torre de Guarda emprega e abriga um guarda. Torres próximas de casas e trabalhos aumentam a sensação de segurança e, quando posicionadas perto da borda, ajudam na expansão territorial.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Ferramenta de patrulha |
+|---|---|
+| ![Principal — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/principal.png) | ![Ferramenta de patrulha — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/ferramenta-de-patrulha.png) |
+
+| Hostis | Configurações |
+|---|---|
+| ![Hostis — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/hostis.png) | ![Configurações — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/configuracoes.png) |
+
+| Estatísticas | Estoque mínimo |
+|---|---|
+| ![Estatísticas — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/estatisticas.png) | ![Estoque mínimo — Torre de Guarda](../../../assets/interfaces/construcoes/guardtower/estoque.png) |
 
 ## Alcance
 

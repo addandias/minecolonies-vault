@@ -18,6 +18,9 @@ tags: [minecolonies, construção, educação, lote-4]
 
 # School — Escola
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutschool/principal.png" alt="Bloco da construção Escola" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -27,6 +30,16 @@ tags: [minecolonies, construção, educação, lote-4]
 ## Visão geral
 
 Na School, o professor desenvolve a Intelligence das crianças. Papel acelera o aprendizado. A construção exige **Higher Learning**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Escola](../../../assets/interfaces/construcoes/school/principal.png) | ![Estoque mínimo — Escola](../../../assets/interfaces/construcoes/school/estoque.png) |
 
 ## Capacidade
 

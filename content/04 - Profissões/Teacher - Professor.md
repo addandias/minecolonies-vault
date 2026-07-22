@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, educação, lote-4]
 
 # Teacher — Professor
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/teacher/masculino.png" alt="Professor — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/teacher/feminino.png" alt="Professor — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O professor trabalha na [[content/03 - Construções/Educação/School - Escola]], desenvolvendo a Intelligence das crianças atribuídas.

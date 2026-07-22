@@ -18,6 +18,9 @@ tags: [minecolonies, construção, pecuária, lote-7b]
 
 # Swineherd’s Hut — Chiqueiro
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutswineherd/principal.png" alt="Bloco da construção Chiqueiro" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -43,6 +46,18 @@ Controle reprodução e alimentação conforme a demanda do Salão de Refeiçõe
 
 [[content/04 - Profissões/Swineherd - Criador de Porcos]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Configurações |
+|---|---|
+| ![Principal — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/principal.png) | ![Configurações — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/estoque.png) |  |
+
+## Fontes
 - [Swineherd’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/swineherder/)

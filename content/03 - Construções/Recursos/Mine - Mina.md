@@ -16,6 +16,9 @@ tags: [minecolonies, construção, mineração, lote-2]
 
 # Mine — Mina
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutminer/principal.png" alt="Bloco da construção Mina" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -31,6 +34,28 @@ A Mina contrata um [[content/04 - Profissões/Miner - Mineiro|Miner]] para abrir
 
 > [!IMPORTANT] Vaga compartilhada
 > Para operar uma Pedreira, contrate o pedreiro de pedreira na Mina e depois atribua-o à Pedreira. Enquanto a vaga estiver ocupada pelo pedreiro de pedreira, não haverá mineiro trabalhando nesta Mina.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Mina](../../../assets/interfaces/construcoes/miner/principal.png) | ![Receitas de fabricação — Mina](../../../assets/interfaces/construcoes/miner/receitas-de-fabricacao.png) |
+
+| Guardas | Níveis |
+|---|---|
+| ![Guardas — Mina](../../../assets/interfaces/construcoes/miner/guardas.png) | ![Níveis — Mina](../../../assets/interfaces/construcoes/miner/niveis.png) |
+
+| Recursos necessários | Configurações |
+|---|---|
+| ![Recursos necessários — Mina](../../../assets/interfaces/construcoes/miner/recursos-necessarios.png) | ![Configurações — Mina](../../../assets/interfaces/construcoes/miner/configuracoes.png) |
+
+| Estatísticas | Estoque mínimo |
+|---|---|
+| ![Estatísticas — Mina](../../../assets/interfaces/construcoes/miner/estatisticas.png) | ![Estoque mínimo — Mina](../../../assets/interfaces/construcoes/miner/estoque.png) |
 
 ## Progressão de profundidade
 

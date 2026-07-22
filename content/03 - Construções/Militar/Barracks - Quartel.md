@@ -17,6 +17,9 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 
 # Barracks — Quartel
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutbarracks/principal.png" alt="Bloco da construção Quartel" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -29,6 +32,20 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 ## Visão geral
 
 O Quartel reúne várias [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]]. Nos estilos oficiais, são quatro torres, com capacidade final de até 20 guardas. Estilos personalizados podem variar. Exige **Tactic Training**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Contratação de espiões |
+|---|---|
+| ![Principal — Quartel](../../../assets/interfaces/construcoes/barracks/principal.png) | ![Contratação de espiões — Quartel](../../../assets/interfaces/construcoes/barracks/contratacao-de-espioes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Quartel](../../../assets/interfaces/construcoes/barracks/estoque.png) |  |
 
 ## Progressão
 

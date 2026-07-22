@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, pecuária, lote-7b]
 
 # Swineherd — Criador de Porcos
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/swineherder/masculino.png" alt="Criador de Porcos — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/swineherder/feminino.png" alt="Criador de Porcos — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Criação de Animais/Swineherd's Hut - Chiqueiro]], alimentando, reproduzindo e abatendo porcos.
 
 Mantenha alimento compatível e controle a reprodução de acordo com o estoque de carne.

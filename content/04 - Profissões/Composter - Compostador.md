@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, agricultura, lote-6]
 
 # Composter — Compostador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/composter/masculino.png" alt="Compostador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/composter/feminino.png" alt="Compostador — aparência feminina" width="120" align="right">
+
 O compostador trabalha na [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Cabana do Compostador]], transformando excedentes orgânicos em composto ou terra.
 
 ## Habilidades

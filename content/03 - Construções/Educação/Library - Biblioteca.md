@@ -18,6 +18,9 @@ tags: [minecolonies, construção, educação, lote-4]
 
 # Library — Biblioteca
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutlibrary/principal.png" alt="Bloco da construção Biblioteca" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -27,6 +30,16 @@ tags: [minecolonies, construção, educação, lote-4]
 ## Visão geral
 
 A Library permite que cidadãos adultos estudem para elevar **Intelligence**, atributo que melhora o desenvolvimento das demais habilidades. Exige a pesquisa **Keen**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Biblioteca](../../../assets/interfaces/construcoes/library/principal.png) | ![Estoque mínimo — Biblioteca](../../../assets/interfaces/construcoes/library/estoque.png) |
 
 ## Capacidade
 

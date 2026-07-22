@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, agricultura, lote-6, lote-10d]
 
 # Florist — Florista
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/florist/masculino.png" alt="Florista — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/florist/feminino.png" alt="Florista — aparência feminina" width="120" align="right">
+
 O florista trabalha na [[content/03 - Construções/Agricultura/Flowershop - Floricultura]], consumindo composto para cultivar flores.
 
 ## Habilidades

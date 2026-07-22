@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3, lote-10c]
 
 # Baker — Padeiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/baker/masculino.png" alt="Padeiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/baker/feminino.png" alt="Padeiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Bakery - Padaria]], preparando massas e produtos assados sob pedido. **Conhecimento** (*Knowledge*) pode economizar ingredientes; **Destreza** (*Dexterity*) acelera artesanato e forno.
 
 Em 1259-snapshot, a chance de quebra das garrafas usadas nas receitas do Baker foi reduzida pela metade. Ainda assim, a cadeia deve manter garrafas vazias disponíveis para reposição.

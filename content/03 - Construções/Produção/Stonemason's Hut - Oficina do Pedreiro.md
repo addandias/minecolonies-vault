@@ -18,6 +18,9 @@ tags: [minecolonies, construção, alvenaria, lote-3]
 
 # Stonemason's Hut — Oficina do Pedreiro
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutstonemason/principal.png" alt="Bloco da construção Oficina do Pedreiro" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,22 @@ Ensine blocos, lajes, escadas e componentes realmente usados pelos construtores.
 
 [[content/04 - Profissões/Stonemason - Pedreiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/principal.png) | ![Receitas de fabricação — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/receitas-de-fabricacao.png) |
+
+| Controle de receitas | Configurações |
+|---|---|
+| ![Controle de receitas — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/controle-de-receitas.png) | ![Configurações — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/configuracoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/tarefas.png) |  |
+
+## Fontes
 - [Stonemason's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/stonemason/)

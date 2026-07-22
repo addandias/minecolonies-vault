@@ -18,6 +18,9 @@ tags: [minecolonies, construção, agricultura, lote-6]
 
 # Composter’s Hut — Cabana do Compostador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutcomposter/principal.png" alt="Bloco da construção Cabana do Compostador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -27,6 +30,20 @@ tags: [minecolonies, construção, agricultura, lote-6]
 ## Visão geral
 
 O compostador transforma materiais orgânicos em composto usando barris de compostagem. Também pode produzir terra e, ocasionalmente, podzol. Exige a pesquisa **Biodegradável** (*Biodegradable*).
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Itens para compostagem |
+|---|---|
+| ![Principal — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/principal.png) | ![Itens para compostagem — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/itens-para-compostagem.png) |
+
+| Configurações |  |
+|---|---|
+| ![Configurações — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/configuracoes.png) |  |
 
 ## Capacidade
 

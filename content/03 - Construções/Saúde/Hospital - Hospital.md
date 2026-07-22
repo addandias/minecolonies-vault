@@ -18,6 +18,9 @@ tags: [minecolonies, construção, saúde, lote-4]
 
 # Hospital — Hospital
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhuthospital/principal.png" alt="Bloco da construção Hospital" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -27,6 +30,16 @@ tags: [minecolonies, construção, saúde, lote-4]
 ## Visão geral
 
 Cidadãos feridos ou doentes procuram o Hospital, onde o médico usa os itens necessários ao tratamento. Exige a pesquisa **Vigor** (*Stamina*).
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Hospital](../../../assets/interfaces/construcoes/hospital/principal.png) | ![Estoque mínimo — Hospital](../../../assets/interfaces/construcoes/hospital/estoque.png) |
 
 ## Capacidade
 
