@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, apicultura, lote-7a]
 
 # Beekeeper — Apicultor
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/beekeeper/masculino.png" alt="Apicultor — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/beekeeper/feminino.png" alt="Apicultor — aparência feminina" width="120" align="right">
+
 Trabalha no [[content/03 - Construções/Criação de Animais/Apiary - Apiário]], cuidando das colmeias e coletando mel ou favos.
 
 **Destreza** (*Dexterity*) reduz o risco de ferroada; **Adaptabilidade** (*Adaptability*) reduz o intervalo entre verificações. Associe colmeias, habilite flores e escolha o produto na interface.

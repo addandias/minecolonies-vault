@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, animais, cavalos, lote-10a]
 
 # Stablemaster — Mestre do estábulo
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/stablemaster/masculino.png" alt="Mestre do estábulo — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/stablemaster/feminino.png" alt="Mestre do estábulo — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O mestre do estábulo cuida dos cavalos da [[content/03 - Construções/Criação de Animais/Stable - Estábulo|Stable]] e conduz sua reprodução. O trabalho depende de animais acessíveis, alimentação disponível e espaço seguro para circulação.

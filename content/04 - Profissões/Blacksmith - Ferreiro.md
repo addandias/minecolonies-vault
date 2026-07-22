@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Blacksmith — Ferreiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/blacksmith/masculino.png" alt="Ferreiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/blacksmith/feminino.png" alt="Ferreiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Blacksmith's Hut - Ferraria]], criando ferramentas, armas, escudos e armaduras. **Força** (*Strength*) acelera o artesanato; **Concentração** (*Focus*) pode economizar materiais.
 
 ## Fontes

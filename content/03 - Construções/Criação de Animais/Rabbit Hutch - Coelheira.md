@@ -18,6 +18,9 @@ tags: [minecolonies, construção, coelhos, lote-7a]
 
 # Rabbit Hutch — Coelheira
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutrabbithutch/principal.png" alt="Bloco da construção Coelheira" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -47,6 +50,18 @@ O Criador de Coelhos cria e abate coelhos. O jogador deve levar os dois primeiro
 
 [[content/04 - Profissões/Rabbit Herder - Criador de Coelhos]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Configurações |
+|---|---|
+| ![Principal — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/principal.png) | ![Configurações — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/estoque.png) |  |
+
+## Fontes
 - [Rabbit Hutch — Wiki oficial](https://minecolonies.com/wiki/buildings/rabbithutch/)

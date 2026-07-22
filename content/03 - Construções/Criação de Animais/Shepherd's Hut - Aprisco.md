@@ -18,6 +18,9 @@ tags: [minecolonies, construção, pecuária, lote-7b]
 
 # Shepherd’s Hut — Aprisco
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutshepherd/principal.png" alt="Bloco da construção Aprisco" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -45,6 +48,18 @@ As configurações controlam reprodução, alimentação, coloração e tosquia.
 
 [[content/04 - Profissões/Shepherd - Pastor]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Configurações |
+|---|---|
+| ![Principal — Aprisco](../../../assets/interfaces/construcoes/shepherd/principal.png) | ![Configurações — Aprisco](../../../assets/interfaces/construcoes/shepherd/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Aprisco](../../../assets/interfaces/construcoes/shepherd/estoque.png) |  |
+
+## Fontes
 - [Shepherd’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/shepherd/)

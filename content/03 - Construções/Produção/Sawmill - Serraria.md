@@ -18,6 +18,9 @@ tags: [minecolonies, construção, artesanato, lote-3]
 
 # Sawmill — Serraria
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutsawmill/principal.png" alt="Bloco da construção Serraria" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -55,6 +58,22 @@ Ensine primeiro tábuas, escadas, cercas, portas e componentes pedidos com frequ
 
 [[content/04 - Profissões/Carpenter - Carpinteiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Serraria](../../../assets/interfaces/construcoes/sawmill/principal.png) | ![Receitas de fabricação — Serraria](../../../assets/interfaces/construcoes/sawmill/receitas-de-fabricacao.png) |
+
+| Controle de receitas | Configurações |
+|---|---|
+| ![Controle de receitas — Serraria](../../../assets/interfaces/construcoes/sawmill/controle-de-receitas.png) | ![Configurações — Serraria](../../../assets/interfaces/construcoes/sawmill/configuracoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Serraria](../../../assets/interfaces/construcoes/sawmill/tarefas.png) |  |
+
+## Fontes
 - [Sawmill — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/sawmill/)

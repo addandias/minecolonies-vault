@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, pesca, lote-2]
 
 # Fisher — Pescador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/fisher/masculino.png" alt="Pescador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/fisher/feminino.png" alt="Pescador — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Fisher usa uma vara para obter peixes e outros itens em um corpo d'água válido.

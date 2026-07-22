@@ -7,9 +7,9 @@ Os arquivos visuais do Vault são separados pelo tipo de conteúdo que represent
 ```text
 assets/
 ├── construcoes/<estilo>/<grupo>/<subgrupo>/<construcao>/
-├── profissoes/<profissao>/
-├── itens/<categoria>/<item>/
-├── interfaces/construcoes/<construcao>/
+├── profissoes/<identificador-do-worker>/
+├── itens/blocos-de-construcao/<identificador-do-item>/
+├── interfaces/construcoes/<identificador-da-interface>/
 ├── diagramas/<tema>/
 └── icones/<uso>/
 ```
@@ -31,6 +31,6 @@ Três grupos de recursos oficiais podem complementar as capturas das construçõ
 - `itens/blocos-de-construcao/`: ícones dos blocos das cabanas;
 - `profissoes/`: retratos renderizados dos trabalhadores.
 
-Cada grupo possui um README próprio com convenção de nomes, origem e cuidados de versão. Os arquivos oficiais devem apontar para [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) ou [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki), conforme a origem.
+Cada grupo possui um README próprio com convenção de nomes, origem e cuidados de versão. Os arquivos importados nesta etapa apontam para [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki); os itens preservam também o commit exato do fork usado para recuperar o acervo.
 
 As páginas navegáveis ficam em [[content/00 - Índices/Índice de Galerias|Índice de Galerias]].

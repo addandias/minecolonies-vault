@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, defesa, lote-5]
 
 # Druid — Druida
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/druid/masculino.png" alt="Druida — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/druid/feminino.png" alt="Druida — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Druida é um guarda de suporte que utiliza efeitos arremessáveis. Atua melhor acompanhado por cavaleiros e arqueiros.

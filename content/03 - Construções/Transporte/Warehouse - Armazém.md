@@ -16,6 +16,9 @@ tags: [minecolonies, construção, logística, lote-1]
 
 # Warehouse — Armazém
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutwarehouse/principal.png" alt="Bloco da construção Armazém" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -49,6 +52,17 @@ Cada entregador ainda precisa de sua própria Cabana do Entregador.
 - no nível 5, permitem ampliar três vezes a capacidade de pilhas por Rack usando blocos de esmeralda.
 
 ## Interface
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Armazém](../../../assets/interfaces/construcoes/warehouse/principal.png) | ![Estoque mínimo — Armazém](../../../assets/interfaces/construcoes/warehouse/estoque.png) |
+
+| Armazenamento | Trabalhadores |
+|---|---|
+| ![Armazenamento — Armazém](../../../assets/interfaces/construcoes/warehouse/armazenamento.png) | ![Trabalhadores — Armazém](../../../assets/interfaces/construcoes/warehouse/trabalhadores.png) |
 
 ### Workers
 

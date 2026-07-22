@@ -17,6 +17,9 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 
 # Dining Hall — Salão de Refeições
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutcook/principal.png" alt="Bloco da construção Salão de Refeições" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -40,6 +43,16 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 
 ## Interface
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Alimentação |
+|---|---|
+| ![Principal — Salão de Refeições](../../../assets/interfaces/construcoes/cook/principal.png) | ![Alimentação — Salão de Refeições](../../../assets/interfaces/construcoes/cook/alimentacao.png) |
+
+| Combustível | Estatísticas |
+|---|---|
+| ![Combustível — Salão de Refeições](../../../assets/interfaces/construcoes/cook/combustivel.png) | ![Estatísticas — Salão de Refeições](../../../assets/interfaces/construcoes/cook/estatisticas.png) |
 Nas listas de **Food** e **Fuel**, escolha o que o trabalhador pode utilizar. Uma lista excessivamente restrita pode deixar cidadãos sem comida mesmo com estoque disponível.
 
 Em 1259-snapshot, o menu de alimentos passou a calcular os ingredientes das refeições selecionadas e estimar quanto os cidadãos atendidos consomem por dia. Trate o intervalo como uma referência operacional, não como estoque máximo: atrasos logísticos e novos moradores ainda exigem margem.

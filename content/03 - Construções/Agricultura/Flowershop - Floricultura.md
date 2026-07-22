@@ -19,6 +19,9 @@ tags: [minecolonies, construção, flores, lote-6, lote-10d]
 
 # Flowershop — Floricultura
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutflorist/principal.png" alt="Bloco da construção Floricultura" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -28,6 +31,20 @@ tags: [minecolonies, construção, flores, lote-6, lote-10d]
 ## Visão geral
 
 O florista usa composto e machado para produzir flores. A construção exige **Flower Power**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Cultivos |
+|---|---|
+| ![Principal — Floricultura](../../../assets/interfaces/construcoes/florist/principal.png) | ![Cultivos — Floricultura](../../../assets/interfaces/construcoes/florist/cultivos.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Floricultura](../../../assets/interfaces/construcoes/florist/estoque.png) |  |
 
 ## Produção diária
 

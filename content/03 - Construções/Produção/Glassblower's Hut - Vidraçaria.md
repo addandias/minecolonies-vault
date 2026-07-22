@@ -18,6 +18,9 @@ tags: [minecolonies, construção, vidro, lote-3]
 
 # Glassblower's Hut — Vidraçaria
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutglassblower/principal.png" alt="Bloco da construção Vidraçaria" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -44,6 +47,26 @@ britador ou coleta de areia → Armazém → Vidraçaria → vidro → construto
 
 [[content/04 - Profissões/Glassblower - Vidreiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/principal.png) | ![Receitas de fabricação — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/receitas-de-fabricacao.png) |
+
+| Controle de receitas | Combustível |
+|---|---|
+| ![Controle de receitas — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/controle-de-receitas.png) | ![Combustível — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/combustivel.png) |
+
+| Configurações | Receitas de fundição |
+|---|---|
+| ![Configurações — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/configuracoes.png) | ![Receitas de fundição — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/receitas-de-fundicao.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/tarefas.png) |  |
+
+## Fontes
 - [Glassblower's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/glassblower/)

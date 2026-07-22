@@ -18,6 +18,9 @@ tags: [minecolonies, construção, recursos, lote-2]
 
 # Sifter's Hut — Cabana do Peneirador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutsifter/principal.png" alt="Bloco da construção Cabana do Peneirador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -27,6 +30,20 @@ tags: [minecolonies, construção, recursos, lote-2]
 ## Visão geral
 
 O Sifter consome terra, cascalho, areia ou areia das almas para recuperar materiais úteis. A construção exige a pesquisa **Sieving** na University.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/principal.png) | ![Receitas de fabricação — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/receitas-de-fabricacao.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/estoque.png) |  |
 
 ## Malhas e capacidade
 

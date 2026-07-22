@@ -14,6 +14,10 @@ tags: [minecolonies, profissão, alimentação, lote-2]
 
 # Waiter — Garçom
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/cook/masculino.png" alt="Garçom — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/cook/feminino.png" alt="Garçom — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Waiter trabalha no Salão de Refeições. Ele prepara alimentos simples compatíveis com fornalha, atende cidadãos famintos e distribui comida disponível. O nome antigo **Cook** foi preservado como alias.

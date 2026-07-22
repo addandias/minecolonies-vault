@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, defesa, lote-10b]
 
 # Marksman — Atirador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/archer/masculino.png" alt="Atirador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/archer/feminino.png" alt="Atirador — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O atirador é um guarda de longo alcance que usa besta. Parte de seu dano ignora armadura, criando uma opção especializada contra invasores protegidos.

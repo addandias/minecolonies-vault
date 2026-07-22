@@ -15,9 +15,30 @@ tags: [minecolonies, agricultura, campo, lote-2, lote-10d]
 
 # Field — Campo
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/field/principal.png" alt="Bloco da construção Campo" width="96" align="right">
+
 ## Visão geral
 
 O campo é o bloco de controle da área cultivada pelo Farmer. Ele se parece com um espantalho e não funciona como uma cabana independente: precisa ser associado a uma Cabana do Fazendeiro.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Campo](../../../assets/interfaces/construcoes/farmer/principal.png) | ![Receitas de fabricação — Campo](../../../assets/interfaces/construcoes/farmer/receitas-de-fabricacao.png) |
+
+| Campos | Configurações |
+|---|---|
+| ![Campos — Campo](../../../assets/interfaces/construcoes/farmer/campos.png) | ![Configurações — Campo](../../../assets/interfaces/construcoes/farmer/configuracoes.png) |
+
+| Estoque mínimo | Tarefas |
+|---|---|
+| ![Estoque mínimo — Campo](../../../assets/interfaces/construcoes/farmer/estoque.png) | ![Tarefas — Campo](../../../assets/interfaces/construcoes/farmer/tarefas.png) |
 
 ## Dimensões
 

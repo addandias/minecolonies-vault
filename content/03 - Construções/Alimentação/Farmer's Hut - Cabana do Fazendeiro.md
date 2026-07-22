@@ -17,6 +17,9 @@ tags: [minecolonies, construção, agricultura, lote-2]
 
 # Farmer's Hut — Cabana do Fazendeiro
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutfarmer/principal.png" alt="Bloco da construção Cabana do Fazendeiro" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -29,6 +32,24 @@ tags: [minecolonies, construção, agricultura, lote-2]
 ## Visão geral
 
 O Farmer cultiva trigo, cenoura, batata, beterraba, melão, abóbora e plantações compatíveis de outros mods. Culturas especiais do MineColonies são fundamentais para refeições de maior qualidade.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/principal.png) | ![Receitas de fabricação — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/receitas-de-fabricacao.png) |
+
+| Campos | Configurações |
+|---|---|
+| ![Campos — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/campos.png) | ![Configurações — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/configuracoes.png) |
+
+| Estoque mínimo | Tarefas |
+|---|---|
+| ![Estoque mínimo — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/estoque.png) | ![Tarefas — Cabana do Fazendeiro](../../../assets/interfaces/construcoes/farmer/tarefas.png) |
 
 ## Campos
 

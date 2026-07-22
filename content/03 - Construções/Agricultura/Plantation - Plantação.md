@@ -18,6 +18,9 @@ tags: [minecolonies, construção, agricultura, lote-6]
 
 # Plantation — Plantação
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutplantation/principal.png" alt="Bloco da construção Plantação" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -30,6 +33,24 @@ A Plantação cultiva cana-de-açúcar, cacto, bambu e várias plantas especiais
 
 > [!IMPORTANT]
 > Seus campos são esquemas construídos pelo construtor. Eles não usam o espantalho dos campos da Farmer’s Hut.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Plantação](../../../assets/interfaces/construcoes/plantation/principal.png) | ![Receitas de fabricação — Plantação](../../../assets/interfaces/construcoes/plantation/receitas-de-fabricacao.png) |
+
+| Campos | Configurações |
+|---|---|
+| ![Campos — Plantação](../../../assets/interfaces/construcoes/plantation/campos.png) | ![Configurações — Plantação](../../../assets/interfaces/construcoes/plantation/configuracoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Plantação](../../../assets/interfaces/construcoes/plantation/tarefas.png) |  |
 
 ## Campos e culturas simultâneas
 

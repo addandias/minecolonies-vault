@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Smelter — Fundidor
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/smelter/masculino.png" alt="Fundidor — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/smelter/feminino.png" alt="Fundidor — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Smeltery - Fundição]], convertendo minérios em lingotes com bônus de produção. **Atletismo** (*Athletics*) amplia o uso de fornos; **Força** (*Strength*) melhora a velocidade e eficiência.
 
 ## Fontes

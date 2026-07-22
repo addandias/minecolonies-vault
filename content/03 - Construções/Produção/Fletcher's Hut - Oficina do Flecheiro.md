@@ -18,6 +18,9 @@ tags: [minecolonies, construção, artesanato, lote-3]
 
 # Fletcher's Hut — Oficina do Flecheiro
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutfletcher/principal.png" alt="Bloco da construção Oficina do Flecheiro" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,22 @@ Ensine as receitas necessárias, mantenha gravetos, linha, penas e componentes n
 
 [[content/04 - Profissões/Fletcher - Flecheiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/principal.png) | ![Receitas de fabricação — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/receitas-de-fabricacao.png) |
+
+| Controle de receitas | Configurações |
+|---|---|
+| ![Controle de receitas — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/controle-de-receitas.png) | ![Configurações — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/configuracoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/tarefas.png) |  |
+
+## Fontes
 - [Fletcher's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/fletcher/)

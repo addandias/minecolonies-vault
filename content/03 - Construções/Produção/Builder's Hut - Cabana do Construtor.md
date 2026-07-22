@@ -16,6 +16,9 @@ tags: [minecolonies, construção, produção, lote-1]
 
 # Builder's Hut — Cabana do Construtor
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutbuilder/principal.png" alt="Bloco da construção Cabana do Construtor" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -62,6 +65,21 @@ tags: [minecolonies, construção, produção, lote-1]
 Os materiais e a aparência variam conforme o esquema Medieval Dark Oak.
 
 ## Interface
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/principal.png) | ![Receitas de fabricação — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/receitas-de-fabricacao.png) |
+
+| Recursos necessários | Configurações |
+|---|---|
+| ![Recursos necessários — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/recursos-necessarios.png) | ![Configurações — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/configuracoes.png) |
+
+| Estoque mínimo | Ordens de construção |
+|---|---|
+| ![Estoque mínimo — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/estoque.png) | ![Ordens de construção — Cabana do Construtor](../../../assets/interfaces/construcoes/builder/ordens-de-construcao.png) |
 
 ### Required Resources
 

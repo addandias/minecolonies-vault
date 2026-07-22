@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, serviço, lote-4]
 
 # Undertaker — Coveiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/undertaker/masculino.png" alt="Coveiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/undertaker/feminino.png" alt="Coveiro — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O coveiro trabalha no [[content/03 - Construções/Serviços/Graveyard - Cemitério]], recuperando sepulturas, inventários e tentando ressuscitar cidadãos.

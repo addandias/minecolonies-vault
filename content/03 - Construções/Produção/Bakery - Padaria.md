@@ -18,6 +18,9 @@ tags: [minecolonies, construção, alimentação, lote-3, lote-10c]
 
 # Bakery — Padaria
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutbaker/principal.png" alt="Bloco da construção Padaria" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -52,8 +55,28 @@ Mesmo com a perda menor, mantenha garrafas vazias em estoque para que pedidos em
 
 [[content/04 - Profissões/Baker - Padeiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Padaria](../../../assets/interfaces/construcoes/baker/principal.png) | ![Receitas de fabricação — Padaria](../../../assets/interfaces/construcoes/baker/receitas-de-fabricacao.png) |
+
+| Combustível | Configurações |
+|---|---|
+| ![Combustível — Padaria](../../../assets/interfaces/construcoes/baker/combustivel.png) | ![Configurações — Padaria](../../../assets/interfaces/construcoes/baker/configuracoes.png) |
+
+| Receitas de fundição | Estoque mínimo |
+|---|---|
+| ![Receitas de fundição — Padaria](../../../assets/interfaces/construcoes/baker/receitas-de-fundicao.png) | ![Estoque mínimo — Padaria](../../../assets/interfaces/construcoes/baker/estoque.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Padaria](../../../assets/interfaces/construcoes/baker/tarefas.png) |  |
+
+## Fontes
 - [Bakery — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/baker/)
 - [PR #11683 — Food Adjustments #1](https://github.com/ldtteam/minecolonies/pull/11683)
 - [PR #11714 — Bottle safety](https://github.com/ldtteam/minecolonies/pull/11714)

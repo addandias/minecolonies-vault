@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Stonemason — Pedreiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/stonemason/masculino.png" alt="Pedreiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/stonemason/feminino.png" alt="Pedreiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Stonemason's Hut - Oficina do Pedreiro]], produzindo componentes de pedra. **Criatividade** (*Creativity*) pode reduzir consumo; **Destreza** (*Dexterity*) acelera a fabricação.
 
 ## Fontes

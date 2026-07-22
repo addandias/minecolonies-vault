@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, nether, expedição, lote-8b]
 
 # Nether Miner — Mineiro do Nether
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/netherminer/masculino.png" alt="Mineiro do Nether — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/netherminer/feminino.png" alt="Mineiro do Nether — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether]], realizando expedições simuladas para obter materiais do Nether.
 
 ## Habilidades

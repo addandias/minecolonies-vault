@@ -18,6 +18,9 @@ tags: [minecolonies, construção, redstone, lote-3]
 
 # Mechanic's Hut — Oficina do Mecânico
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutmechanic/principal.png" alt="Bloco da construção Oficina do Mecânico" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,22 @@ Exige **What ya Need?**, pesquisa que depende de Ferreiro's Huts somando ao meno
 
 [[content/04 - Profissões/Mechanic - Mecânico]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/principal.png) | ![Receitas de fabricação — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/receitas-de-fabricacao.png) |
+
+| Controle de receitas | Configurações |
+|---|---|
+| ![Controle de receitas — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/controle-de-receitas.png) | ![Configurações — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/configuracoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/tarefas.png) |  |
+
+## Fontes
 - [Mechanic's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/mechanic/)

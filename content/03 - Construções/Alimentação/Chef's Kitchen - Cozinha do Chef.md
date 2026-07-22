@@ -18,6 +18,9 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 
 # Chef's Kitchen — Cozinha do Chef
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutkitchen/principal.png" alt="Bloco da construção Cozinha do Chef" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -27,6 +30,24 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 ## Visão geral
 
 A Cozinha do Chef produz refeições elaboradas sob demanda para manter os Dining Halls abastecidos. Ela complementa o Waiter: o Chef fabrica, a logística transporta e o salão distribui.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/principal.png) | ![Receitas de fabricação — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/receitas-de-fabricacao.png) |
+
+| Combustível | Receitas de fundição |
+|---|---|
+| ![Combustível — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/combustivel.png) | ![Receitas de fundição — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/receitas-de-fundicao.png) |
+
+| Estoque mínimo | Tarefas |
+|---|---|
+| ![Estoque mínimo — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/estoque.png) | ![Tarefas — Cozinha do Chef](../../../assets/interfaces/construcoes/kitchen/tarefas.png) |
 
 ## Receitas por nível
 

@@ -18,6 +18,9 @@ tags: [minecolonies, construção, concreto, lote-3]
 
 # Concrete Mixer's Hut — Oficina de Concreto
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutconcretemixer/principal.png" alt="Bloco da construção Oficina de Concreto" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,18 @@ Areia + cascalho + corante → Oficina de Concreto → concreto → Armazém →
 
 [[content/04 - Profissões/Concrete Mixer - Misturador de Concreto]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Oficina de Concreto](../../../assets/interfaces/construcoes/concretemixer/principal.png) | ![Receitas de fabricação — Oficina de Concreto](../../../assets/interfaces/construcoes/concretemixer/receitas-de-fabricacao.png) |
+
+| Configurações | Tarefas |
+|---|---|
+| ![Configurações — Oficina de Concreto](../../../assets/interfaces/construcoes/concretemixer/configuracoes.png) | ![Tarefas — Oficina de Concreto](../../../assets/interfaces/construcoes/concretemixer/tarefas.png) |
+
+## Fontes
 - [Concrete Mixer's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/concretemixer/)
