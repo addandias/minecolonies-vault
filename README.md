@@ -1,6 +1,6 @@
 # MineColonies Vault
 
-Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1259 para Minecraft 1.20.1**, escrito em português e organizado como um Vault do Obsidian.
+Um guia comunitário, visual e navegável criado por mim sobre **MineColonies para Minecraft 1.20.1**, escrito em português e organizado somente para o Vault do Obsidian... (por enquanto :3).
 
 > [!WARNING] Projeto em estado pré-1.0
 > O Vault já possui conteúdo utilizável, mas ainda passa por revisão antes da primeira versão estável. Estrutura, nomes, links e orientações podem mudar; páginas `rascunho` ainda precisam de pesquisa, enquanto páginas `em_revisao` conservam pendências editoriais explícitas no campo `revisao_pendente`.
@@ -16,24 +16,17 @@ Um guia comunitário, visual e navegável sobre **MineColonies 1.1.1259 para Min
 
 ## Princípios do projeto
 
-- Informações verificadas para Minecraft 1.20.1.
-- Português claro, mantendo os nomes oficiais em inglês.
-- Uma página canônica para cada construção e profissão.
-- Links internos do Obsidian em vez de conteúdo duplicado.
-- Criatividade na navegação, nos diagramas e na apresentação.
-- Fontes registradas em todas as páginas factuais.
-
-Leia [[content/09 - Referências/Princípios editoriais|Princípios editoriais]] antes de contribuir.
+- Informações verificadas para Minecraft 1.20.1. (por enquanto :3)
+- Tradução apenas para o português pt-BR.
 
 ## Versão de referência
 
 - **Minecraft:** 1.20.1
-- **MineColonies:** 1.1.1259
+- **MineColonies:** `1259-snapshot`
 - **Tipo da versão:** `prerelease`
-- **Registro curto:** `1259-snapshot`
 - **Tag oficial:** `v1.20.1-1.1.1259-snapshot`
 
-O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. Nas notas editoriais e no histórico, o Vault usa o registro curto `1259-snapshot`; a tag oficial completa fica reservada para referências técnicas e links. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
+O tipo `prerelease` acompanha a classificação usada pelos desenvolvedores na versão disponibilizada publicamente no GitHub. A tag oficial completa fica reservada para referências técnicas e links. Modpacks e versões anteriores da linha 1.20.1 podem conservar nomes, interfaces ou comportamentos antigos; nesses casos, os termos anteriores são mantidos como aliases quando necessário.
 
 ## Estado atual
 
@@ -51,7 +44,7 @@ Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] p
 
 Depois que o Vault for reconhecido localmente, use:
 
-[Abrir a página inicial no Obsidian](obsidian://open?vault=minecolonies-vault&file=In%C3%ADcio)
+[Abrir a página inicial no Obsidian](https://obsid.net/?vault=minecolonies-vault&file=In%C3%ADcio)
 
 ### Sincronizar com o GitHub
 
@@ -61,33 +54,12 @@ O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidia
 2. Abra a pasta clonada como cofre.
 3. Instale e ative o plugin **Git**.
 4. Ative **Pull updates on startup**.
-5. Comece com commits e sincronizações manuais pelo comando **Commit-and-sync**.
-6. Só habilite intervalos automáticos depois de confirmar que `pull` e `push` funcionam sem conflitos.
+5. Configure um intervalo automático para buscar atualizações do repositório.
+6. Use o comando **Pull** quando quiser receber uma atualização imediatamente.
+
+Essa configuração é destinada a receber as atualizações do projeto no Obsidian. Não use **Commit-and-sync** nem envie alterações ao repositório. Caso encontre um erro ou tenha uma sugestão, abra uma [Issue no GitHub](https://github.com/addandias/minecolonies-vault/issues).
 
 Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
-
-### Validar antes de contribuir
-
-Na raiz do repositório, execute:
-
-```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.github/scripts/validate-vault.ps1
-```
-
-O verificador confere UTF-8 sem BOM, links e imagens do Obsidian, links Markdown locais, frontmatter das construções e profissões e a convenção curta dos registros de versão. O mesmo comando é executado automaticamente pelo GitHub Actions em cada `push` e pull request.
-
-### Fluxo de edição protegido
-
-O trabalho editorial contínuo deve ser feito na branch `vault-edits`:
-
-1. Atualize `vault-edits` antes de começar.
-2. Faça e revise as alterações no Vault.
-3. Execute o verificador local.
-4. Envie as alterações para `vault-edits`.
-5. Abra um pull request de `vault-edits` para `main`.
-6. Mescle somente depois que a verificação **Conteúdo e estrutura** estiver aprovada e todas as conversas estiverem resolvidas.
-
-A branch `main` exige pull request, validação atualizada com a base e histórico linear. Force-push e exclusão estão bloqueados tanto em `main` quanto em `vault-edits`. Atualmente, somente **addandias** possui permissão de escrita e mesclagem no repositório.
 
 ## Licença e atribuição
 
@@ -108,5 +80,7 @@ As capturas das construções no estilo **Medieval Dark Oak** foram organizadas 
 - **Aplicação:** [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/)
 
 Agradecemos a **tomp2** pelo trabalho de catalogar e disponibilizar uma forma prática de explorar visualmente os estilos do MineColonies, e à comunidade e aos builders do **MineColonies** pela criação das construções apresentadas.
+
+Os ícones dos blocos de construção e os retratos renderizados dos trabalhadores usados nas fichas visuais provêm do projeto oficial [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies). As capturas das interfaces provêm do projeto oficial [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki). Agradecemos à **LDTeam**, à equipe da wiki e aos colaboradores do MineColonies pela criação e manutenção desses recursos, disponibilizados sob a **GNU GPL v3.0**.
 
 As imagens são usadas para fins informativos e de referência visual. Os créditos e direitos das construções permanecem com seus respectivos autores.
