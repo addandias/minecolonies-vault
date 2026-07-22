@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, corantes, lote-3]
 ---
 
@@ -26,15 +26,15 @@ tags: [minecolonies, construção, corantes, lote-3]
 
 ## Função
 
-O Dyer fabrica corantes e itens coloridos por receitas de artesanato ou fundição. Exige **Rainbow Heaven**.
+O tingidor fabrica corantes e itens coloridos por receitas de artesanato ou fundição. Exige **Rainbow Heaven**.
 
 ## Operação
 
-Ensine apenas as cores usadas pelos projetos atuais, habilite combustível e mantenha flores ou outras fontes de pigmento no Warehouse.
+Ensine apenas as cores usadas pelos projetos atuais, habilite combustível e mantenha flores ou outras fontes de pigmento no Armazém.
 
 ## Habilidades
 
-**Creativity** pode economizar materiais; **Dexterity** acelera a produção.
+**Criatividade** (*Creativity*) pode economizar materiais; **Destreza** (*Dexterity*) acelera a produção.
 
 ## Profissão
 

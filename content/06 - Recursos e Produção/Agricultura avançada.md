@@ -9,7 +9,7 @@ tags: [minecolonies, agricultura, produção, lote-6]
 
 ## Objetivo
 
-O Lote 6 expande a agricultura além dos alimentos básicos: reaproveita excedentes, produz flores e automatiza plantas que não pertencem aos Fields comuns.
+O Lote 6 expande a agricultura além dos alimentos básicos: reaproveita excedentes, produz flores e automatiza plantas que não pertencem aos campos comuns.
 
 ```mermaid
 flowchart LR

@@ -42,7 +42,7 @@ O compostador transforma materiais orgânicos em composto usando barris de compo
 
 - **Itens para compostagem** (*Items to Compost*): todos os itens começam desativados; habilite apenas excedentes renováveis.
 - **Produzir terra** (*Produce Dirt*): troca composto por terra e permite obter podzol ocasionalmente.
-- **Estoque mínimo do armazém** (*Min Warehouse Stock*): preserva uma quantidade mínima no armazém; o padrão é 16.
+- **Estoque mínimo do armazém** (*Min Armazém Stock*): preserva uma quantidade mínima no armazém; o padrão é 16.
 
 > [!WARNING]
 > Não autorize alimentos ou sementes essenciais sem limite. O compostador pode consumir a reserva de outra cadeia produtiva.

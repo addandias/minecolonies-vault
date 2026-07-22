@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, magia, encantamentos, lote-8a, lote-10d]
 ---
 
@@ -29,7 +29,7 @@ Trabalha na [[content/03 - Construções/Especializadas/Enchanter's Tower - Torr
 
 O Enchanter também fabrica pergaminhos conhecidos pela torre mediante solicitação.
 
-Em 1259-snapshot, o Enchanter também participa de cinco missões narrativas de pergaminhos. Algumas exigem Knight, Builder, Healer ou construções em níveis específicos. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões de 1259-snapshot|Pergaminhos e teletransporte]].
+Em 1259-snapshot, o Enchanter também participa de cinco missões narrativas de pergaminhos. Algumas exigem cavaleiro, construtor, Healer ou construções em níveis específicos. Consulte [[content/06 - Recursos e Produção/Pergaminhos e teletransporte#Missões de 1259-snapshot|Pergaminhos e teletransporte]].
 
 ## Fontes
 

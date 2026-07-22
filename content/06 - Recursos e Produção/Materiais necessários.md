@@ -1,7 +1,7 @@
 ---
 tipo: referencia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, recursos, produção, lote-3]
 ---
 
@@ -14,12 +14,12 @@ tags: [minecolonies, recursos, produção, lote-3]
 
 | Família | Entradas principais | Atende |
 |---|---|---|
-| Madeira | toras, tábuas, gravetos, mudas | Sawmill, Fletcher e Builder |
-| Pedra | pedregulho, pedra, areia, cascalho, argila | Crusher, Stonemason, Brickmaker e Glassblower |
-| Metal | minérios, lingotes, carvão | Smelter, Blacksmith e Mechanic |
-| Cor | flores, corantes, areia e cascalho | Dyer, Glassblower e Concrete Mixer |
-| Alimentação | trigo, açúcar, ovos e abóbora | Baker e Dining Hall |
-| Alquimia | frascos e ingredientes de poção | Alchemist |
+| Madeira | toras, tábuas, gravetos, mudas | Serraria, Fletcher e construtor |
+| Pedra | pedregulho, pedra, areia, cascalho, argila | britador, pedreiro, Brickmaker e vidreiro |
+| Metal | minérios, lingotes, carvão | Smelter, Ferreiro e mecânico |
+| Cor | flores, corantes, areia e cascalho | tingidor, vidreiro e misturador de concreto |
+| Alimentação | trigo, açúcar, ovos e abóbora | Baker e Salão de Refeições |
+| Alquimia | frascos e ingredientes de poção | Alquimista |
 
 ## Por fase
 
@@ -30,7 +30,7 @@ tags: [minecolonies, recursos, produção, lote-3]
 
 ## Estoques mínimos
 
-Use estoques mínimos para itens de consumo constante: ferramentas básicas, tochas, comida, combustível e componentes usados por vários projetos. Evite metas altas para materiais raros; elas podem monopolizar Couriers e matérias-primas.
+Use estoques mínimos para itens de consumo constante: ferramentas básicas, tochas, comida, combustível e componentes usados por vários projetos. Evite metas altas para materiais raros; elas podem monopolizar entregadores e matérias-primas.
 
 ## Leitura relacionada
 

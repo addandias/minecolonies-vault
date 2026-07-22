@@ -4,7 +4,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 ---
 
@@ -18,7 +18,7 @@ tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 | Produto ou família | Oficina | Entradas comuns | Pesquisa |
 |---|---|---|---|
 | Tábuas, escadas, lajes, cercas e portas | [[content/03 - Construções/Produção/Sawmill - Serraria|Sawmill]] | Toras e tábuas | Woodwork |
-| Racks e peças de madeira do Domum Ornamentum | [[content/03 - Construções/Produção/Sawmill - Serraria|Sawmill]] | Madeira | Woodwork |
+| estantes e peças de madeira do Domum Ornamentum | [[content/03 - Construções/Produção/Sawmill - Serraria|Sawmill]] | Madeira | Woodwork |
 | Arcos, bestas e flechas | [[content/03 - Construções/Produção/Fletcher's Hut - Oficina do Flecheiro|Fletcher's Hut]] | Gravetos, linha, penas e componentes | Stringwork |
 
 ## Pedra, argila e vidro
@@ -35,8 +35,8 @@ tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 
 | Recurso ou família | Origem | Operação | Observação |
 |---|---|---|---|
-| Pedra e minérios subterrâneos | [[content/03 - Construções/Recursos/Mine - Mina|Mine]] | Miner abre poço e ramificações | Pode obter oportunidades adicionais de minério |
-| Grandes volumes de pedra e blocos naturais | [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]] | Quarrier escava 1 × 1 ou 2 × 2 chunks | Produz somente os blocos existentes no terreno |
+| Pedra e minérios subterrâneos | [[content/03 - Construções/Recursos/Mine - Mina|Mine]] | mineiro abre poço e ramificações | Pode obter oportunidades adicionais de minério |
+| Grandes volumes de pedra e blocos naturais | [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]] | pedreiro de pedreira escava 1 × 1 ou 2 × 2 chunks | Produz somente os blocos existentes no terreno |
 
 ## Metal, ferramentas e mecanismos
 
@@ -63,8 +63,8 @@ tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 
 | Produto ou família | Construção | Entradas comuns | Pesquisa |
 |---|---|---|---|
-| Compost, Dirt e Podzol | [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Composter’s Hut]] | Materiais orgânicos | Biodegradable |
-| Flores | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | Compost e machado | Flower Power |
+| composto, terra e Podzol | [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Composter’s Hut]] | Materiais orgânicos | Biodegradable |
+| Flores | [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Flowershop]] | composto e machado | Flower Power |
 | Cana, bambu, cacto e plantas especiais | [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantation]] | Campos especializados | Let It Grow |
 
 ## Magia e encantamentos
@@ -72,32 +72,32 @@ tags: [minecolonies, receitas, oficinas, produção, fix, lote-10c]
 | Produto ou família | Construção | Entradas comuns | Pesquisa |
 |---|---|---|---|
 | Livros encantados | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Ancient Tome e experiência observada | Nenhuma |
-| Pergaminhos de teletransporte | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Papel, bússola, Build Tool ou pergaminhos-base | Varia conforme a receita |
+| Pergaminhos de teletransporte | [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador|Enchanter’s Tower]] | Papel, bússola, ferramenta de construção (*Build Tool*) ou pergaminhos-base | Varia conforme a receita |
 
 ## Recursos do Nether
 
 | Produto ou família | Construção | Origem | Pesquisa |
 |---|---|---|---|
 | Ingredientes de alquimia e recursos do Nether | [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether|Nether Mine]] | Expedições simuladas | Open the Nether |
-| Lava Bucket | [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether|Nether Mine]] | Receita da construção | Open the Nether |
+| balde de lava | [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether|Nether Mine]] | Receita da construção | Open the Nether |
 
 ## Transformações de recursos
 
 ```mermaid
 flowchart LR
-    A["Forester"] --> B["Sawmill"]
-    C["Mine"] --> D["Crusher"]
-    C --> E["Smeltery"]
-    Q["Quarry"] --> D
+    A["Lenhador"] --> B["Serraria"]
+    C["Mina"] --> D["britador"]
+    C --> E["Fundição"]
+    Q["Pedreira"] --> D
     Q --> F
-    D --> F["Stonemason / Brick Yard"]
-    D --> G["Glassblower / Concrete Mixer"]
-    E --> H["Blacksmith / Mechanic"]
-    I["Farmer e criadores"] --> J["Bakery / Chef's Kitchen"]
-    J --> K["Dining Hall"]
+    D --> F["pedreiro / Olaria"]
+    D --> G["vidreiro / misturador de concreto"]
+    E --> H["Ferreiro / mecânico"]
+    I["Farmer e criadores"] --> J["Padaria / Cozinha do Chef"]
+    J --> K["Salão de Refeições"]
     L["Ancient Tome"] --> M["Enchanter"]
     M --> N["Livros encantados e pergaminhos"]
-    O["Nether Mine"] --> P["Warehouse"]
+    O["Mina do Nether"] --> P["Armazém"]
     P --> D
     P --> E
     P --> H

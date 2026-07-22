@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, pecuária, produção, lote-7b]
 ---
 
@@ -19,7 +19,7 @@ tags: [minecolonies, pecuária, produção, lote-7b]
 2. Leve dois animais.
 3. Ative reprodução e alimentação.
 4. Defina estoque mínimo das ferramentas.
-5. Conecte os produtos ao Warehouse.
+5. Conecte os produtos ao Armazém.
 6. Desative reprodução quando a demanda estiver atendida.
 
 ## Cadeia
@@ -31,8 +31,8 @@ flowchart LR
     C --> D["Carne"]
     C --> E["Couro"]
     C --> F["Lã"]
-    D --> G["Chef / Dining Hall"]
-    E --> H["Builder e equipamentos"]
+    D --> G["Chef / Salão de Refeições"]
+    E --> H["construtor e equipamentos"]
     F --> H
 ```
 

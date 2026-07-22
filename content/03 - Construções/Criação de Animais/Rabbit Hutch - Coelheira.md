@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, coelhos, lote-7a]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, coelhos, lote-7a]
 
 ## Função
 
-O Rabbit Herder cria e abate coelhos. O jogador deve levar os dois primeiros animais.
+O Criador de Coelhos cria e abate coelhos. O jogador deve levar os dois primeiros animais.
 
 | Nível | Coelhos mantidos |
 |---:|---:|

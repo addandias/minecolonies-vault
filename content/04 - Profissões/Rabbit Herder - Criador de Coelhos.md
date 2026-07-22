@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, animais, lote-7a]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, animais, lote-7a]
 
 Trabalha na [[content/03 - Construções/Criação de Animais/Rabbit Hutch - Coelheira]], criando coelhos para carne e outros produtos.
 
-**Agility** melhora a chance de acertar o animal; **Athletics** acelera o crescimento. O jogador deve levar os dois primeiros coelhos.
+**Agilidade** (*Agility*) melhora a chance de acertar o animal; **Atletismo** (*Athletics*) acelera o crescimento. O jogador deve levar os dois primeiros coelhos.
 
 ## Fontes
 

@@ -10,7 +10,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: Builder
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, produção, lote-1]
 ---
 
@@ -27,27 +27,27 @@ tags: [minecolonies, construção, produção, lote-1]
 
 ## Visão geral
 
-É a primeira construção funcional obrigatória. Sem ela, o Builder não pode erguer as demais cabanas.
+É a primeira construção funcional obrigatória. Sem ela, o construtor não pode erguer as demais cabanas.
 
 ## Função
 
-- hospedar o posto de Builder;
+- hospedar o posto de construtor;
 - receber materiais das obras;
 - mostrar recursos necessários;
 - administrar ordens atribuídas;
 - manter estoque mínimo;
-- limitar o nível máximo que esse Builder consegue construir.
+- limitar o nível máximo que esse construtor consegue construir.
 
 > [!IMPORTANT] Regra de progressão
-> Um Builder só constrói ou melhora outros edifícios até o nível da própria Builder's Hut. Para construir um edifício de nível 3, a cabana desse Builder precisa estar pelo menos no nível 3.
+> Um construtor só constrói ou melhora outros edifícios até o nível da própria Cabana do Construtor. Para construir um edifício de nível 3, a cabana desse construtor precisa estar pelo menos no nível 3.
 
 ## Como construir
 
-1. Fabrique o bloco da Builder's Hut.
+1. Fabrique o bloco da Cabana do Construtor.
 2. Posicione-o com a [[content/01 - Primeiros Passos/Build Tool]].
 3. Abra o bloco e crie a ordem de construção.
 4. Um cidadão será atribuído automaticamente, salvo configuração manual.
-5. Coloque os materiais solicitados no bloco ou nos Racks.
+5. Coloque os materiais solicitados no bloco ou nos estantes.
 
 ## Níveis
 
@@ -69,9 +69,9 @@ Mostra projeto atual, etapa, percentual fornecido/usado e itens faltantes. Cores
 
 ### Work Orders
 
-Permite atribuir e cancelar obras. A fila global também pode ser organizada na Town Hall.
+Permite atribuir e cancelar obras. A fila global também pode ser organizada na Prefeitura.
 
-### Minimum Stock
+### Estoque mínimo (*Minimum Stock*)
 
 Mantém ferramentas ou materiais recorrentes disponíveis na cabana quando a logística estiver funcionando.
 
@@ -80,11 +80,11 @@ Mantém ferramentas ou materiais recorrentes disponíveis na cabana quando a log
 - Coloque a primeira cabana perto do centro das obras iniciais.
 - Evite rios, penhascos e caminhos longos.
 - Reserve acesso para entregas e armazenamento.
-- Em colônias grandes, use vários Builders em regiões diferentes.
+- Em colônias grandes, use vários construtores em regiões diferentes.
 
 ## Problemas frequentes
 
-### O Builder não começa
+### O construtor não começa
 
 Verifique:
 
@@ -98,7 +98,7 @@ Verifique:
 
 ### Uma melhoria está bloqueada
 
-Confira se a Builder's Hut responsável tem nível igual ou superior ao nível desejado.
+Confira se a Cabana do Construtor responsável tem nível igual ou superior ao nível desejado.
 
 ## Profissão
 

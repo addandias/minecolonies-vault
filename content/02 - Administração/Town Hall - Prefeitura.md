@@ -3,7 +3,7 @@ tipo: sistema
 nome: Administração pela Town Hall
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, administração, lote-1]
 ---
 
@@ -15,7 +15,7 @@ Esta página é a rota administrativa. Para níveis, posicionamento e construç�
 
 ### Verificar obras
 
-Abra **Information → Work Orders** para conferir e reorganizar a fila dos Builders.
+Abra **Information → Work Orders** para conferir e reorganizar a fila dos construtores.
 
 ### Verificar cidadãos
 

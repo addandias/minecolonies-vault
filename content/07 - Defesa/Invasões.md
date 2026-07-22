@@ -1,7 +1,7 @@
 ---
 tipo: sistema
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, defesa, invasões, lote-5, lote-10b]
 ---
 
@@ -18,28 +18,28 @@ Quando o tipo de raid não é definido previamente, o mod sorteia **Barbarians e
 Os atributos básicos dos grupos de invasores passaram a responder de forma mais explícita à dificuldade do mundo. Os Norsemen também foram rebalanceados: receberam mais armadura e menos vida.
 
 > [!NOTE] Análise do Vault
-> Como a armadura ganhou importância nos ataques Norsemen, [[content/04 - Profissões/Huscarl - Huscarl|Huscarls]] e [[content/04 - Profissões/Marksman - Atirador|Marksmen]] podem ajudar por converterem parte do dano em uma parcela que ignora armadura. Preserve Knights para bloqueio e proteja as unidades de longo alcance.
+> Como a armadura ganhou importância nos ataques Norsemen, [[content/04 - Profissões/Huscarl - Huscarl|Huscarls]] e [[content/04 - Profissões/Marksman - Atirador|Marksmen]] podem ajudar por converterem parte do dano em uma parcela que ignora armadura. Preserve cavaleiros para bloqueio e proteja as unidades de longo alcance.
 
 ## Durante o ataque
 
 1. Leia o aviso e identifique a direção.
 2. Recolha trabalhadores vulneráveis das áreas externas.
-3. Confirme tarefas e equipamento dos Guards.
+3. Confirme tarefas e equipamento dos guardas.
 4. Use portões e terreno para canalizar inimigos.
 5. Evite perseguir grupos para longe da cobertura.
 6. Depois da batalha, recupere feridos, itens e danos.
 
 > [!NOTE] Análise do Vault
-> Uma [[content/03 - Construções/Militar/Gatehouse - Portaria|Gatehouse]] pode organizar o gargalo, mas a defesa depende das torres que cobrem a entrada. Use [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]] para concentrar a reserva e Guard Towers para acessos afastados.
+> Uma [[content/03 - Construções/Militar/Gatehouse - Portaria|Gatehouse]] pode organizar o gargalo, mas a defesa depende das torres que cobrem a entrada. Use [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]] para concentrar a reserva e Torres de Guarda para acessos afastados.
 
 ## Espiões
 
-Um Barracks de nível 3 ou superior pode contratar espiões durante a invasão, permitindo destacar a posição atual dos atacantes.
+Um Quartel de nível 3 ou superior pode contratar espiões durante a invasão, permitindo destacar a posição atual dos atacantes.
 
 ## Falhas comuns
 
 - torres concentradas apenas no centro;
-- Guard sem arma, armadura ou comida;
+- guarda sem arma, armadura ou comida;
 - rotas manuais longas;
 - construções isoladas além da cobertura;
 - muralha sem patrulha ou acesso interno;

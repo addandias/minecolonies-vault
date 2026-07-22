@@ -1,7 +1,7 @@
 ---
 tipo: checklist
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, planejamento, checklist, lote-9a]
 ---
 
@@ -9,19 +9,19 @@ tags: [minecolonies, planejamento, checklist, lote-9a]
 
 ## Fundação
 
-- [ ] Town Hall fundada e acessível.
-- [ ] Builder’s Hut operacional.
-- [ ] Todos os cidadãos possuem Residence.
-- [ ] Espaço dos níveis futuros foi conferido com o Build Tool.
+- [ ] Prefeitura fundada e acessível.
+- [ ] construtor’s Hut operacional.
+- [ ] Todos os cidadãos possuem Residência.
+- [ ] Espaço dos níveis futuros foi conferido com a ferramenta de construção (*Build Tool*).
 - [ ] Caminhos básicos estão iluminados e seguros.
 
 ## Estabilidade
 
-- [ ] Dining Hall possui comida regular.
-- [ ] Farmer e Forester produzem recursos renováveis.
-- [ ] Mine fornece materiais básicos.
-- [ ] Warehouse recebe a produção.
-- [ ] Pelo menos um Courier atende os pedidos.
+- [ ] Salão de Refeições possui comida regular.
+- [ ] Farmer e Lenhador produzem recursos renováveis.
+- [ ] Mina fornece materiais básicos.
+- [ ] Armazém recebe a produção.
+- [ ] Pelo menos um entregador atende os pedidos.
 
 ## Expansão
 
@@ -29,8 +29,8 @@ tags: [minecolonies, planejamento, checklist, lote-9a]
 - [ ] Receitas recorrentes foram ensinadas.
 - [ ] Oficinas de madeira, pedra e metal estão integradas.
 - [ ] Hospital e Graveyard atendem a população.
-- [ ] Guard Towers cobrem os acessos.
-- [ ] Barracks Towers evoluem junto do Barracks e possuem equipamento para todos os Guards.
+- [ ] Torres de Guarda cobrem os acessos.
+- [ ] Torres do Quartel evoluem junto do Quartel e possuem equipamento para todos os guardas.
 - [ ] Gatehouses e entradas formais estão cobertas sem bloquear as rotas.
 
 ## Maturidade
@@ -40,7 +40,7 @@ tags: [minecolonies, planejamento, checklist, lote-9a]
 - [ ] Estoques mínimos cobrem ferramentas e materiais críticos.
 - [ ] Logística não apresenta congestionamento recorrente.
 - [ ] Cadeias místicas e do Nether estão integradas quando necessárias.
-- [ ] Quarry foi construída somente se a demanda justificar a área e o fluxo de blocos.
+- [ ] Pedreira foi construída somente se a demanda justificar a área e o fluxo de blocos.
 - [ ] Stable possui espaço, alimento e limite de reprodução compatíveis.
 - [ ] A colônia inicia grandes projetos sem paralisar serviços essenciais.
 

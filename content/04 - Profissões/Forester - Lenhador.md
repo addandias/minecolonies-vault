@@ -8,7 +8,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, madeira, lote-2]
 ---
 
@@ -16,7 +16,7 @@ tags: [minecolonies, profissão, madeira, lote-2]
 
 ## Visão geral
 
-O Forester corta árvores e replanta mudas, criando uma fonte renovável de toras, mudas e derivados. O trabalhador era conhecido como Lumberjack.
+O Lenhador corta árvores e replanta mudas, criando uma fonte renovável de toras, mudas e derivados. O trabalhador era conhecido como Lumberjack.
 
 ## Local de trabalho
 
@@ -29,11 +29,11 @@ O Forester corta árvores e replanta mudas, criando uma fonte renovável de tora
 - ativar o replantio;
 - delimitar uma zona de corte segura;
 - proteger árvores decorativas;
-- garantir retirada regular pelo Courier.
+- garantir retirada regular pelo entregador.
 
 ## Diagnóstico rápido
 
-Se o Forester estiver parado, confira ferramentas, mudas autorizadas, árvores maduras dentro do alcance, espaço para replantio e pedidos pendentes.
+Se o Lenhador estiver parado, confira ferramentas, mudas autorizadas, árvores maduras dentro do alcance, espaço para replantio e pedidos pendentes.
 
 ## Fontes
 

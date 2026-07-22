@@ -13,7 +13,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, flores, lote-6, lote-10d]
 ---
 
@@ -27,7 +27,7 @@ tags: [minecolonies, construção, flores, lote-6, lote-10d]
 
 ## Visão geral
 
-O Florist usa Compost e machado para produzir flores. A construção exige **Flower Power**.
+O florista usa composto e machado para produzir flores. A construção exige **Flower Power**.
 
 ## Produção diária
 
@@ -41,7 +41,7 @@ O Florist usa Compost e machado para produzir flores. A construção exige **Flo
 
 Antes do nível 3, cultiva apenas papoulas e dentes-de-leão. A partir do nível 3, a lista **Plantables** permite escolher as flores autorizadas.
 
-Em 1259-snapshot, a colheita passou a considerar corretamente o Florist e sua ferramenta ao consultar os drops. Isso corrige plantas como samambaias e grama, cujos drops dependem da ferramenta exigida pela loot table.
+Em 1259-snapshot, a colheita passou a considerar corretamente o florista e sua ferramenta ao consultar os itens obtidos. Isso corrige plantas como samambaias e grama, cujos itens obtidos dependem da ferramenta exigida pela tabela de saque.
 
 ## Habilidades
 
@@ -50,7 +50,7 @@ Em 1259-snapshot, a colheita passou a considerar corretamente o Florist e sua fe
 
 ## Cadeia
 
-Composter’s Hut → Compost → Flowershop → flores → Dyer’s Hut ou decoração.
+Cabana do Compostador → composto → Floricultura → flores → tingidor’s Hut ou decoração.
 
 ## Profissão
 

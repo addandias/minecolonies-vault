@@ -4,7 +4,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, alimentação, produção, lote-2, lote-10c]
 ---
 
@@ -22,25 +22,25 @@ tags: [minecolonies, alimentação, produção, lote-2, lote-10c]
 
 ## Ordem prática
 
-1. Garanta comida simples no Dining Hall.
-2. Construa Farmer's Hut e configure o primeiro Field.
-3. Acrescente Fields conforme o nível da cabana.
-4. Use Fisher's Hut quando houver água adequada.
-5. Acrescente Bakery ou Chef's Kitchen conforme os ingredientes disponíveis.
+1. Garanta comida simples no Salão de Refeições.
+2. Construa Cabana do Fazendeiro e configure o primeiro campo.
+3. Acrescente campos conforme o nível da cabana.
+4. Use Cabana do Pescador quando houver água adequada.
+5. Acrescente Padaria ou Cozinha do Chef conforme os ingredientes disponíveis.
 6. Ensine poucas receitas e confira o rendimento atual em 1259-snapshot.
-7. Use a estimativa de ingredientes do Dining Hall para ajustar estoques e entregadores.
+7. Use a estimativa de ingredientes do Salão de Refeições para ajustar estoques e entregadores.
 
 ## Gargalos comuns
 
 - campos sem semente;
 - falta de ferramentas;
 - receitas demais para poucos ingredientes;
-- Warehouse distante;
-- Couriers sobrecarregados;
+- Armazém distante;
+- entregadores sobrecarregados;
 - combustível bloqueado;
 - alimento final não autorizado no salão.
 - planejamento baseado em rendimentos anteriores ao rebalanceamento de 1259-snapshot;
-- falta de garrafas de reposição para receitas da Bakery.
+- falta de garrafas de reposição para receitas da Padaria.
 
 ## Fontes
 

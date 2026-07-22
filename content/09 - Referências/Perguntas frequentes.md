@@ -1,7 +1,7 @@
 ---
 tipo: referencia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, faq, lote-9b]
 ---
 
@@ -11,17 +11,17 @@ tags: [minecolonies, faq, lote-9b]
 
 Siga [[content/01 - Primeiros Passos/Começando no MineColonies]] e depois [[content/08 - Planejamento/Colônia inicial]].
 
-## Por que o Builder não trabalha?
+## Por que o construtor não trabalha?
 
-Abra a ordem e confira materiais, ferramenta exigida, acesso, nível da Builder’s Hut e disponibilidade do cidadão. Consulte [[content/02 - Administração/Sistema de pedidos]].
+Abra a ordem e confira materiais, ferramenta exigida, acesso, nível da construtor’s Hut e disponibilidade do cidadão. Consulte [[content/02 - Administração/Sistema de pedidos]].
 
 ## Restaurant e Dining Hall são a mesma construção?
 
-Dining Hall é o nome atual adotado pelo Vault. Restaurant foi preservado como nome antigo para facilitar buscas.
+Salão de Refeições é o nome atual adotado pelo Vault. Restaurant foi preservado como nome antigo para facilitar buscas.
 
-## Citizen’s Hut e Residence são a mesma construção?
+## Cabana do Cidadão (*Citizen’s Hut*) e Residência são a mesma construção?
 
-Residence é o nome atual. Citizen’s Hut é uma denominação antiga mantida como alias.
+Residência é o nome atual. Citizen’s Hut é uma denominação antiga mantida como alias.
 
 ## Preciso construir todas as oficinas?
 
@@ -29,7 +29,7 @@ Não. Priorize oficinas que resolvam pedidos recorrentes. A [[content/06 - Recur
 
 ## Como aumentar a população?
 
-Garanta vagas em Residences e condições adequadas de recrutamento. A Tavern oferece outra rota de chegada. Limites e configurações podem variar por servidor.
+Garanta vagas em residências e condições adequadas de recrutamento. A Tavern oferece outra rota de chegada. Limites e configurações podem variar por servidor.
 
 ## Como melhorar a felicidade?
 
@@ -41,11 +41,11 @@ Confirme a oficina correta, a pesquisa necessária, o nível da construção e s
 
 ## O Nether Miner entra no meu Nether?
 
-Não. A expedição do cidadão é simulada e não altera blocos. O portal da Nether Mine pode ser usado pelo jogador.
+Não. A expedição do cidadão é simulada e não altera blocos. O portal da Mina do Nether pode ser usado pelo jogador.
 
 ## Vários Mystical Sites acumulam felicidade?
 
-Não. Apenas o Mystical Site de maior nível fornece o bônus.
+Não. Apenas o Local Místico de maior nível fornece o bônus.
 
 ## O Vault funciona fora da versão indicada?
 

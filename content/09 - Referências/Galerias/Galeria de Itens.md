@@ -20,7 +20,7 @@ Esta galeria reunirá referências visuais de itens por função, mantendo ferra
 
 | Categoria | Exemplos de uso | O que caracteriza uma variante |
 |---|---|---|
-| Ferramentas | Ferramentas de trabalho e Build Tool | Modelo ou função visualmente distinta |
+| Ferramentas | Ferramentas de trabalho e ferramenta de construção (*Build Tool*) | Modelo ou função visualmente distinta |
 | Equipamentos | Armas, armaduras e escudos | Tipo de equipamento, não durabilidade |
 | Alimentos | Ingredientes e refeições | Receita ou item diferente, não quantidade |
 | Recursos | Materiais das cadeias produtivas | Estado processado ou material distinto |

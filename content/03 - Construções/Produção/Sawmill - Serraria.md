@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, artesanato, lote-3]
 ---
 
@@ -29,7 +29,7 @@ tags: [minecolonies, construção, artesanato, lote-3]
 
 ## Função
 
-O Carpenter fabrica itens compostos por pelo menos 75% de madeira, sem lingotes, pedra, redstone ou linha. Também produz Racks e blocos compatíveis do Domum Ornamentum. Requer a pesquisa **Woodwork**.
+O Carpenter fabrica itens compostos por pelo menos 75% de madeira, sem lingotes, pedra, redstone ou linha. Também produz estantes e blocos compatíveis do Domum Ornamentum. Requer a pesquisa **Woodwork**.
 
 ## Evolução
 
@@ -45,11 +45,11 @@ Ensine primeiro tábuas, escadas, cercas, portas e componentes pedidos com frequ
 
 ## Habilidades
 
-**Knowledge** pode economizar materiais; **Dexterity** acelera o artesanato.
+**Conhecimento** (*Knowledge*) pode economizar materiais; **Destreza** (*Dexterity*) acelera o artesanato.
 
 ## Cadeia
 
-[[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador|Forester's Hut]] → Warehouse → Sawmill → Builder e outras oficinas.
+[[content/03 - Construções/Recursos/Forester's Hut - Cabana do Lenhador|Forester's Hut]] → Armazém → Serraria → construtor e outras oficinas.
 
 ## Profissão
 

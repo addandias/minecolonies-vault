@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, educação, lote-4]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, educação, lote-4]
 
 ## Visão geral
 
-Na School, o Teacher desenvolve a Intelligence das crianças. Papel acelera o aprendizado. A construção exige **Higher Learning**.
+Na School, o professor desenvolve a Intelligence das crianças. Papel acelera o aprendizado. A construção exige **Higher Learning**.
 
 ## Capacidade
 
@@ -40,12 +40,12 @@ Na School, o Teacher desenvolve a Intelligence das crianças. Papel acelera o ap
 
 ## Habilidades
 
-- **Knowledge do Teacher:** acelera o ganho de atributos dos alunos.
-- **Mana do Teacher:** reduz o tempo de troca entre alunos.
+- **Knowledge do professor:** acelera o ganho de atributos dos alunos.
+- **Mana do professor:** reduz o tempo de troca entre alunos.
 
 ## Posicionamento
 
-Coloque perto das Residences, com caminho seguro e curto. Mantenha papel disponível e evite trajetos que atravessem áreas de produção ou defesa.
+Coloque perto das residências, com caminho seguro e curto. Mantenha papel disponível e evite trajetos que atravessem áreas de produção ou defesa.
 
 ## Profissões
 

@@ -10,7 +10,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: não se aplica
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, administração, lote-1]
 ---
 
@@ -27,7 +27,7 @@ tags: [minecolonies, construção, administração, lote-1]
 
 ## Visão geral
 
-A Town Hall é o centro administrativo da colônia. Seu primeiro posicionamento define o centro permanente da proteção, e só pode existir uma por colônia.
+A Prefeitura é o centro administrativo da colônia. Seu primeiro posicionamento define o centro permanente da proteção, e só pode existir uma por colônia.
 
 ## Funções principais
 
@@ -45,16 +45,16 @@ A Town Hall é o centro administrativo da colônia. Seu primeiro posicionamento 
 2. Escolha o terreno com cuidado.
 3. Posicione com a [[content/01 - Primeiros Passos/Build Tool]].
 4. Clique no bloco e funde a colônia.
-5. Depois de construir a Builder's Hut, crie a ordem para erguer fisicamente a Town Hall.
+5. Depois de construir a Cabana do Construtor, crie a ordem para erguer fisicamente a Prefeitura.
 
 > [!WARNING]
-> Fundar a colônia e construir o edifício são etapas diferentes. A administração básica começa no bloco; a estrutura é erguida pelo Builder.
+> Fundar a colônia e construir o edifício são etapas diferentes. A administração básica começa no bloco; a estrutura é erguida pelo construtor.
 
 ## Interface essencial
 
 ### Actions
 
-Permite renomear a colônia e criar ordens de construção, melhoria, reparo ou reposicionamento da Town Hall.
+Permite renomear a colônia e criar ordens de construção, melhoria, reparo ou reposicionamento da Prefeitura.
 
 ### Information e Work Orders
 
@@ -103,9 +103,9 @@ Os cinco níveis alteram a estrutura e servem de referência para progressão ad
 
 Verifique conflitos com outra colônia, limites do servidor e permissões.
 
-### A Town Hall existe, mas não foi construída
+### A Prefeitura existe, mas não foi construída
 
-Construa a Builder's Hut e crie a ordem em **Build Options**.
+Construa a Cabana do Construtor e crie a ordem em **Opções de construção** (*Build Options*).
 
 ### Um cidadão está preso
 

@@ -10,7 +10,7 @@ tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 3
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, recrutamento, lote-4]
 ---
 
@@ -36,11 +36,11 @@ A Tavern funciona como moradia para quatro cidadãos e recebe visitantes que pod
 
 ## Recrutamento
 
-Abra a interface do visitante, avalie habilidades e confira o custo. Recrute quando houver Residence, comida e vaga de trabalho; aumentar a população sem infraestrutura cria novos gargalos.
+Abra a interface do visitante, avalie habilidades e confira o custo. Recrute quando houver Residência, comida e vaga de trabalho; aumentar a população sem infraestrutura cria novos gargalos.
 
 ## Posicionamento
 
-Coloque perto da entrada ou do centro cívico, ligada a Dining Hall, Residences e caminhos seguros.
+Coloque perto da entrada ou do centro cívico, ligada a Salão de Refeições, residências e caminhos seguros.
 
 ## Fontes
 

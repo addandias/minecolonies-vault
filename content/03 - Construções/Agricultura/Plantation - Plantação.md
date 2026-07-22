@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, agricultura, lote-6]
 ---
 
@@ -26,10 +26,10 @@ tags: [minecolonies, construção, agricultura, lote-6]
 
 ## Visão geral
 
-A Plantation cultiva cana-de-açúcar, cacto, bambu e várias plantas especiais. Exige **Let It Grow**.
+A Plantação cultiva cana-de-açúcar, cacto, bambu e várias plantas especiais. Exige **Let It Grow**.
 
 > [!IMPORTANT]
-> Seus campos são esquemas construídos pelo Builder. Eles não usam o espantalho dos Fields da Farmer’s Hut.
+> Seus campos são esquemas construídos pelo construtor. Eles não usam o espantalho dos campos da Farmer’s Hut.
 
 ## Campos e culturas simultâneas
 

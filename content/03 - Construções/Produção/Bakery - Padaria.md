@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alimentação, lote-3, lote-10c]
 ---
 
@@ -29,15 +29,15 @@ tags: [minecolonies, construção, alimentação, lote-3, lote-10c]
 
 ## Função
 
-O Baker prepara massas e assa pão, biscoitos, bolos e tortas de abóbora. Trabalha sob pedido do Waiter, Postbox ou estoque mínimo do Warehouse. Não exige pesquisa.
+O Baker prepara massas e assa pão, biscoitos, bolos e tortas de abóbora. Trabalha sob pedido do Waiter, Postbox ou estoque mínimo do Armazém. Não exige pesquisa.
 
 ## Habilidades
 
-**Knowledge** pode economizar ingredientes; **Dexterity** acelera fabricação e forno.
+**Conhecimento** (*Knowledge*) pode economizar ingredientes; **Destreza** (*Dexterity*) acelera fabricação e forno.
 
 ## Configuração recomendada
 
-Ligue a Bakery à produção de trigo, açúcar, ovos e abóboras. Defina estoque mínimo apenas para produtos cuja cadeia agrícola seja sustentável.
+Ligue a Padaria à produção de trigo, açúcar, ovos e abóboras. Defina estoque mínimo apenas para produtos cuja cadeia agrícola seja sustentável.
 
 ## Mudanças em 1259-snapshot
 

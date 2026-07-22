@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, serviço, lote-4]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, serviço, lote-4]
 
 ## Visão geral
 
-O Undertaker recupera cidadãos mortos, recolhe o inventário da sepultura e tenta revivê-los. Se a tentativa falhar, realiza o enterro. Exige **Remembrance**.
+O coveiro recupera cidadãos mortos, recolhe o inventário da sepultura e tenta revivê-los. Se a tentativa falhar, realiza o enterro. Exige **Remembrance**.
 
 ## Capacidade recomendada do esquema
 
@@ -42,7 +42,7 @@ O número real varia conforme o estilo. O inventário do cidadão permanece na s
 
 ## Ressurreição
 
-A chance depende de pesquisas, Mana do Undertaker, nível do Graveyard, [[content/03 - Construções/Especializadas/Mystical Site - Local Místico|Mystical Site]] e uso de Totems. O Mystical Site amplia o limite máximo da chance de ressurreição. Sem bônus, a chance possui limite baixo; trate a ressurreição como possibilidade, não garantia.
+A chance depende de pesquisas, Mana do coveiro, nível do Graveyard, [[content/03 - Construções/Especializadas/Mystical Site - Local Místico|Mystical Site]] e uso de Totems. O Local Místico amplia o limite máximo da chance de ressurreição. Sem bônus, a chance possui limite baixo; trate a ressurreição como possibilidade, não garantia.
 
 ## Habilidades
 

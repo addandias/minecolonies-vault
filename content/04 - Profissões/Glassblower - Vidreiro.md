@@ -7,13 +7,13 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, lote-3]
 ---
 
 # Glassblower — Vidreiro
 
-Trabalha na [[content/03 - Construções/Produção/Glassblower's Hut - Vidraçaria]], fundindo areia e fabricando vidro. **Creativity** influencia a eficiência; **Focus** acelera o trabalho.
+Trabalha na [[content/03 - Construções/Produção/Glassblower's Hut - Vidraçaria]], fundindo areia e fabricando vidro. **Criatividade** (*Creativity*) influencia a eficiência; **Concentração** (*Focus*) acelera o trabalho.
 
 ## Fontes
 

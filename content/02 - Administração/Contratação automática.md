@@ -1,7 +1,7 @@
 ---
 tipo: sistema
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, administração, contratação, lote-4]
 ---
 
@@ -9,9 +9,9 @@ tags: [minecolonies, administração, contratação, lote-4]
 
 ## Controle global e local
 
-A Town Hall possui **Auto Worker Hiring**. Quando ativado, cidadãos ocupam vagas abertas somente se a cabana também estiver configurada para contratação automática.
+A Prefeitura possui **Auto Worker Hiring**. Quando ativado, cidadãos ocupam vagas abertas somente se a cabana também estiver configurada para contratação automática.
 
-| Town Hall | Cabana | Resultado |
+| Prefeitura | Cabana | Resultado |
 |---|---|---|
 | Automático | Automático | O jogo preenche a vaga |
 | Automático | Manual | O jogador escolhe nessa cabana |
@@ -27,7 +27,7 @@ A Town Hall possui **Auto Worker Hiring**. Quando ativado, cidadãos ocupam vaga
 1. Desative o automático globalmente ou na cabana.
 2. Abra **Manage Workers**.
 3. Compare as habilidades relevantes.
-4. Considere a distância entre Residence e trabalho.
+4. Considere a distância entre Residência e trabalho.
 5. Confirme a atribuição e acompanhe o primeiro ciclo.
 
 ## Moradia

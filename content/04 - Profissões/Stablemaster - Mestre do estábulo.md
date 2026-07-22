@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, animais, cavalos, lote-10a]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, animais, cavalos, lote-10a]
 
 ## Visão geral
 
-O Stablemaster cuida dos cavalos da [[content/03 - Construções/Criação de Animais/Stable - Estábulo|Stable]] e conduz sua reprodução. O trabalho depende de animais acessíveis, alimentação disponível e espaço seguro para circulação.
+O mestre do estábulo cuida dos cavalos da [[content/03 - Construções/Criação de Animais/Stable - Estábulo|Stable]] e conduz sua reprodução. O trabalho depende de animais acessíveis, alimentação disponível e espaço seguro para circulação.
 
 ## Local de trabalho
 
@@ -34,7 +34,7 @@ O Stablemaster cuida dos cavalos da [[content/03 - Construções/Criação de An
 - alimento solicitado para reprodução;
 - cercado com espaço e caminhos livres;
 - comida para o próprio cidadão;
-- atendimento regular dos pedidos pelo Warehouse e pelos Couriers.
+- atendimento regular dos pedidos pelo Armazém e pelos entregadores.
 
 ## Boas práticas
 

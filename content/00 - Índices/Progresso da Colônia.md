@@ -20,32 +20,32 @@ tags:
 ## Lote 1 — Primeiros passos e construções essenciais
 
 - [x] Guia de primeiros passos
-- [x] Town Hall
-- [x] Builder's Hut
-- [x] Residence (antiga Citizen's Hut)
-- [x] Warehouse
-- [x] Courier's Hut
-- [x] Profissão Builder
+- [x] Prefeitura
+- [x] Cabana do Construtor
+- [x] Residência (antiga Citizen's Hut)
+- [x] Armazém
+- [x] Cabana do Entregador
+- [x] Profissão construtor
 - [x] Ordem inicial de construção
 
 ## Lote 2 — Comida e recursos básicos
 
-- [x] Dining Hall e profissão Waiter
-- [x] Chef's Kitchen e profissão Chef
-- [x] Farmer's Hut, Fields e profissão Farmer
-- [x] Fisher's Hut e profissão Fisher
-- [x] Forester's Hut e profissão Forester
-- [x] Mine e profissão Miner
+- [x] Salão de Refeições e profissão Waiter
+- [x] Cozinha do Chef e profissão Chef
+- [x] Cabana do Fazendeiro, campos e profissão Farmer
+- [x] Cabana do Pescador e profissão Fisher
+- [x] Lenhador's Hut e profissão Lenhador
+- [x] Mina e profissão mineiro
 - [x] Sifter's Hut e profissão Sifter
 - [x] Sistema de fome e cardápio recomendado
 - [x] Cadeias de alimentação, madeira e mineração
 
 ## Lote 3 — Produção e artesanato
 
-- [x] Madeira: Sawmill e Fletcher's Hut
-- [x] Alvenaria: Crusher's Hut, Stonemason's Hut e Brick Yard
-- [x] Metalurgia: Smeltery, Blacksmith's Hut e Mechanic's Hut
-- [x] Especialidades: Bakery, Dyer, Glassblower, Concrete Mixer e Alchemist
+- [x] Madeira: Serraria e Oficina do Flecheiro
+- [x] Alvenaria: britador's Hut, Oficina do Pedreiro e Olaria
+- [x] Metalurgia: Fundição, Ferreiro's Hut e mecânico's Hut
+- [x] Especialidades: Padaria, tingidor, vidreiro, misturador de concreto e Alquimista
 - [x] Profissões das 13 oficinas
 - [x] Automação, materiais e cadeias produtivas
 
@@ -53,30 +53,30 @@ tags:
 
 - [x] University e profissão Researcher
 - [x] Library e Library Student
-- [x] School, Teacher e Pupil
-- [x] Hospital e profissão Doctor
+- [x] School, professor e Pupil
+- [x] Hospital e profissão médico
 - [x] Tavern e recrutamento de visitantes
-- [x] Graveyard e profissão Undertaker
+- [x] Graveyard e profissão coveiro
 - [x] Pedidos, felicidade, contratação e configurações
-- [x] Progressão administrativa da Town Hall
+- [x] Progressão administrativa da Prefeitura
 
 ## Lote 5 — Defesa militar
 
-- [x] Guard Tower e configurações de patrulha
-- [x] Barracks e Barracks Towers
-- [x] Combat Academy e treinamento de Knights
-- [x] Archery e treinamento de Archers
-- [x] Profissões Knight, Archer e Druid
+- [x] Torre de Guarda e configurações de patrulha
+- [x] Quartel e Torres do Quartel
+- [x] Academia de Combate e treinamento de cavaleiros
+- [x] Campo de Arquearia e treinamento de arqueiros
+- [x] Profissões cavaleiro, arqueiro e Druida
 - [x] Sistema de invasões
 - [x] Estratégia defensiva em camadas
 
 ## Lote 6 — Agricultura avançada
 
-- [x] Composter’s Hut e profissão Composter
-- [x] Flowershop e profissão Florist
-- [x] Plantation e profissão Planter
+- [x] Cabana do Compostador e profissão Composter
+- [x] Floricultura e profissão florista
+- [x] Plantação e profissão Planter
 - [x] Compostagem e fertilização
-- [x] Campos especializados da Plantation
+- [x] Campos especializados da Plantação
 - [x] Cadeia de agricultura avançada
 
 ## Lote 7 — Criação de animais
@@ -103,10 +103,10 @@ O tema será entregue em dois PRs menores para concluir a navegação editorial 
 ## Próximas etapas
 
 - [x] Integração operacional — Obsidian e GitHub
-- [x] Lote 10A — Quarry, Stable, Gatehouse, Barracks Tower, Quarrier e Stablemaster
+- [x] Lote 10A — Pedreira, Stable, Portaria, Torre do Quartel, pedreiro de pedreira e mestre do estábulo
 - [x] Padronização da versão de referência e auditoria estrutural das construções
-- [x] Lote 10B — Huscarl, Marksman e defesa atualizada para 1259-snapshot
-- [x] Lote 10C — alimentação, tiers, receitas e segurança alimentar em 1259-snapshot
+- [x] Lote 10B — Huscarl, atirador e defesa atualizada para 1259-snapshot
+- [x] Lote 10C — alimentação, categorias, receitas e segurança alimentar em 1259-snapshot
 - [x] Lote 10D — missões, navegação e correções operacionais de 1259-snapshot
 - [x] Cobertura das mudanças relevantes de 1259-snapshot
 - [x] Separação das categorias Saúde, Serviços e Especializadas

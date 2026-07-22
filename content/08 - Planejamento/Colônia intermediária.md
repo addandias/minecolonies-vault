@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, planejamento, colônia-intermediária, lote-9a]
 ---
 
@@ -20,23 +20,23 @@ A fase intermediária transforma uma fundação estável em uma rede produtiva. 
 
 ### Produção
 
-- escolha oficinas pelos pedidos reais do Builder;
+- escolha oficinas pelos pedidos reais do construtor;
 - ensine receitas recorrentes;
 - conecte madeira, pedra e metal à logística;
-- amplie alimentação com Chef’s Kitchen, Bakery e criação animal.
+- amplie alimentação com Chef’s Kitchen, Padaria e criação animal.
 
 ### Defesa
 
-- cubra acessos com Guard Towers;
+- cubra acessos com Torres de Guarda;
 - estabeleça patrulhas;
-- prepare Barracks e centros de treinamento;
+- prepare Quartel e centros de treinamento;
 - mantenha equipamento e alimento para guardas.
 
 ## Critério para avançar
 
 - University mantém uma fila de pesquisas útil;
 - principais materiais de construção são produzidos pela colônia;
-- Warehouse não permanece congestionado;
+- Armazém não permanece congestionado;
 - invasões são contidas sem perdas recorrentes;
 - alimento possui variedade e margem de estoque;
 - oficinas críticas funcionam sem pedidos manuais frequentes.
@@ -48,7 +48,7 @@ flowchart LR
     A["Identificar gargalo"] --> B["Escolher pesquisa ou construção"]
     B --> C["Garantir entradas"]
     C --> D["Ensinar receitas"]
-    D --> E["Conectar Courier"]
+    D --> E["Conectar entregador"]
     E --> F["Medir resultado"]
     F --> A
 ```
