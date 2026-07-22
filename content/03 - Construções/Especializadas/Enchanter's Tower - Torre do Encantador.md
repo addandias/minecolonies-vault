@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, magia, encantamentos, lote-8a, lote-10d]
 ---
 
@@ -40,7 +40,7 @@ A torre também produz pergaminhos mágicos. Ela não aplica os livros em ferram
 | 4 | 4 | 5 |
 | 5 | 5 | 1 |
 
-O nível da construção e **Knowledge** do trabalhador influenciam a qualidade dos livros. A partir do nível 3, a torre também pode gerar **Raider’s Bane**; o nível II desse encantamento exige torre de nível 5.
+O nível da construção e **Conhecimento** (*Knowledge*) do trabalhador influenciam a qualidade dos livros. A partir do nível 3, a torre também pode gerar **Raider’s Bane**; o nível II desse encantamento exige torre de nível 5.
 
 ## Habilidades
 
@@ -50,7 +50,7 @@ O nível da construção e **Knowledge** do trabalhador influenciam a qualidade 
 ## Configurações recomendadas
 
 - Selecione como alvos trabalhadores próximos e com rotinas regulares.
-- Mantenha Ancient Tomes reservados no Warehouse.
+- Mantenha Ancient Tomes reservados no Armazém.
 - Evite ensinar pergaminhos que não serão usados, reduzindo pedidos desnecessários.
 - Suba a torre para o nível 3 antes de tratá-la como parte da defesa contra invasores.
 

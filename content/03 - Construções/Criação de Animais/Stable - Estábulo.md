@@ -9,7 +9,7 @@ tipo_versao: prerelease
 nivel_maximo: 5
 trabalhador: Stablemaster
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, animais, cavalos, lote-10a]
 ---
 
@@ -23,16 +23,16 @@ A Stable abriga o [[content/04 - Profissões/Stablemaster - Mestre do estábulo|
 
 - manter cavalos associados à operação do estábulo;
 - reproduzir os animais quando houver pares e alimentação adequada;
-- concentrar pedidos e recursos do Stablemaster;
+- concentrar pedidos e recursos do mestre do estábulo;
 - integrar a criação de cavalos à logística da colônia.
 
 ## Trabalhador responsável
 
-O Stablemaster realiza o manejo dos cavalos e depende de acesso físico aos animais e aos recursos solicitados. Consulte [[content/04 - Profissões/Stablemaster - Mestre do estábulo]].
+O mestre do estábulo realiza o manejo dos cavalos e depende de acesso físico aos animais e aos recursos solicitados. Consulte [[content/04 - Profissões/Stablemaster - Mestre do estábulo]].
 
 ## Progressão
 
-Cada melhoria amplia a capacidade operacional da construção e acompanha o nível máximo permitido pela Town Hall. Antes de subir de nível, confirme que o espaço externo e a logística continuam adequados para o número de animais mantidos.
+Cada melhoria amplia a capacidade operacional da construção e acompanha o nível máximo permitido pela Prefeitura. Antes de subir de nível, confirme que o espaço externo e a logística continuam adequados para o número de animais mantidos.
 
 ## Necessidades
 
@@ -55,9 +55,9 @@ Cada melhoria amplia a capacidade operacional da construção e acompanha o nív
 > Posicione a Stable na transição entre o distrito rural e uma via principal. Cavalos precisam de acessos mais largos e toleram mal gargalos decorativos, portões estreitos e desníveis bruscos.
 
 - reserve a área do nível 5 antes da construção inicial;
-- evite cercados cortados por rotas de Couriers;
+- evite cercados cortados por rotas de entregadores;
 - use iluminação e defesa sem bloquear a circulação dos animais;
-- mantenha distância suficiente do centro para evitar congestionamento, mas não isole o Stablemaster da comida e do Warehouse.
+- mantenha distância suficiente do centro para evitar congestionamento, mas não isole o mestre do estábulo da comida e do Armazém.
 
 ## Construções relacionadas
 

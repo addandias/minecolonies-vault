@@ -9,7 +9,7 @@ tipo_versao: prerelease
 nivel_maximo: 1
 trabalhador: Quarrier
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, mineração, pedreira, lote-10a]
 ---
 
@@ -17,18 +17,18 @@ tags: [minecolonies, construção, mineração, pedreira, lote-10a]
 
 ## Visão geral
 
-A Quarry escava uma área delimitada para obter grandes volumes dos blocos que realmente existem no terreno. O modelo simples ocupa **1 × 1 chunk** e o médio, **2 × 2 chunks**. Diferentemente da [[content/03 - Construções/Recursos/Mine - Mina|Mine]], ela não gera oportunidades adicionais de minério: entrega somente os blocos removidos durante a escavação.
+A Pedreira escava uma área delimitada para obter grandes volumes dos blocos que realmente existem no terreno. O modelo simples ocupa **uma região de 16 × 16 blocos** e o médio, **uma área de 2 × 2 dessas regiões**. Diferentemente da [[content/03 - Construções/Recursos/Mine - Mina|Mine]], ela não gera oportunidades adicionais de minério: entrega somente os blocos removidos durante a escavação.
 
 > [!IMPORTANT] Contratação incomum
-> O [[content/04 - Profissões/Quarrier - Pedreiro de pedreira|Quarrier]] precisa ser contratado primeiro em uma Mine e, em seguida, atribuído à Quarry. Enquanto a Mine emprega o Quarrier, ela não pode manter um Miner no mesmo posto.
+> O [[content/04 - Profissões/Quarrier - Pedreiro de pedreira|Quarrier]] precisa ser contratado primeiro em uma Mina e, em seguida, atribuído à Pedreira. Enquanto a Mina emprega o pedreiro de pedreira, ela não pode manter um mineiro no mesmo posto.
 
 ## Trabalhador responsável
 
-A Quarry emprega um Quarrier. **Strength** acelera a quebra de blocos e **Stamina**, a colocação dos blocos exigidos pelo projeto.
+A Pedreira emprega um pedreiro de pedreira. **Força** (*Strength*) acelera a quebra de blocos e **Vigor** (*Stamina*), a colocação dos blocos exigidos pelo projeto.
 
 ## Progressão
 
-A Quarry não segue a progressão convencional de cinco níveis. Sua escala é definida pela variante escolhida no Build Tool:
+A Pedreira não segue a progressão convencional de cinco níveis. Sua escala é definida pela variante escolhida na ferramenta de construção (*Build Tool*):
 
 | Variante | Área de escavação | Uso indicado |
 |---|---:|---|
@@ -38,38 +38,38 @@ A Quarry não segue a progressão convencional de cinco níveis. Sua escala é d
 ## Operação
 
 1. construa uma [[content/03 - Construções/Recursos/Mine - Mina|Mine]];
-2. contrate nela um Quarrier;
-3. construa e atribua o trabalhador à Quarry;
+2. contrate nela um pedreiro de pedreira;
+3. construa e atribua o trabalhador à Pedreira;
 4. forneça picaretas e os materiais solicitados;
-5. mantenha a retirada de blocos conectada ao Warehouse.
+5. mantenha a retirada de blocos conectada ao Armazém.
 
-O Quarrier executa um projeto físico de escavação. Interferir no volume reservado pode interromper etapas ou deixar o esquema inconsistente.
+O pedreiro de pedreira executa um projeto físico de escavação. Interferir no volume reservado pode interromper etapas ou deixar o esquema inconsistente.
 
 ## Configurações recomendadas
 
-- mantenha a contratação manual durante a transferência do Quarrier;
+- mantenha a contratação manual durante a transferência do pedreiro de pedreira;
 - ajuste a prioridade de coleta conforme o volume acumulado;
-- confira o inventário do bloco da construção e os Racks antes de diagnosticar falta de produção;
-- use **Recall Worker** apenas quando o cidadão estiver preso ou fora da área de trabalho.
+- confira o inventário do bloco da construção e os estantes antes de diagnosticar falta de produção;
+- use **Chamar trabalhador** (*Recall Worker*) apenas quando o cidadão estiver preso ou fora da área de trabalho.
 
 ## Dicas de posicionamento
 
 > [!NOTE] Análise do Vault
-> Trate a Quarry como uma obra territorial, não como uma cabana compacta. Visualize todo o esquema, reserve a área completa e coloque-a longe do centro urbano. Uma rota curta para Couriers reduz o risco de a produção parar por inventário cheio.
+> Trate a Pedreira como uma obra territorial, não como uma cabana compacta. Visualize todo o esquema, reserve a área completa e coloque-a longe do centro urbano. Uma rota curta para entregadores reduz o risco de a produção parar por inventário cheio.
 
-- evite Residences, estradas essenciais e outras construções dentro do volume de escavação;
+- evite residências, estradas essenciais e outras construções dentro do volume de escavação;
 - verifique rios, cavernas e limites da colônia antes de confirmar o projeto;
 - deixe acesso seguro na borda, sem depender de atravessar a própria cava;
-- proteja o trajeto entre a Quarry e a malha logística.
+- proteja o trajeto entre a Pedreira e a malha logística.
 
-## Quarry ou Mine?
+## Pedreira ou Mina?
 
 | Objetivo | Melhor ponto de partida |
 |---|---|
 | Minérios e produção subterrânea contínua | [[content/03 - Construções/Recursos/Mine - Mina|Mine]] |
-| Grande volume de pedra e blocos presentes no terreno | Quarry |
-| Menor ocupação permanente da superfície | Mine |
-| Projeto de escavação ampla e previsível | Quarry |
+| Grande volume de pedra e blocos presentes no terreno | Pedreira |
+| Menor ocupação permanente da superfície | Mina |
+| Projeto de escavação ampla e previsível | Pedreira |
 
 ## Construções relacionadas
 

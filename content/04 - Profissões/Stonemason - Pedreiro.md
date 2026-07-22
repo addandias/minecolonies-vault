@@ -7,13 +7,13 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, lote-3]
 ---
 
 # Stonemason — Pedreiro
 
-Trabalha na [[content/03 - Construções/Produção/Stonemason's Hut - Oficina do Pedreiro]], produzindo componentes de pedra. **Creativity** pode reduzir consumo; **Dexterity** acelera a fabricação.
+Trabalha na [[content/03 - Construções/Produção/Stonemason's Hut - Oficina do Pedreiro]], produzindo componentes de pedra. **Criatividade** (*Creativity*) pode reduzir consumo; **Destreza** (*Dexterity*) acelera a fabricação.
 
 ## Fontes
 

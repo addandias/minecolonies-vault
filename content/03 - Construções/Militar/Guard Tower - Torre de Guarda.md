@@ -11,7 +11,7 @@ tipo_versao: prerelease
 estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, defesa, lote-5, lote-10b, lote-10d]
 ---
 
@@ -28,7 +28,7 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b, lote-10d]
 
 ## Visão geral
 
-A Guard Tower emprega e abriga um Guard. Torres próximas de casas e trabalhos aumentam a sensação de segurança e, quando posicionadas perto da borda, ajudam na expansão territorial.
+A Torre de Guarda emprega e abriga um guarda. Torres próximas de casas e trabalhos aumentam a sensação de segurança e, quando posicionadas perto da borda, ajudam na expansão territorial.
 
 ## Alcance
 
@@ -40,17 +40,17 @@ A Guard Tower emprega e abriga um Guard. Torres próximas de casas e trabalhos a
 | 4 | 170 blocos |
 | 5 | 200 blocos |
 
-O aumento do alcance permite cobrir rotas mais longas, mas cada Guard Tower continua abrigando um único Guard. Melhorar a torre amplia sua área operacional; distribuir torres continua necessário para eliminar pontos cegos.
+O aumento do alcance permite cobrir rotas mais longas, mas cada Torre de Guarda continua abrigando um único guarda. Melhorar a torre amplia sua área operacional; distribuir torres continua necessário para eliminar pontos cegos.
 
 ## Tarefas
 
-- **Patrol:** percorre cabanas automaticamente ou pontos manuais.
-- **Guard:** permanece defendendo uma posição.
-- **Follow:** acompanha o jogador, inclusive fora da colônia.
+- **Patrulhar** (*Patrol*): percorre cabanas automaticamente ou pontos manuais.
+- **Defender posição** (*Guard*): permanece defendendo uma posição.
+- **Seguir** (*Follow*): acompanha o jogador, inclusive fora da colônia.
 
-Use o **Guard Scepter** para definir postos e rotas. Configure a lista de hostis, retirada com pouca vida e estoque mínimo de equipamento.
+Use o **guarda Scepter** para definir postos e rotas. Configure a lista de hostis, retirada com pouca vida e estoque mínimo de equipamento.
 
-Em 1259-snapshot, Guards ignoram pontos de patrulha em chunks descarregados. Isso evita tentativas repetidas de alcançar uma área indisponível, mas significa que a rota só volta a ser percorrida quando o local estiver carregado.
+Em 1259-snapshot, guardas ignoram pontos de patrulha em chunks descarregados. Isso evita tentativas repetidas de alcançar uma área indisponível, mas significa que a rota só volta a ser percorrida quando o local estiver carregado.
 
 ## Posicionamento
 

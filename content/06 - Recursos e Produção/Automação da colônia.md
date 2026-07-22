@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, automação, produção, lote-3]
 ---
 
@@ -9,15 +9,15 @@ tags: [minecolonies, automação, produção, lote-3]
 
 ## O princípio
 
-No MineColonies, automação significa conectar pedidos, receitas, estoque e Couriers. Uma oficina não produz livremente: ela responde a solicitações ou a estoques mínimos configurados.
+No MineColonies, automação significa conectar pedidos, receitas, estoque e entregadores. Uma oficina não produz livremente: ela responde a solicitações ou a estoques mínimos configurados.
 
 ```mermaid
 flowchart LR
     A["Consumidor pede item"] --> B["Request System"]
-    B --> C["Warehouse localiza entradas"]
-    C --> D["Courier entrega"]
+    B --> C["Armazém localiza entradas"]
+    C --> D["entregador entrega"]
     D --> E["Artesão fabrica"]
-    E --> F["Courier recolhe"]
+    E --> F["entregador recolhe"]
     F --> G["Pedido concluído"]
 ```
 
@@ -34,17 +34,17 @@ flowchart LR
 
 | Grupo | Oficinas |
 |---|---|
-| Madeira | Sawmill e Fletcher's Hut |
-| Pedra | Crusher's Hut, Stonemason's Hut e Brick Yard |
-| Metal | Smeltery, Blacksmith's Hut e Mechanic's Hut |
-| Especialidades | Bakery, Dyer's Hut, Glassblower's Hut, Concrete Mixer's Hut e Alchemist Laboratory |
+| Madeira | Serraria e Oficina do Flecheiro |
+| Pedra | britador's Hut, Oficina do Pedreiro e Olaria |
+| Metal | Fundição, Ferreiro's Hut e mecânico's Hut |
+| Especialidades | Padaria, Oficina do Tingidor, Vidraçaria, Oficina de Concreto e Laboratório do Alquimista |
 
 ## Gargalos frequentes
 
 - receita ensinada na oficina errada;
 - combustível desabilitado;
 - entrada reservada por outra cadeia;
-- Courier sobrecarregado;
+- entregador sobrecarregado;
 - limite diário baixo;
 - pesquisa ainda bloqueada;
 - produto final sem consumidor.

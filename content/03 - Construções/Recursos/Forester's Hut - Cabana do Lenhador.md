@@ -12,7 +12,7 @@ nivel_maximo: 5
 trabalhador: Forester
 status: em_revisao
 revisao_pendente: [progressao]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, madeira, lote-2]
 ---
 
@@ -29,15 +29,15 @@ tags: [minecolonies, construção, madeira, lote-2]
 
 ## Visão geral
 
-O Forester corta árvores, coleta madeira e pode replantar mudas. Por padrão, procura árvores em uma área ampla ao redor do próprio trabalhador; zonas de corte oferecem controle mais seguro.
+O Lenhador corta árvores, coleta madeira e pode replantar mudas. Por padrão, procura árvores em uma área ampla ao redor do próprio trabalhador; zonas de corte oferecem controle mais seguro.
 
 ## Configurações importantes
 
-- **Sapling whitelist:** define quais mudas podem ser plantadas.
-- **Replant:** ativa o replantio após o corte.
-- **Chopping zone:** restringe a atividade a uma área marcada.
-- **Minimum Stock:** mantém ferramentas e materiais essenciais disponíveis.
-- **Recipes:** permite ensinar transformações úteis quando suportadas.
+- **Lista de mudas permitidas** (*Sapling whitelist*): define quais mudas podem ser plantadas.
+- **Replantar** (*Replant*): ativa o replantio após o corte.
+- **Área de corte** (*Chopping zone*): restringe a atividade a uma área marcada.
+- **Estoque mínimo** (*Minimum Stock*): mantém ferramentas e materiais essenciais disponíveis.
+- **Receitas** (*Recipes*): permite ensinar transformações úteis quando suportadas.
 
 ## Proteção de árvores decorativas
 
@@ -47,7 +47,7 @@ O Forester corta árvores, coleta madeira e pode replantar mudas. Por padrão, p
 
 - reserve uma floresta renovável perto da cabana;
 - mantenha distância de parques e árvores ornamentais;
-- conecte a produção ao Warehouse;
+- conecte a produção ao Armazém;
 - use espaço suficiente para replantio e crescimento.
 
 ## Profissão

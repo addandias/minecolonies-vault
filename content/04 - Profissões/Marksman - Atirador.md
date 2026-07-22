@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, defesa, lote-10b]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, defesa, lote-10b]
 
 ## Visão geral
 
-O Marksman é um Guard de longo alcance que usa besta. Parte de seu dano ignora armadura, criando uma opção especializada contra invasores protegidos.
+O atirador é um guarda de longo alcance que usa besta. Parte de seu dano ignora armadura, criando uma opção especializada contra invasores protegidos.
 
 ## Como desbloquear
 
@@ -27,7 +27,7 @@ O Marksman é um Guard de longo alcance que usa besta. Parte de seu dano ignora 
 | Construção | [[content/03 - Construções/Militar/Archery - Campo de Arquearia]] nível 3 |
 | Custo | 5 bestas |
 
-A pesquisa libera o tipo de Guard. Depois disso, o Marksman pode ocupar uma [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]].
+A pesquisa libera o tipo de guarda. Depois disso, o atirador pode ocupar uma [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]].
 
 ## Habilidades
 
@@ -36,10 +36,10 @@ A pesquisa libera o tipo de Guard. Depois disso, o Marksman pode ocupar uma [[co
 
 ## Equipamento e comportamento
 
-O Marksman usa besta e deriva do comportamento de ataque a distância do Archer. Seus disparos dividem o dano entre a parcela normal e uma parcela que ignora armadura.
+O atirador usa besta e deriva do comportamento de ataque a distância do arqueiro. Seus disparos dividem o dano entre a parcela normal e uma parcela que ignora armadura.
 
 > [!NOTE] Análise do Vault
-> Posicione Marksmen com linha de visão e proteção contra combate próximo. Eles complementam Archers quando a invasão traz inimigos com armadura, sem substituir automaticamente a cobertura geral do arco.
+> Posicione Marksmen com linha de visão e proteção contra combate próximo. Eles complementam arqueiros quando a invasão traz inimigos com armadura, sem substituir automaticamente a cobertura geral do arco.
 
 ## Leitura relacionada
 

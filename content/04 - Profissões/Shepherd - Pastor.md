@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, pecuária, lote-7b]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, pecuária, lote-7b]
 
 Trabalha na [[content/03 - Construções/Criação de Animais/Shepherd's Hut - Aprisco]], produzindo lã e carne.
 
-**Focus** aumenta a lã coletada e **Strength** melhora o abate. Configure tosquia e coloração conforme a demanda dos Builders.
+**Concentração** (*Focus*) aumenta a lã coletada e **Força** (*Strength*) melhora o abate. Configure tosquia e coloração conforme a demanda dos construtores.
 
 ## Fontes
 

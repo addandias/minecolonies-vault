@@ -7,13 +7,13 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, lote-3]
 ---
 
 # Dyer — Tingidor
 
-Trabalha na [[content/03 - Construções/Produção/Dyer's Hut - Oficina do Tingidor]], criando corantes e itens coloridos. **Creativity** pode economizar entradas; **Dexterity** acelera a produção.
+Trabalha na [[content/03 - Construções/Produção/Dyer's Hut - Oficina do Tingidor]], criando corantes e itens coloridos. **Criatividade** (*Creativity*) pode economizar entradas; **Destreza** (*Dexterity*) acelera a produção.
 
 ## Fontes
 

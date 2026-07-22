@@ -11,7 +11,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alvenaria, lote-3, lote-10d]
 ---
 
@@ -25,7 +25,7 @@ tags: [minecolonies, construção, alvenaria, lote-3, lote-10d]
 
 ## Função
 
-O Crusher transforma ossos em farinha, pedregulho em cascalho, cascalho em areia e areia em argila, entre outras conversões.
+O britador transforma ossos em farinha, pedregulho em cascalho, cascalho em areia e areia em argila, entre outras conversões.
 
 ## Capacidade
 
@@ -41,9 +41,9 @@ O custo padrão é 2 entradas para 1 saída. A pesquisa **Gilded Hammer** melhor
 
 ## Correção dos esquemas Medieval
 
-O registro 1259-snapshot ajusta o percurso interno de esquemas Medieval da Crusher’s Hut: o trilho deixa de depender de uma orientação problemática e os trapdoors foram substituídos por panels para impedir que o trabalhador caia e tenha dificuldade de retornar.
+O registro 1259-snapshot ajusta o percurso interno de esquemas Medieval da britador’s Hut: o trilho deixa de depender de uma orientação problemática e os trapdoors foram substituídos por panels para impedir que o trabalhador caia e tenha dificuldade de retornar.
 
-Essa correção vale para construções erguidas ou atualizadas com os esquemas corrigidos. Se uma Crusher antiga continuar prendendo o trabalhador, compare o interior com a prévia atual antes de alterar blocos manualmente.
+Essa correção vale para construções erguidas ou atualizadas com os esquemas corrigidos. Se uma britador antiga continuar prendendo o trabalhador, compare o interior com a prévia atual antes de alterar blocos manualmente.
 
 ## Profissão
 

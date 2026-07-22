@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, vidro, lote-3]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, vidro, lote-3]
 
 ## Função
 
-O Glassblower funde areia em vidro e fabrica painéis. Exige **Those Lungs!**.
+O vidreiro funde areia em vidro e fabrica painéis. Exige **Those Lungs!**.
 
 ## Evolução
 
@@ -34,11 +34,11 @@ Aprende 10, 20, 40, 80 e 160 receitas nos níveis 1 a 5. O número de fornos dis
 
 ## Habilidades
 
-**Creativity** influencia o uso dos fornos e a economia; **Focus** acelera a fabricação.
+**Criatividade** (*Creativity*) influencia o uso dos fornos e a economia; **Concentração** (*Focus*) acelera a fabricação.
 
 ## Cadeia
 
-Crusher ou coleta de areia → Warehouse → Glassblower's Hut → vidro → Builder.
+britador ou coleta de areia → Armazém → Vidraçaria → vidro → construtor.
 
 ## Profissão
 

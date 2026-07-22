@@ -1,7 +1,7 @@
 ---
 tipo: referencia
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, fontes, metodologia, lote-9b, lote-10d]
 ---
 
@@ -45,7 +45,7 @@ A classificação `prerelease` reproduz o estado atribuído pelos desenvolvedore
 As mudanças com impacto direto no jogador foram distribuídas pelos Lotes 10B, 10C e 10D. A comparação oficial completa permanece como referência para correções internas, compatibilidade e alterações visuais que não exigem instruções próprias no Vault.
 
 - [Comparação oficial 1232-snapshot → 1259-snapshot](https://github.com/ldtteam/minecolonies/compare/v1.20.1-1.1.1232-snapshot...v1.20.1-1.1.1259-snapshot)
-- **Lote 10B:** Guards e invasões;
+- **Lote 10B:** guardas e invasões;
 - **Lote 10C:** alimentação e receitas;
 - **Lote 10D:** missões, navegação e correções operacionais.
 

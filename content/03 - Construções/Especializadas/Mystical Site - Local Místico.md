@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, felicidade, ressurreição, lote-8a]
 ---
 
@@ -26,11 +26,11 @@ tags: [minecolonies, construção, felicidade, ressurreição, lote-8a]
 
 ## Função
 
-O Mystical Site aumenta a felicidade geral da colônia apenas por existir e não emprega trabalhador. Também amplia o limite máximo da chance de ressurreição do Undertaker.
+O Local Místico aumenta a felicidade geral da colônia apenas por existir e não emprega trabalhador. Também amplia o limite máximo da chance de ressurreição do coveiro.
 
 ## Regra de acumulação
 
-O bônus de felicidade não acumula. Se houver mais de um Mystical Site, somente o de nível mais alto fornece o efeito.
+O bônus de felicidade não acumula. Se houver mais de um Local Místico, somente o de nível mais alto fornece o efeito.
 
 > [!TIP] Planejamento
 > Construa apenas um e priorize suas melhorias. Edifícios adicionais podem servir à estética, mas não multiplicam o bônus.
@@ -39,7 +39,7 @@ O bônus de felicidade não acumula. Se houver mais de um Mystical Site, somente
 
 - University ativa;
 - pesquisa **Ambition** concluída;
-- Builder disponível para a construção e as melhorias.
+- construtor disponível para a construção e as melhorias.
 
 ## Integrações
 

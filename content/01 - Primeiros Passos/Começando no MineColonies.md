@@ -3,7 +3,7 @@ tipo: guia
 nome: Começando no MineColonies
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, primeiros-passos, lote-1]
 ---
 
@@ -24,19 +24,19 @@ Reserve:
 - uma fonte renovável de madeira e acesso seguro a mineração.
 
 > [!WARNING] O centro é uma decisão permanente
-> O chunk onde a Town Hall é colocada pela primeira vez define o centro da área protegida. Na configuração padrão, a proteção começa com raio de quatro chunks. Escolha o local antes de confirmar.
+> O chunk onde a Prefeitura é colocada pela primeira vez define o centro da área protegida. Na configuração padrão, a proteção começa com raio de quatro chunks. Escolha o local antes de confirmar.
 
 ## Rota recomendada
 
 ```mermaid
 flowchart LR
     A["Escolher o terreno"] --> B["Posicionar Supply Camp ou Ship"]
-    B --> C["Obter Town Hall e Build Tool"]
-    C --> D["Visualizar a Town Hall"]
+    B --> C["Obter Prefeitura e ferramenta de construção (*Build Tool*)"]
+    C --> D["Visualizar a Prefeitura"]
     D --> E["Fundar a colônia"]
-    E --> F["Construir Builder's Hut"]
+    E --> F["Construir Cabana do Construtor"]
     F --> G["Criar moradias"]
-    G --> H["Implantar Warehouse e Courier"]
+    G --> H["Implantar Armazém e entregador"]
 ```
 
 1. Leia [[Escolhendo o local da colônia]].
@@ -50,12 +50,12 @@ flowchart LR
 
 Considere a fundação concluída quando:
 
-- [ ] a Town Hall estiver fundada;
-- [ ] a Builder's Hut estiver construída;
-- [ ] o Builder tiver ferramentas e materiais;
+- [ ] a Prefeitura estiver fundada;
+- [ ] a Cabana do Construtor estiver construída;
+- [ ] o construtor tiver ferramentas e materiais;
 - [ ] os quatro cidadãos iniciais tiverem moradia;
 - [ ] houver comida acessível;
-- [ ] Warehouse e Courier estiverem operando;
+- [ ] Armazém e entregador estiverem operando;
 - [ ] caminhos básicos ligarem moradia, construção e armazenamento.
 
 ## Fontes

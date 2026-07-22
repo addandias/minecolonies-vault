@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, nether, expedições, diagnóstico, lote-8b]
 ---
 
@@ -11,14 +11,14 @@ tags: [minecolonies, nether, expedições, diagnóstico, lote-8b]
 
 - conclua **Open the Nether**;
 - construa a [[content/03 - Construções/Especializadas/Nether Mine - Mina do Nether]];
-- atribua um Nether Miner;
+- atribua um mineiro do Nether;
 - escolha os alimentos permitidos;
-- mantenha logística ativa com Warehouse e Couriers;
+- mantenha logística ativa com Armazém e entregadores;
 - confira a condição do trabalhador e seu equipamento.
 
 ## Como acompanhar
 
-A aba **Expedition log** mostra:
+A aba **Registro da expedição** (*Expedition log*) mostra:
 
 - cidadão responsável;
 - estado atual da viagem;
@@ -33,7 +33,7 @@ A aba **Expedition log** mostra:
 |---|---|
 | Expedição não começa | Trabalhador atribuído, pesquisa, pedidos e alimentos |
 | Trabalhador retorna sem o item desejado | Nível da construção e natureza aleatória do resultado |
-| Recursos ficam parados | Pickup priority, Courier e espaço de armazenamento |
+| Recursos ficam parados | Prioridade de coleta (*Pickup priority*), entregador e espaço de armazenamento |
 | Portal permanece aberto | Opção Close portal on return |
 | Trabalhador parece desaparecer | Registro da expedição; a viagem é simulada |
 

@@ -13,7 +13,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, galinhas, lote-7a]
 ---
 
@@ -40,7 +40,7 @@ Como nas demais cabanas de criação, o limite cresce com o nível. As opções 
 - mantenha sementes disponíveis;
 - deixe reprodução ativa apenas quando houver demanda;
 - garanta retirada de ovos e penas;
-- conecte à Bakery, Fletcher e Dining Hall.
+- conecte à Padaria, Fletcher e Salão de Refeições.
 
 ## Profissão
 

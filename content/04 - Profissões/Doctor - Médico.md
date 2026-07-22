@@ -8,7 +8,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, saúde, lote-4]
 ---
 
@@ -16,7 +16,7 @@ tags: [minecolonies, profissão, saúde, lote-4]
 
 ## Visão geral
 
-O Doctor atende cidadãos doentes ou feridos no [[content/03 - Construções/Saúde/Hospital - Hospital]] e consome os tratamentos correspondentes.
+O médico atende cidadãos doentes ou feridos no [[content/03 - Construções/Saúde/Hospital - Hospital]] e consome os tratamentos correspondentes.
 
 ## Habilidades
 
@@ -25,7 +25,7 @@ O Doctor atende cidadãos doentes ou feridos no [[content/03 - Construções/Sa�
 
 ## Diagnóstico
 
-Se pacientes não forem tratados, confira Doctor atribuído, leitos livres, itens corretos, caminho ao Hospital e pedidos pendentes.
+Se pacientes não forem tratados, confira médico atribuído, leitos livres, itens corretos, caminho ao Hospital e pedidos pendentes.
 
 ## Fontes
 

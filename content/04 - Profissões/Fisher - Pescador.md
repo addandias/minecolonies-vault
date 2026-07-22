@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, pesca, lote-2]
 ---
 
@@ -23,7 +23,7 @@ O Fisher usa uma vara para obter peixes e outros itens em um corpo d'água váli
 
 ## Habilidades
 
-**Focus** e **Agility** reduzem o tempo necessário para cada captura.
+**Concentração** (*Focus*) e **Agilidade** (*Agility*) reduzem o tempo necessário para cada captura.
 
 ## Necessidades
 

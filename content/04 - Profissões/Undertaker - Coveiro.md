@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, serviço, lote-4]
 ---
 
@@ -15,14 +15,14 @@ tags: [minecolonies, profissão, serviço, lote-4]
 
 ## Visão geral
 
-O Undertaker trabalha no [[content/03 - Construções/Serviços/Graveyard - Cemitério]], recuperando sepulturas, inventários e tentando ressuscitar cidadãos.
+O coveiro trabalha no [[content/03 - Construções/Serviços/Graveyard - Cemitério]], recuperando sepulturas, inventários e tentando ressuscitar cidadãos.
 
 ## Habilidades
 
 - **Strength:** acelera a abertura de sepulturas.
 - **Mana:** aumenta a chance de ressurreição.
 
-O Undertaker não participa do luto, permitindo que continue atendendo mortes na colônia. Pesquisas podem liberar corrida, ampliar o tempo de preservação e permitir Totems.
+O coveiro não participa do luto, permitindo que continue atendendo mortes na colônia. Pesquisas podem liberar corrida, ampliar o tempo de preservação e permitir Totems.
 
 ## Fontes
 

@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, redstone, lote-3]
 ---
 
@@ -26,15 +26,15 @@ tags: [minecolonies, construção, redstone, lote-3]
 
 ## Função
 
-O Mechanic cobre receitas que não pertencem a outros artesãos: redstone, trilhos, carrinhos, bússolas, relógios, lanternas, blocos de armazenamento e vários componentes especiais.
+O mecânico cobre receitas que não pertencem a outros artesãos: redstone, trilhos, carrinhos, bússolas, relógios, lanternas, blocos de armazenamento e vários componentes especiais.
 
 ## Desbloqueio
 
-Exige **What ya Need?**, pesquisa que depende de Blacksmith's Huts somando ao menos três níveis.
+Exige **What ya Need?**, pesquisa que depende de Ferreiro's Huts somando ao menos três níveis.
 
 ## Habilidades
 
-**Knowledge** pode economizar materiais; **Agility** acelera a fabricação.
+**Conhecimento** (*Knowledge*) pode economizar materiais; **Agilidade** (*Agility*) acelera a fabricação.
 
 ## Profissão
 

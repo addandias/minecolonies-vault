@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, alimentação, lote-2]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, alimentação, lote-2]
 
 ## Visão geral
 
-O Chef transforma ingredientes em refeições ensinadas na Chef's Kitchen e atende pedidos para abastecer os Dining Halls.
+O Chef transforma ingredientes em refeições ensinadas na Cozinha do Chef e atende pedidos para abastecer os Dining Halls.
 
 ## Local de trabalho
 
@@ -28,7 +28,7 @@ O Chef transforma ingredientes em refeições ensinadas na Chef's Kitchen e aten
 
 ## Prioridades
 
-Ensine poucas receitas sustentáveis, permita combustíveis disponíveis e mantenha os ingredientes no Warehouse. Uma receita excelente, mas sem suprimento constante, não resolve a fome da colônia.
+Ensine poucas receitas sustentáveis, permita combustíveis disponíveis e mantenha os ingredientes no Armazém. Uma receita excelente, mas sem suprimento constante, não resolve a fome da colônia.
 
 ## Fontes
 

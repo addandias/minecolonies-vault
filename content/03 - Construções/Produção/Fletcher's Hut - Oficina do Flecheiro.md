@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, artesanato, lote-3]
 ---
 
@@ -30,11 +30,11 @@ O Fletcher fabrica arcos, bestas, flechas e receitas ligadas a madeira e linha p
 
 ## Operação
 
-Ensine as receitas necessárias, mantenha gravetos, linha, penas e componentes no Warehouse e priorize munição usada pelos Guards. A capacidade de receitas cresce com o nível.
+Ensine as receitas necessárias, mantenha gravetos, linha, penas e componentes no Armazém e priorize munição usada pelos guardas. A capacidade de receitas cresce com o nível.
 
 ## Habilidades
 
-**Dexterity** acelera a fabricação; **Creativity** pode reduzir materiais consumidos.
+**Destreza** (*Dexterity*) acelera a fabricação; **Criatividade** (*Creativity*) pode reduzir materiais consumidos.
 
 ## Profissão
 

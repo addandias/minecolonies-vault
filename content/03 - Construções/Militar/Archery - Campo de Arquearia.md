@@ -13,7 +13,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ---
 
@@ -26,25 +26,25 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 | ![[assets/construcoes/medieval-dark-oak/military/archery/front.jpg]] | ![[assets/construcoes/medieval-dark-oak/military/archery/back.jpg]] |
 
 > [!INFO] Nome e variante
-> A página planejada usava “Archer Training”; o nome oficial atual é **Archery**. O acervo também contém `military/altarchery`.
+> A página planejada usava “arqueiro Training”; o nome oficial atual é **Campo de Arquearia**. O acervo também contém `military/altarchery`.
 
 ## Visão geral
 
-A Archery treina Archers com segurança antes que sejam contratados por Guard Towers ou Barracks Towers. Exige **Improved Bows**.
+A Campo de Arquearia treina arqueiros com segurança antes que sejam contratados por Torres de Guarda ou Torres do Quartel. Exige **Improved Bows**.
 
 ## Capacidade
 
 O nível define o número de alunos simultâneos, de um no nível 1 até cinco no nível 5.
 
-Trainees passam a residir na Archery, liberando a cama anterior. Eles ainda não são Guards ativos e não ajudam durante invasões.
+aprendizes passam a residir na Campo de Arquearia, liberando a cama anterior. Eles ainda não são guardas ativos e não ajudam durante invasões.
 
 ## Preparação
 
-Mantenha arcos e munição disponíveis, treine antes de abrir vagas nas torres e combine arqueiros com Knights que bloqueiem inimigos próximos.
+Mantenha arcos e munição disponíveis, treine antes de abrir vagas nas torres e combine arqueiros com cavaleiros que bloqueiem inimigos próximos.
 
 ## Pesquisa relacionada
 
-No nível 3, a Archery atende ao requisito de construção da pesquisa **That hit the mark!**. Ela custa cinco bestas, depende de **Improved Bows** e libera o [[content/04 - Profissões/Marksman - Atirador|Marksman]] como tipo de Guard. A Archery continua treinando Archers; o Marksman trabalha em Guard Towers e Barracks Towers.
+No nível 3, a Campo de Arquearia atende ao requisito de construção da pesquisa **That hit the mark!**. Ela custa cinco bestas, depende de **Improved Bows** e libera o [[content/04 - Profissões/Marksman - Atirador|Marksman]] como tipo de guarda. A Campo de Arquearia continua treinando arqueiros; o atirador trabalha em Torres de Guarda e Torres do Quartel.
 
 ## Fontes
 

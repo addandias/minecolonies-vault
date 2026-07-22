@@ -8,7 +8,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, mineração, pedreira, lote-10a]
 ---
 
@@ -16,18 +16,18 @@ tags: [minecolonies, profissão, mineração, pedreira, lote-10a]
 
 ## Visão geral
 
-O Quarrier executa a escavação planejada de uma [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]], removendo somente os blocos existentes na área do projeto. É indicado para produção em volume, especialmente de pedra e materiais naturais do terreno.
+O pedreiro de pedreira executa a escavação planejada de uma [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]], removendo somente os blocos existentes na área do projeto. É indicado para produção em volume, especialmente de pedra e materiais naturais do terreno.
 
 ## Contratação e local de trabalho
 
-O cidadão precisa ser **contratado na [[content/03 - Construções/Recursos/Mine - Mina|Mine]]** e depois atribuído à Quarry. A Mine não mantém um Miner enquanto estiver usando sua vaga para contratar ou empregar um Quarrier.
+O cidadão precisa ser **contratado na [[content/03 - Construções/Recursos/Mine - Mina|Mine]]** e depois atribuído à Pedreira. A Mina não mantém um mineiro enquanto estiver usando sua vaga para contratar ou empregar um pedreiro de pedreira.
 
 ## Atributos principais
 
 | Atributo | Efeito oficial |
 |---|---|
-| Strength | Quebra blocos mais rapidamente |
-| Stamina | Coloca blocos mais rapidamente |
+| Força (*Strength*) | Quebra blocos mais rapidamente |
+| Vigor (*Stamina*) | Coloca blocos mais rapidamente |
 
 ## Necessidades
 
@@ -35,7 +35,7 @@ O cidadão precisa ser **contratado na [[content/03 - Construções/Recursos/Min
 - materiais pedidos para executar o esquema;
 - comida e acesso seguro ao local;
 - espaço de inventário e coleta logística frequente;
-- área da Quarry sem interferências do jogador.
+- área da Pedreira sem interferências do jogador.
 
 ## Fluxo de trabalho
 
@@ -49,10 +49,10 @@ O cidadão precisa ser **contratado na [[content/03 - Construções/Recursos/Min
 
 | Sintoma | Verificação |
 |---|---|
-| Não aparece para atribuição | Confirme se foi contratado primeiro na Mine |
+| Não aparece para atribuição | Confirme se foi contratado primeiro na Mina |
 | Não começa a escavar | Verifique ferramenta, alimento e materiais pedidos |
-| Para durante o projeto | Confira inventários cheios e rota dos Couriers |
-| Não encontra minério extra | Comportamento esperado: a Quarry só entrega os blocos existentes |
+| Para durante o projeto | Confira inventários cheios e rota dos entregadores |
+| Não encontra minério extra | Comportamento esperado: a Pedreira só entrega os blocos existentes |
 
 ## Fontes
 

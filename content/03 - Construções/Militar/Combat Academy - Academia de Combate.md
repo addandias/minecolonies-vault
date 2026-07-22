@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ---
 
@@ -29,7 +29,7 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 
 ## Visão geral
 
-A Combat Academy treina Knights sem o risco de enfrentar monstros. Exige **Improved Swords**.
+A Academia de Combate treina cavaleiros sem o risco de enfrentar monstros. Exige **Improved Swords**.
 
 ## Capacidade
 
@@ -37,10 +37,10 @@ O nível determina quantos alunos treinam ao mesmo tempo: de um no nível 1 até
 
 ## Requisitos
 
-Knights in Training precisam de espada e escudo. Ao serem contratados pela academia, passam a residir nela e liberam a cama anterior.
+cavaleiros in Training precisam de espada e escudo. Ao serem contratados pela academia, passam a residir nela e liberam a cama anterior.
 
 > [!WARNING]
-> Trainees usam aparência de Guard, mas não defendem a colônia enquanto estiverem em treinamento.
+> aprendizes usam aparência de guarda, mas não defendem a colônia enquanto estiverem em treinamento.
 
 ## Habilidades
 
@@ -49,7 +49,7 @@ Knights in Training precisam de espada e escudo. Ao serem contratados pela acade
 
 ## Pesquisa relacionada
 
-No nível 3, a Combat Academy atende ao requisito de construção da pesquisa **Sliced and Diced!**. Ela custa um machado de diamante, depende de **Improved Swords** e libera o [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] como tipo de Guard. A academia continua treinando Knights; o Huscarl trabalha em Guard Towers e Barracks Towers.
+No nível 3, a Academia de Combate atende ao requisito de construção da pesquisa **Sliced and Diced!**. Ela custa um machado de diamante, depende de **Improved Swords** e libera o [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] como tipo de guarda. A academia continua treinando cavaleiros; o Huscarl trabalha em Torres de Guarda e Torres do Quartel.
 
 ## Fontes
 

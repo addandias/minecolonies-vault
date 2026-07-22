@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, metalurgia, lote-3]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, metalurgia, lote-3]
 
 ## Função
 
-O Blacksmith fabrica ferramentas, armaduras, espadas e escudos vanilla, mas não arcos nem itens de redstone. Exige **Hitting Iron!**.
+O Ferreiro fabrica ferramentas, armaduras, espadas e escudos do jogo base, mas não arcos nem itens de redstone. Exige **Hitting Iron!**.
 
 ## Evolução
 
@@ -34,7 +34,7 @@ Aprende 10, 20, 40, 80 e 160 receitas. No nível 5 recebe as nove receitas de ne
 
 ## Habilidades
 
-**Strength** acelera a fabricação; **Focus** pode reduzir materiais.
+**Força** (*Strength*) acelera a fabricação; **Concentração** (*Focus*) pode reduzir materiais.
 
 ## Estratégia
 
