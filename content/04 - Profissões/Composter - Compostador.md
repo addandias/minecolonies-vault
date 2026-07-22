@@ -7,22 +7,22 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, agricultura, lote-6]
 ---
 
 # Composter — Compostador
 
-O Composter trabalha na [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador]], transformando excedentes orgânicos em Compost ou Dirt.
+O compostador trabalha na [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Cabana do Compostador]], transformando excedentes orgânicos em composto ou terra.
 
 ## Habilidades
 
-- **Stamina:** compostagem mais rápida.
-- **Athletics:** preenchimento mais rápido dos barris.
+- **Vigor** (*Stamina*): compostagem mais rápida.
+- **Atletismo** (*Athletics*): preenchimento mais rápido dos barris.
 
 ## Responsabilidades do jogador
 
-Escolha os itens permitidos, preserve o estoque mínimo do Warehouse e decida se a cadeia precisa de Compost ou Dirt. Priorize excedentes renováveis.
+Escolha os itens permitidos, preserve o estoque mínimo do armazém e decida se a cadeia precisa de composto ou terra. Priorize excedentes renováveis.
 
 ## Fontes
 
