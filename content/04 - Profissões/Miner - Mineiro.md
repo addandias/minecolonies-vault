@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, mineração, lote-2]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, mineração, lote-2]
 
 ## Visão geral
 
-O Miner constrói o poço e as ramificações da Mine enquanto extrai pedra e minérios. Sua profundidade de trabalho é limitada pelo nível da construção.
+O mineiro constrói o poço e as ramificações da Mina enquanto extrai pedra e minérios. Sua profundidade de trabalho é limitada pelo nível da construção.
 
 ## Local de trabalho
 
@@ -27,15 +27,15 @@ O Miner constrói o poço e as ramificações da Mine enquanto extrai pedra e mi
 - tochas e materiais pedidos;
 - comida;
 - caminho livre pela estrutura;
-- nível da Mine compatível com a camada desejada.
+- nível da Mina compatível com a camada desejada.
 
 ## Regra essencial
 
-Não antecipe a escavação. O Miner trata espaços abertos como cavernas e pode deixar de construir plataformas ou partes do projeto.
+Não antecipe a escavação. O mineiro trata espaços abertos como cavernas e pode deixar de construir plataformas ou partes do projeto.
 
 ## Segurança
 
-Ilumine acessos, remova ameaças sem destruir o esquema e use patrulhas de Guards em minas extensas.
+Ilumine acessos, remova ameaças sem destruir o esquema e use patrulhas de guardas em minas extensas.
 
 ## Fontes
 

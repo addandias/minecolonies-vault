@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, planejamento, colônia-avançada, lote-9a, lote-10b]
 ---
 
@@ -11,7 +11,7 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 
 ## Objetivos
 
-- Town Hall e edifícios centrais próximos do nível máximo;
+- Prefeitura e edifícios centrais próximos do nível máximo;
 - logística distribuída e sem acúmulo prolongado;
 - cadeias essenciais automatizadas;
 - estoques mínimos definidos para itens críticos;
@@ -23,16 +23,16 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 
 | Distrito | Construções sugeridas |
 |---|---|
-| Centro cívico | Town Hall, University, Library e School |
-| Logístico | Warehouse e Courier’s Huts |
-| Industrial | Sawmill, Smeltery, Blacksmith, Mechanic e oficinas de pedra |
-| Alimentar | Farmer, criadores, Chef’s Kitchen, Bakery e Dining Hall |
-| Militar | Barracks, Barracks Towers, Guard Towers, Gatehouse, Combat Academy e Archery |
-| Extração pesada | Mine, Quarry, Crusher e oficinas de pedra |
+| Centro cívico | Prefeitura, University, Library e School |
+| Logístico | Armazém e entregador’s Huts |
+| Industrial | Serraria, Fundição, Ferreiro, mecânico e oficinas de pedra |
+| Alimentar | Farmer, criadores, Chef’s Kitchen, Padaria e Salão de Refeições |
+| Militar | Quartel, Torres do Quartel, Torres de Guarda, Portaria, Academia de Combate e Campo de Arquearia |
+| Extração pesada | Mina, Pedreira, britador e oficinas de pedra |
 | Rural especializado | Stable e demais construções de criação |
 | Saúde | Hospital |
 | Serviços | Tavern e Graveyard |
-| Especializado | Mystical Site, Enchanter’s Tower e Nether Mine |
+| Especializado | Local Místico, Enchanter’s Tower e Mina do Nether |
 
 ## Revisão de autossuficiência
 
@@ -45,17 +45,17 @@ Uma colônia avançada não é apenas grande: ela mantém produção, defesa e s
 
 ## Indicadores de maturidade
 
-- Builders raramente param por itens simples;
-- Couriers não concentram todas as entregas em uma única rota;
+- construtores raramente param por itens simples;
+- entregadores não concentram todas as entregas em uma única rota;
 - comida e ferramentas possuem reserva;
 - guardas recebem equipamento sem intervenção constante;
 - mortes e doenças não provocam colapso operacional;
 - projetos grandes não esvaziam todos os estoques estratégicos.
-- composição militar combina Guards gerais e especializados conforme o tipo de invasor.
+- composição militar combina guardas gerais e especializados conforme o tipo de invasor.
 
 ## Especialização militar
 
-Com Combat Academy e Archery no nível 3, desenvolva **Sliced and Diced!** e **That hit the mark!** para liberar [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]]. Eles acrescentam opções contra armadura às Guard Towers e Barracks Towers.
+Com Academia de Combate e Campo de Arquearia no nível 3, desenvolva **Sliced and Diced!** e **That hit the mark!** para liberar [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]]. Eles acrescentam opções contra armadura às Torres de Guarda e Torres do Quartel.
 
 > [!NOTE] Análise do Vault
 > Autossuficiência absoluta não é necessária. Automatize primeiro itens frequentes e previsíveis; mantenha recursos raros e projetos excepcionais sob controle do jogador.

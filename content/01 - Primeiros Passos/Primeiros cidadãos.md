@@ -3,7 +3,7 @@ tipo: guia
 nome: Primeiros cidadãos
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, cidadãos, lote-1]
 ---
 
@@ -13,13 +13,13 @@ Uma colônia recém-fundada começa com quatro cidadãos. Eles precisam de traba
 
 ## Prioridades
 
-### 1. Escolher o Builder
+### 1. Escolher o construtor
 
-O primeiro posto indispensável é o de [[content/04 - Profissões/Builder - Construtor|Builder]]. Sem uma Builder's Hut construída, nenhuma outra cabana pode ser erguida.
+O primeiro posto indispensável é o de [[content/04 - Profissões/Builder - Construtor|Builder]]. Sem uma Cabana do Construtor construída, nenhuma outra cabana pode ser erguida.
 
 ### 2. Criar moradia
 
-Cada nível de uma Residence abriga um cidadão:
+Cada nível de uma Residência abriga um cidadão:
 
 | Nível | Cidadãos abrigados |
 |---:|---:|
@@ -33,7 +33,7 @@ Para acomodar os quatro cidadãos iniciais, você pode melhorar moradias existen
 
 ### 3. Garantir comida
 
-No início, mantenha comida acessível e observe a fome dos cidadãos na Town Hall. A cadeia automatizada de alimentação entra no Lote 2.
+No início, mantenha comida acessível e observe a fome dos cidadãos na Prefeitura. A cadeia automatizada de alimentação entra no Lote 2.
 
 ### 4. Evitar riscos
 
@@ -45,14 +45,14 @@ No início, mantenha comida acessível e observe a fome dos cidadãos na Town Ha
 
 ## Contratação e moradia
 
-A Town Hall pode contratar trabalhadores e atribuir moradias automaticamente. Se os modos estiverem configurados como manuais, escolha os cidadãos nas interfaces das respectivas construções.
+A Prefeitura pode contratar trabalhadores e atribuir moradias automaticamente. Se os modos estiverem configurados como manuais, escolha os cidadãos nas interfaces das respectivas construções.
 
 ## Diagnóstico rápido
 
 | Sintoma | Verifique |
 |---|---|
 | Cidadão sem trabalho | Vaga aberta e contratação automática/manual |
-| Cidadão sem casa | Capacidade livre nas Residences |
+| Cidadão sem casa | Capacidade livre nas residências |
 | Novo cidadão não aparece | Vaga de moradia e geração habilitada |
 | Cidadão parado | Fome, ferramenta, pedido ou caminho |
 | Cidadão preso | Use Recall e corrija a rota |

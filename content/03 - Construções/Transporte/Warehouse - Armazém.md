@@ -10,7 +10,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: Courier
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, logística, lote-1]
 ---
 
@@ -27,11 +27,11 @@ tags: [minecolonies, construção, logística, lote-1]
 
 ## Visão geral
 
-O Warehouse é o armazenamento central da rede logística. Couriers depositam nele produtos e retiram itens necessários pelos trabalhadores.
+O Armazém é o armazenamento central da rede logística. entregadores depositam nele produtos e retiram itens necessários pelos trabalhadores.
 
-## Capacidade de Couriers
+## Capacidade de entregadores
 
-| Nível | Couriers máximos |
+| Nível | entregadores máximos |
 |---:|---:|
 | 1 | 2 |
 | 2 | 4 |
@@ -39,22 +39,22 @@ O Warehouse é o armazenamento central da rede logística. Couriers depositam ne
 | 4 | 8 |
 | 5 | 10 |
 
-Cada Courier ainda precisa de sua própria Courier's Hut.
+Cada entregador ainda precisa de sua própria Cabana do Entregador.
 
 ## Benefícios dos níveis
 
-- aumentam a quantidade de Couriers que podem usar o Warehouse;
+- aumentam a quantidade de entregadores que podem usar o Armazém;
 - ampliam a capacidade física de armazenamento do esquema;
-- no nível 3, disponibilizam a ação de organizar/empilhar os Racks;
+- no nível 3, disponibilizam a ação de organizar/empilhar os estantes;
 - no nível 5, permitem ampliar três vezes a capacidade de pilhas por Rack usando blocos de esmeralda.
 
 ## Interface
 
 ### Workers
 
-Exibe e administra os Couriers ligados ao Warehouse.
+Exibe e administra os entregadores ligados ao Armazém.
 
-### Minimum Stock
+### Estoque mínimo (*Minimum Stock*)
 
 Mantém quantidades mínimas de itens estratégicos.
 
@@ -65,20 +65,20 @@ Administra melhorias de armazenamento e, a partir do nível adequado, ordenaçã
 ## Dicas de posicionamento
 
 - Posicione no encontro das rotas de produção.
-- Garanta caminhos largos e diretos para os Couriers.
+- Garanta caminhos largos e diretos para os entregadores.
 - Evite colocar no extremo da área protegida.
-- Reserve espaço para várias Courier's Huts próximas.
+- Reserve espaço para várias entregador's Huts próximas.
 - Não transforme a entrada em praça decorativa congestionada.
 
 ## Problemas frequentes
 
 ### Itens não chegam aos trabalhadores
 
-Verifique Warehouse construído, Courier ativo, pedidos, caminhos e vinculação ao Warehouse correto.
+Verifique Armazém construído, entregador ativo, pedidos, caminhos e vinculação ao Armazém correto.
 
 ### O armazenamento parece cheio
 
-Procure Racks em todos os andares, compacte itens e melhore o edifício.
+Procure estantes em todos os andares, compacte itens e melhore o edifício.
 
 ## Construções relacionadas
 

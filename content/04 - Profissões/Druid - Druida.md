@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, defesa, lote-5]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, defesa, lote-5]
 
 ## Visão geral
 
-O Druid é um Guard de suporte que utiliza efeitos arremessáveis. Atua melhor acompanhado por Knights e Archers.
+O Druida é um guarda de suporte que utiliza efeitos arremessáveis. Atua melhor acompanhado por cavaleiros e arqueiros.
 
 ## Habilidades
 

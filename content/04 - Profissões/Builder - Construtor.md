@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, lote-1]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, lote-1]
 
 ## Visão geral
 
-O Builder executa ordens de construção, melhoria, reparo e reposicionamento. Ele remove blocos necessários, busca materiais na cabana e coloca o esquema bloco por bloco.
+O construtor executa ordens de construção, melhoria, reparo e reposicionamento. Ele remove blocos necessários, busca materiais na cabana e coloca o esquema bloco por bloco.
 
 ## Local de trabalho
 
@@ -38,17 +38,17 @@ flowchart LR
 - criar e priorizar ordens;
 - fornecer ferramentas e materiais;
 - manter o caminho até a obra acessível;
-- melhorar a Builder's Hut antes de obras de nível superior;
+- melhorar a Cabana do Construtor antes de obras de nível superior;
 - verificar a aba **Required Resources**.
 
 ## Limitações
 
 - trabalha em uma ordem por vez;
-- não supera o nível da própria Builder's Hut;
+- não supera o nível da própria Cabana do Construtor;
 - depende de ferramentas adequadas, comida e acesso;
 - viagens longas reduzem a produtividade.
 
-## Como escolher o primeiro Builder
+## Como escolher o primeiro construtor
 
 Se a contratação estiver automática, o jogo atribui um cidadão. No modo manual, compare as habilidades indicadas pela interface da cabana e escolha o melhor candidato disponível. Evite atrasar a fundação buscando um cidadão perfeito: localização e abastecimento costumam ter impacto imediato maior.
 
@@ -64,7 +64,7 @@ Pode estar buscando itens, trocando ferramenta ou enfrentando um caminho ruim.
 
 ### Não aceita obra de nível superior
 
-Melhore primeiro a Builder's Hut desse trabalhador.
+Melhore primeiro a Cabana do Construtor desse trabalhador.
 
 ## Fontes
 

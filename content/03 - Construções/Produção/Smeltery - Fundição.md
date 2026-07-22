@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, metalurgia, lote-3]
 ---
 
@@ -34,11 +34,11 @@ O trabalhador pode usar até dez fornos, limitado por sua habilidade e pelo nív
 
 ## Habilidades
 
-**Athletics** amplia o uso de fornos; **Strength** acelera a fundição e melhora a chance de saídas extras, conforme a versão.
+**Atletismo** (*Athletics*) amplia o uso de fornos; **Força** (*Strength*) acelera a fundição e melhora a chance de saídas extras, conforme a versão.
 
 ## Cadeia
 
-Mine → Warehouse → Smeltery → Blacksmith's Hut ou Mechanic's Hut.
+Mina → Armazém → Fundição → Ferreiro's Hut ou mecânico's Hut.
 
 ## Profissão
 

@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, defesa, lote-5]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, defesa, lote-5]
 
 ## Visão geral
 
-O Knight é um Guard corpo a corpo. Usa espada, armadura e opcionalmente escudo para bloquear inimigos e proteger unidades de longo alcance.
+O cavaleiro é um guarda corpo a corpo. Usa espada, armadura e opcionalmente escudo para bloquear inimigos e proteger unidades de longo alcance.
 
 ## Habilidades
 

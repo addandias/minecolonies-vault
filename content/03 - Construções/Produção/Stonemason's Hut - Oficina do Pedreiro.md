@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alvenaria, lote-3]
 ---
 
@@ -26,15 +26,15 @@ tags: [minecolonies, construção, alvenaria, lote-3]
 
 ## Função
 
-O Stonemason fabrica receitas 3 × 3 formadas por pedras e minérios compatíveis, sem lingotes nem componentes de redstone. Exige **Stone Cake**.
+O pedreiro fabrica receitas 3 × 3 formadas por pedras e minérios compatíveis, sem lingotes nem componentes de redstone. Exige **Stone Cake**.
 
 ## Habilidades
 
-**Creativity** pode economizar materiais; **Dexterity** acelera a fabricação.
+**Criatividade** (*Creativity*) pode economizar materiais; **Destreza** (*Dexterity*) acelera a fabricação.
 
 ## Configuração
 
-Ensine blocos, lajes, escadas e componentes realmente usados pelos Builders. A oficina conecta a Mine diretamente à construção civil.
+Ensine blocos, lajes, escadas e componentes realmente usados pelos construtores. A oficina conecta a Mina diretamente à construção civil.
 
 ## Profissão
 

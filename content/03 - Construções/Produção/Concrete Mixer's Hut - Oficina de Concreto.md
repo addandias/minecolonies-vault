@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, concreto, lote-3]
 ---
 
@@ -26,15 +26,15 @@ tags: [minecolonies, construção, concreto, lote-3]
 
 ## Função
 
-O Concrete Mixer fabrica pós de concreto, coloca-os na água integrada ao edifício e minera o concreto resultante. As receitas vêm pré-ensinadas e são executadas sob pedido. Exige **Pave the Road**.
+O misturador de concreto fabrica pós de concreto, coloca-os na água integrada ao edifício e minera o concreto resultante. As receitas vêm pré-ensinadas e são executadas sob pedido. Exige **Pave the Road**.
 
 ## Habilidades
 
-**Stamina** acelera a coleta do concreto; **Dexterity** acelera sua fabricação.
+**Vigor** (*Stamina*) acelera a coleta do concreto; **Destreza** (*Dexterity*) acelera sua fabricação.
 
 ## Cadeia
 
-Areia + cascalho + corante → Concrete Mixer's Hut → concreto → Warehouse → Builder.
+Areia + cascalho + corante → Oficina de Concreto → concreto → Armazém → construtor.
 
 ## Profissão
 

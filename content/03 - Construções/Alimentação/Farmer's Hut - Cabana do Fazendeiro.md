@@ -11,7 +11,7 @@ nivel_maximo: 5
 trabalhador: Farmer
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, agricultura, lote-2]
 ---
 
@@ -32,7 +32,7 @@ O Farmer cultiva trigo, cenoura, batata, beterraba, melão, abóbora e plantaç�
 
 ## Campos
 
-Cada nível da cabana permite administrar mais um Field, até cinco. Um campo pode alcançar **11 × 11 blocos**, contando cinco blocos em cada direção a partir do bloco central.
+Cada nível da cabana permite administrar mais um campo, até cinco. Um campo pode alcançar **11 × 11 blocos**, contando cinco blocos em cada direção a partir do bloco central.
 
 | Nível da cabana | Máximo de campos | Receitas |
 |---:|---:|---:|
@@ -54,8 +54,8 @@ Cada nível da cabana permite administrar mais um Field, até cinco. Um campo po
 
 - use campos completos quando houver espaço;
 - evite obstáculos e desníveis dentro da área cultivável;
-- escolha culturas conforme as receitas ensinadas à Chef's Kitchen;
-- mantenha sementes de reserva no Warehouse;
+- escolha culturas conforme as receitas ensinadas à Cozinha do Chef;
+- mantenha sementes de reserva no Armazém;
 - expanda o número de campos apenas quando o transporte acompanhar a produção.
 
 ## Profissão

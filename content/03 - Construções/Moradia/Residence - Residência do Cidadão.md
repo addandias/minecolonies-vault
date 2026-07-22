@@ -11,7 +11,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: não se aplica
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, moradia, lote-1]
 ---
 
@@ -27,11 +27,11 @@ tags: [minecolonies, construção, moradia, lote-1]
 > O acervo também contém `fundamentals/altresidence`.
 
 > [!NOTE] Nome oficial
-> A documentação oficial atual chama a construção de **Residence**. O nome antigo “Citizen's Hut” permanece como alias para facilitar buscas.
+> A documentação oficial atual chama a construção de **Residência**. O nome antigo “Citizen's Hut” permanece como alias para facilitar buscas.
 
 ## Visão geral
 
-Cidadãos atribuídos dormem na Residence. A capacidade de moradia ajuda a determinar o limite e o crescimento populacional da colônia.
+Cidadãos atribuídos dormem na Residência. A capacidade de moradia ajuda a determinar o limite e o crescimento populacional da colônia.
 
 ## Capacidade
 
@@ -49,11 +49,11 @@ Antes de expandir a população, garanta vagas para os quatro cidadãos iniciais
 
 ## Interface
 
-- **Assigned Citizens:** mostra moradores e ocupações.
-- **Manage Housing:** atribui moradores quando o modo é manual.
-- **Recall Citizens:** chama os residentes de volta.
-- **Build Options:** cria ordens de construção, melhoria ou reparo.
-- **Inventory:** acessa o bloco e os Racks da construção.
+- **Cidadãos atribuídos** (*Assigned Citizens*): mostra moradores e ocupações.
+- **Gerenciar moradia** (*Manage Housing*): atribui moradores quando o modo é manual.
+- **Chamar cidadãos** (*Recall Citizens*): chama os residentes de volta.
+- **Opções de construção** (*Build Options*): cria ordens de construção, melhoria ou reparo.
+- **Inventário** (*Inventory*): acessa o bloco e os estantes da construção.
 
 ## Dicas de posicionamento
 
@@ -66,7 +66,7 @@ Antes de expandir a população, garanta vagas para os quatro cidadãos iniciais
 
 ### A casa tem vaga, mas ninguém foi atribuído
 
-Verifique o modo automático de moradia na Town Hall e na Residence. No modo manual, use **Manage Housing**.
+Verifique o modo automático de moradia na Prefeitura e na Residência. No modo manual, use **Gerenciar moradia** (*Manage Housing*).
 
 ### Novos cidadãos não aparecem
 

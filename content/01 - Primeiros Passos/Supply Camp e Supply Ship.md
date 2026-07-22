@@ -3,13 +3,13 @@ tipo: guia
 nome: Supply Camp e Supply Ship
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, primeiros-passos, lote-1]
 ---
 
 # Supply Camp e Supply Ship
 
-Essas estruturas fornecem abrigo, recursos iniciais, uma Town Hall e uma Build Tool. Elas não fazem parte da colônia e devem ser posicionadas antes da fundação.
+Essas estruturas fornecem abrigo, recursos iniciais, uma Prefeitura e uma ferramenta de construção (*Build Tool*). Elas não fazem parte da colônia e devem ser posicionadas antes da fundação.
 
 ## Qual escolher?
 
@@ -19,7 +19,7 @@ Essas estruturas fornecem abrigo, recursos iniciais, uma Town Hall e uma Build T
 | Supply Ship | Corpo d'água de pelo menos 32 × 20 blocos | Portos e colônias costeiras |
 
 > [!IMPORTANT]
-> Posicione o Camp ou Ship clicando diretamente no chão ou na água. Não use a Build Tool nessa etapa.
+> Posicione o Camp ou Ship clicando diretamente no chão ou na água. Não use a ferramenta de construção (*Build Tool*) nessa etapa.
 
 ## Como posicionar
 
@@ -28,7 +28,7 @@ Essas estruturas fornecem abrigo, recursos iniciais, uma Town Hall e uma Build T
 3. Use o item no chão ou na água.
 4. Ajuste a prévia até ela ficar válida.
 5. Confirme no botão verde.
-6. Procure o baú ou Rack com a Town Hall e a Build Tool.
+6. Procure o baú ou Rack com a Prefeitura e a ferramenta de construção (*Build Tool*).
 
 ## Regra de unicidade
 
@@ -43,7 +43,7 @@ Depois de posicionar um Supply Camp ou Ship, normalmente não é possível coloc
 - teste outra orientação.
 
 > [!TIP] Use como base temporária
-> Aproveite a iluminação, os recursos e o armazenamento do acampamento enquanto o Builder prepara as primeiras construções.
+> Aproveite a iluminação, os recursos e o armazenamento do acampamento enquanto o construtor prepara as primeiras construções.
 
 ## Próximo passo
 

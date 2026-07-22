@@ -4,7 +4,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, pergaminhos, teletransporte, magia, lote-8a, lote-10d]
 ---
 
@@ -16,7 +16,7 @@ A Enchanter’s Tower pode produzir pergaminhos mágicos quando conhece a receit
 
 | Pergaminho | Requisitos | Resultado ou condição |
 |---|---|---|
-| Ultrasafe Colony Teleport Scroll | 3 papéis, bússola e Build Tool | Produz 3 pergaminhos |
+| Ultrasafe Colony Teleport Scroll | 3 papéis, bússola e ferramenta de construção (*Build Tool*) | Produz 3 pergaminhos |
 | Ultrasafe Colony Group Teleport Scroll | 3 Ultrasafe Colony Teleport Scrolls | Exige torre de nível 2 |
 
 Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo pergaminhos para localizar trabalhadores e convocar guardas.
@@ -25,11 +25,11 @@ Pesquisas posteriores podem ensinar receitas adicionais à torre, incluindo perg
 
 | Missão | Requisitos principais | Recompensa central |
 |---|---|---|
-| **Things That Go Bump in the Night** | Enchanter’s Tower nível 2 ou superior e Enchanter | 3 Spatial Guard Reinforcements Scrolls, devolução de parte dos materiais e felicidade |
-| **A Promise to Keep** | Enchanter’s Tower nível 1 e um Knight | 3 Teleport Scrolls, torta de abóbora e felicidade do Guard |
-| **A Day in the Field** | Enchanter’s Tower nível 2 | 1 Group Teleport Scroll, devolução de 3 Teleport Scrolls e felicidade |
-| **Where’s the Builder?** | Enchanter’s Tower nível 3 e um Builder | 5 Worker-Where-Are-You Scrolls, devolução de materiais e felicidade |
-| **Ancient Magic** | Hospital nível 1, Enchanter e [[content/04 - Profissões/Doctor - Médico|Doctor (Healer)]] | 3 poções de Luck e felicidade prolongada do Doctor |
+| **Things That Go Bump in the Night** | Enchanter’s Tower nível 2 ou superior e Enchanter | 3 Spatial guarda Reinforcements Scrolls, devolução de parte dos materiais e felicidade |
+| **A Promise to Keep** | Enchanter’s Tower nível 1 e um cavaleiro | 3 Teleport Scrolls, torta de abóbora e felicidade do guarda |
+| **A Day in the campo** | Enchanter’s Tower nível 2 | 1 Group Teleport Scroll, devolução de 3 Teleport Scrolls e felicidade |
+| **Where’s the construtor?** | Enchanter’s Tower nível 3 e um construtor | 5 Worker-Where-Are-You Scrolls, devolução de materiais e felicidade |
+| **Ancient Magic** | Hospital nível 1, Enchanter e [[content/04 - Profissões/Doctor - Médico|Doctor (Healer)]] | 3 poções de Luck e felicidade prolongada do médico |
 
 As missões usam diálogos, entregas e etapas de retorno. Algumas pedem que o jogador espere e converse novamente no dia seguinte. Elas complementam as receitas da torre; não substituem o fluxo normal de fabricação sob pedido.
 
@@ -40,7 +40,7 @@ As missões usam diálogos, entregas e etapas de retorno. Algumas pedem que o jo
 
 - mantenha papel disponível;
 - reserve uma bússola para cada pedido da receita básica;
-- confira se o Build Tool solicitado está acessível;
+- confira se a ferramenta de construção (*Build Tool*) solicitado está acessível;
 - produza o pergaminho de grupo somente quando o transporte coletivo for necessário;
 - revise receitas desbloqueadas após concluir pesquisas ligadas ao Enchanter.
 

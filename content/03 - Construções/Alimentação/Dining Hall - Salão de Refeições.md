@@ -11,7 +11,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: Waiter
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 ---
 
@@ -35,7 +35,7 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 - alimentar cidadãos;
 - cozinhar receitas básicas compatíveis com fornalha;
 - organizar combustíveis e alimentos aceitos;
-- receber comida produzida pela Chef's Kitchen;
+- receber comida produzida pela Cozinha do Chef;
 - reduzir deslocamentos quando bem posicionado.
 
 ## Interface
@@ -46,7 +46,7 @@ Em 1259-snapshot, o menu de alimentos passou a calcular os ingredientes das refe
 
 ## Qualidade dos alimentos
 
-Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bronze. Em 1259-snapshot, os tiers e valores foram rebalanceados. A maioria dos alimentos vanilla permanece sem classificação; somente opções vanilla com nutrição e saturação muito altas podem alcançar bronze.
+Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bronze. Em 1259-snapshot, os categorias e valores foram rebalanceados. A maioria dos alimentos do jogo base permanece sem classificação; somente opções do jogo base com nutrição e saturação muito altas podem alcançar bronze.
 
 ## Evolução recomendada
 
@@ -54,14 +54,14 @@ Comidas criadas pelo MineColonies podem apresentar qualidade ouro, prata ou bron
 |---|---|
 | Nível 1 | Servir a população inicial com comida simples |
 | Níveis 2–3 | Aproximar produção agrícola e melhorar o fluxo logístico |
-| Níveis 4–5 | Abastecer com receitas de maior qualidade da Chef's Kitchen |
+| Níveis 4–5 | Abastecer com receitas de maior qualidade da Cozinha do Chef |
 
 ## Posicionamento
 
-- coloque perto das Residences e de vias principais;
-- mantenha ligação curta com Warehouse e Courier's Huts;
+- coloque perto das residências e de vias principais;
+- mantenha ligação curta com Armazém e entregador's Huts;
 - evite concentrar toda a população em um único salão distante;
-- em colônias extensas, distribua mais de um Dining Hall por bairro.
+- em colônias extensas, distribua mais de um Salão de Refeições por bairro.
 
 ## Profissão
 

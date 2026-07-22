@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, defesa, lote-10b]
 ---
 
@@ -15,7 +15,7 @@ tags: [minecolonies, profissão, defesa, lote-10b]
 
 ## Visão geral
 
-O Huscarl é um Guard corpo a corpo especializado em machados. Parte de seu dano ignora armadura, o que o torna uma alternativa ao Knight contra alvos resistentes.
+O Huscarl é um guarda corpo a corpo especializado em machados. Parte de seu dano ignora armadura, o que o torna uma alternativa ao cavaleiro contra alvos resistentes.
 
 ## Como desbloquear
 
@@ -27,7 +27,7 @@ O Huscarl é um Guard corpo a corpo especializado em machados. Parte de seu dano
 | Construção | [[content/03 - Construções/Militar/Combat Academy - Academia de Combate]] nível 3 |
 | Custo | 1 machado de diamante |
 
-A pesquisa libera o tipo de Guard. Depois disso, o Huscarl pode ocupar uma [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]].
+A pesquisa libera o tipo de guarda. Depois disso, o Huscarl pode ocupar uma [[content/03 - Construções/Militar/Guard Tower - Torre de Guarda|Guard Tower]] ou [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]].
 
 ## Habilidades
 
@@ -36,10 +36,10 @@ A pesquisa libera o tipo de Guard. Depois disso, o Huscarl pode ocupar uma [[con
 
 ## Equipamento e comportamento
 
-O Huscarl usa machado e não utiliza escudo. Sua implementação deriva do comportamento do Knight, mas divide o ataque entre dano normal e uma parcela que ignora armadura.
+O Huscarl usa machado e não utiliza escudo. Sua implementação deriva do comportamento do cavaleiro, mas divide o ataque entre dano normal e uma parcela que ignora armadura.
 
 > [!NOTE] Análise do Vault
-> Use Huscarls para pressionar invasores com armadura e mantenha Knights na função de bloqueio quando o escudo for mais importante. A composição ideal depende do terreno, do equipamento disponível e dos inimigos do modpack.
+> Use Huscarls para pressionar invasores com armadura e mantenha cavaleiros na função de bloqueio quando o escudo for mais importante. A composição ideal depende do terreno, do equipamento disponível e dos inimigos do modpack.
 
 ## Leitura relacionada
 

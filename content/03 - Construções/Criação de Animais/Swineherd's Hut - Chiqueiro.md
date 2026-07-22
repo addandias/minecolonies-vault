@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [visao_funcao, progressao, operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, pecuária, lote-7b]
 ---
 
@@ -37,7 +37,7 @@ O Swineherd cria e abate porcos para produzir carne. O jogador precisa levar os 
 | 4 | 8 |
 | 5 | 10 |
 
-Controle reprodução e alimentação conforme a demanda do Dining Hall e da Chef’s Kitchen.
+Controle reprodução e alimentação conforme a demanda do Salão de Refeições e da Chef’s Kitchen.
 
 ## Profissão
 

@@ -10,7 +10,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhadores: [Miner, Quarrier]
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, mineração, lote-2]
 ---
 
@@ -27,25 +27,25 @@ tags: [minecolonies, construção, mineração, lote-2]
 
 ## Visão geral
 
-A Mine contrata um [[content/04 - Profissões/Miner - Mineiro|Miner]] para abrir um poço vertical estruturado ou um [[content/04 - Profissões/Quarrier - Pedreiro de pedreira|Quarrier]] que será transferido para uma [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]]. A construção mantém apenas um desses papéis por vez. Cada melhoria permite ao Miner alcançar uma camada mais profunda.
+A Mina contrata um [[content/04 - Profissões/Miner - Mineiro|Miner]] para abrir um poço vertical estruturado ou um [[content/04 - Profissões/Quarrier - Pedreiro de pedreira|Quarrier]] que será transferido para uma [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]]. A construção mantém apenas um desses papéis por vez. Cada melhoria permite ao mineiro alcançar uma camada mais profunda.
 
 > [!IMPORTANT] Vaga compartilhada
-> Para operar uma Quarry, contrate o Quarrier na Mine e depois atribua-o à Pedreira. Enquanto a vaga estiver ocupada pelo Quarrier, não haverá Miner trabalhando nesta Mine.
+> Para operar uma Pedreira, contrate o pedreiro de pedreira na Mina e depois atribua-o à Pedreira. Enquanto a vaga estiver ocupada pelo pedreiro de pedreira, não haverá mineiro trabalhando nesta Mina.
 
 ## Progressão de profundidade
 
 O desenho da mina avança por níveis associados aproximadamente às camadas de cobre, ferro, ouro, diamante e rocha-mãe. A profundidade real depende da configuração do mundo e do limite definido para a colônia.
 
-> [!WARNING] Não escave pelo Miner
-> Espaços abertos podem ser interpretados como cavernas. Se o jogador remover previamente a área planejada, o Miner pode pular plataformas e partes importantes do poço.
+> [!WARNING] Não escave pelo mineiro
+> Espaços abertos podem ser interpretados como cavernas. Se o jogador remover previamente a área planejada, o mineiro pode pular plataformas e partes importantes do poço.
 
 ## Posicionamento
 
 - construa em terreno firme e com espaço vertical;
 - deixe a cabana pelo menos quatro blocos acima da profundidade máxima configurada;
 - evite colocar sobre cavernas enormes quando houver alternativa;
-- crie acesso para Couriers;
-- considere patrulhas de Guards nas galerias.
+- crie acesso para entregadores;
+- considere patrulhas de guardas nas galerias.
 
 ## Operação
 
@@ -53,12 +53,12 @@ Forneça picaretas, pás, tochas e materiais solicitados. Não bloqueie escadas,
 
 ## Profissões
 
-- [[content/04 - Profissões/Miner - Mineiro]] — escava a estrutura subterrânea da Mine;
-- [[content/04 - Profissões/Quarrier - Pedreiro de pedreira]] — é contratado aqui e trabalha na Quarry.
+- [[content/04 - Profissões/Miner - Mineiro]] — escava a estrutura subterrânea da Mina;
+- [[content/04 - Profissões/Quarrier - Pedreiro de pedreira]] — é contratado aqui e trabalha na Pedreira.
 
-## Mine ou Quarry?
+## Mina ou Pedreira?
 
-Use a Mine para produção subterrânea contínua e oportunidades de minérios. Use a Quarry quando precisar remover uma área ampla e aproveitar, em grande volume, os blocos que já existem no terreno.
+Use a Mina para produção subterrânea contínua e oportunidades de minérios. Use a Pedreira quando precisar remover uma área ampla e aproveitar, em grande volume, os blocos que já existem no terreno.
 
 ## Fontes
 

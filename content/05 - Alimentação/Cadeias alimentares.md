@@ -4,7 +4,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, alimentação, cadeias, lote-2, lote-10c]
 ---
 
@@ -17,8 +17,8 @@ tags: [minecolonies, alimentação, cadeias, lote-2, lote-10c]
 
 ```mermaid
 flowchart LR
-    A["Field"] --> B["Farmer"]
-    B --> C["Warehouse"]
+    A["campo"] --> B["Farmer"]
+    B --> C["Armazém"]
     C --> D["Chef"]
     D --> E["Refeição"]
     E --> C
@@ -31,9 +31,9 @@ flowchart LR
 ```mermaid
 flowchart LR
     A["Água válida"] --> B["Fisher"]
-    B --> C["Warehouse"]
+    B --> C["Armazém"]
     C --> D["Chef ou Waiter"]
-    D --> E["Dining Hall"]
+    D --> E["Salão de Refeições"]
     E --> F["Cidadão"]
 ```
 
@@ -41,11 +41,11 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["Farmer e criadores"] --> B["Warehouse"]
+    A["Farmer e criadores"] --> B["Armazém"]
     B --> C["Baker"]
     C --> D["Produtos assados"]
     D --> B
-    B --> E["Dining Hall"]
+    B --> E["Salão de Refeições"]
     E --> F["Cidadão"]
 ```
 
@@ -56,10 +56,10 @@ Garrafas usadas em receitas do Baker ainda podem quebrar. O registro 1259-snapsh
 - produza antes de diversificar;
 - mantenha estoques mínimos dos ingredientes críticos;
 - ensine apenas receitas sustentáveis;
-- use Couriers suficientes;
-- aproxime produtores, Warehouse, cozinha e salão;
+- use entregadores suficientes;
+- aproxime produtores, Armazém, cozinha e salão;
 - preserve um alimento de emergência.
-- dimensione a produção pelo consumo diário estimado no Dining Hall;
+- dimensione a produção pelo consumo diário estimado no Salão de Refeições;
 - revalide receitas e rendimentos após atualizar para 1259-snapshot.
 
 ## Leitura relacionada

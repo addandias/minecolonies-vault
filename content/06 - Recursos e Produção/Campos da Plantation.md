@@ -1,24 +1,24 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, plantation, campos, lote-6]
 ---
 
 # Campos da Plantation
 
-## Diferença para o Field
+## Diferença para o Campo
 
-O Field da Farmer’s Hut usa um bloco semelhante a espantalho e uma área cultivável. Os campos da Plantation são **esquemas completos**, colocados com a Build Tool e construídos por um Builder.
+O campo da Farmer’s Hut usa um bloco semelhante a espantalho e uma área cultivável. Os campos da Plantação são **esquemas completos**, colocados com a ferramenta de construção (*Build Tool*) e construídos por um construtor.
 
 ## Processo
 
-1. Construa a Plantation.
-2. Abra o pacote Medieval Dark Oak na Build Tool.
+1. Construa a Plantação.
+2. Abra o pacote Medieval Dark Oak na ferramenta de construção (*Build Tool*).
 3. Selecione um campo compatível com a planta desejada.
 4. Verifique requisitos específicos de solo, água, altura e espaço.
-5. Crie a ordem para o Builder.
-6. Associe o campo na aba **Fields** da Plantation.
+5. Crie a ordem para o construtor.
+6. Associe o campo na aba **campos** da Plantação.
 
 ## Limites
 
@@ -30,13 +30,13 @@ O Field da Farmer’s Hut usa um bloco semelhante a espantalho e uma área culti
 | 4 | 2 | 3 | 2 |
 | 5 | 3 | 4 | 3 |
 
-Um campo adicional não significa uma cultura adicional. Com Crop Rotation, uma Plantation nível 5 aceita quatro campos, mas trabalha no máximo três plantas diferentes ao mesmo tempo.
+Um campo adicional não significa uma cultura adicional. Com Crop Rotation, uma Plantação nível 5 aceita quatro campos, mas trabalha no máximo três plantas diferentes ao mesmo tempo.
 
 ## Diagnóstico
 
 Se o campo não aparecer ou não puder ser associado, confira:
 
-- se foi construído como esquema de Plantation;
+- se foi construído como esquema de Plantação;
 - distância até a construção;
 - limite de campos;
 - atribuição automática ou manual;

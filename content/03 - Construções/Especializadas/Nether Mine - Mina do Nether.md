@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, nether, expedição, lote-8b]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, nether, expedição, lote-8b]
 
 ## Função
 
-A Nether Mine envia o Nether Miner em expedições que geram recursos do Nether. A atividade é simulada: o cidadão não entra na dimensão nem minera blocos reais.
+A Mina do Nether envia o mineiro do Nether em expedições que geram recursos do Nether. A atividade é simulada: o cidadão não entra na dimensão nem minera blocos reais.
 
 O portal incluído na construção funciona para o jogador e pode ser usado como acesso normal ao Nether.
 
@@ -46,15 +46,15 @@ Cada melhoria mantém os recursos anteriores e acrescenta novos resultados.
 | 4 | Blackstone e Nether Gold Ore |
 | 5 | Ancient Debris |
 
-O Nether Miner também pode fabricar Lava Buckets.
+O mineiro do Nether também pode fabricar baldes de lava.
 
 ## Configurações importantes
 
-- **Close portal on return:** fecha o portal quando o trabalhador retorna; vem ativado por padrão.
-- **Food:** define quais alimentos podem ser consumidos durante a expedição.
-- **Expedition log:** mostra estado, saúde, saturação, equipamento, inimigos derrotados e recursos coletados.
-- **Pickup priority:** controla a prioridade de retirada pelos Couriers.
-- **Minimum stock:** mantém suprimentos definidos disponíveis na construção.
+- **Fechar portal ao retornar** (*Close portal on return*): fecha o portal quando o trabalhador retorna; vem ativado por padrão.
+- **Alimentos** (*Food*): define quais alimentos podem ser consumidos durante a expedição.
+- **Registro da expedição** (*Expedition log*): mostra estado, saúde, saturação, equipamento, inimigos derrotados e recursos coletados.
+- **Prioridade de coleta** (*Pickup priority*): controla a prioridade de retirada pelos entregadores.
+- **Estoque mínimo** (*Minimum stock*): mantém suprimentos definidos disponíveis na construção.
 
 ## Habilidades
 

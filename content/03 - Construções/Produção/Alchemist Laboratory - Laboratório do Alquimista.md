@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [progressao, operacao_config]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alquimia, lote-3]
 ---
 
@@ -26,15 +26,15 @@ tags: [minecolonies, construção, alquimia, lote-3]
 
 ## Função
 
-O Alchemist produz poções ensinadas ao laboratório usando Brewing Stands. Exige a pesquisa **Magic Potions** e uma cadeia estável de frascos, ingredientes e combustível de alquimia.
+O Alquimista produz poções ensinadas ao laboratório usando suportes de poções. Exige a pesquisa **Magic Potions** e uma cadeia estável de frascos, ingredientes e combustível de alquimia.
 
 ## Habilidades
 
-**Dexterity** acelera a preparação; **Mana** permite utilizar mais Brewing Stands.
+**Destreza** (*Dexterity*) acelera a preparação; **Mana** permite utilizar mais suportes de poções.
 
 ## Quando construir
 
-É uma oficina avançada. Priorize depois de Warehouse, University e produtores básicos, quando a colônia conseguir manter ingredientes raros sem interromper cadeias essenciais.
+É uma oficina avançada. Priorize depois de Armazém, University e produtores básicos, quando a colônia conseguir manter ingredientes raros sem interromper cadeias essenciais.
 
 ## Profissão
 

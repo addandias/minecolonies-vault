@@ -8,7 +8,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, alimentação, lote-2]
 ---
 
@@ -16,7 +16,7 @@ tags: [minecolonies, profissão, alimentação, lote-2]
 
 ## Visão geral
 
-O Waiter trabalha no Dining Hall. Ele prepara alimentos simples compatíveis com fornalha, atende cidadãos famintos e distribui comida disponível. O nome antigo **Cook** foi preservado como alias.
+O Waiter trabalha no Salão de Refeições. Ele prepara alimentos simples compatíveis com fornalha, atende cidadãos famintos e distribui comida disponível. O nome antigo **Cook** foi preservado como alias.
 
 ## Local de trabalho
 
@@ -39,9 +39,9 @@ O Waiter trabalha no Dining Hall. Ele prepara alimentos simples compatíveis com
 
 - mantenha comida aceita na lista do salão;
 - permita um combustível realmente disponível;
-- conecte o Dining Hall ao Warehouse;
+- conecte o Salão de Refeições ao Armazém;
 - não dependa de uma única receita complexa;
-- construa uma Chef's Kitchen quando a população crescer.
+- construa uma Cozinha do Chef quando a população crescer.
 
 ## Fontes
 

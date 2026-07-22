@@ -11,7 +11,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 ---
 
@@ -28,11 +28,11 @@ tags: [minecolonies, construção, defesa, lote-5, lote-10b]
 
 ## Visão geral
 
-O Barracks reúne várias [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]]. Nos estilos oficiais, são quatro torres, com capacidade final de até 20 Guards. Estilos personalizados podem variar. Exige **Tactic Training**.
+O Quartel reúne várias [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Towers]]. Nos estilos oficiais, são quatro torres, com capacidade final de até 20 guardas. Estilos personalizados podem variar. Exige **Tactic Training**.
 
 ## Progressão
 
-| Nível do Barracks | Torres disponíveis | Nível máximo das torres |
+| Nível do Quartel | Torres disponíveis | Nível máximo das torres |
 |---:|---:|---:|
 | 1 | 1 | 1 |
 | 2 | 2 | 2 |
@@ -40,17 +40,17 @@ O Barracks reúne várias [[content/03 - Construções/Militar/Barracks Tower - 
 | 4 | 4 | 4 |
 | 5 | 4 | 5 |
 
-Cada [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] abriga um Guard por nível. As torres internas só podem alcançar o nível do Barracks.
+Cada [[content/03 - Construções/Militar/Barracks Tower - Torre do Quartel|Barracks Tower]] abriga um guarda por nível. As torres internas só podem alcançar o nível do Quartel.
 
 ## Recursos táticos
 
-A partir do nível 3, o Barracks pode contratar espiões durante invasões para destacar inimigos. Torres configuram patrulha, guarda, acompanhamento, hostis e equipamento individualmente.
+A partir do nível 3, o Quartel pode contratar espiões durante invasões para destacar inimigos. Torres configuram patrulha, guarda, acompanhamento, hostis e equipamento individualmente.
 
-As Barracks Towers aceitam Knight, Archer, Druid e, após as pesquisas correspondentes, os novos Guards [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]].
+As Torres do Quartel aceitam cavaleiro, arqueiro, Druida e, após as pesquisas correspondentes, os novos guardas [[content/04 - Profissões/Huscarl - Huscarl|Huscarl]] e [[content/04 - Profissões/Marksman - Atirador|Marksman]].
 
 ## Posicionamento
 
-Reserve uma área grande e coloque o complexo próximo ao setor mais vulnerável, sem afastá-lo tanto que Couriers e Guards percam tempo em deslocamento.
+Reserve uma área grande e coloque o complexo próximo ao setor mais vulnerável, sem afastá-lo tanto que entregadores e guardas percam tempo em deslocamento.
 
 ## Fontes
 

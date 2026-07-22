@@ -11,7 +11,7 @@ nivel_maximo: 5
 trabalhador: Fisher
 status: em_revisao
 revisao_pendente: [operacao_config]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, pesca, lote-2]
 ---
 
@@ -44,7 +44,7 @@ Melhorias ampliam o alcance de trabalho e aumentam a variedade de itens que pode
 - valide a água antes de confirmar o esquema;
 - mantenha a margem acessível e sem barreiras;
 - prefira um lago amplo ou litoral;
-- conecte a cabana por estrada ao Warehouse e ao Dining Hall.
+- conecte a cabana por estrada ao Armazém e ao Salão de Refeições.
 
 ## Profissão
 

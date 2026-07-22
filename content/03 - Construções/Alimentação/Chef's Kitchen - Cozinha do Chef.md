@@ -12,7 +12,7 @@ nivel_maximo: 5
 trabalhador: Chef
 status: em_revisao
 revisao_pendente: [progressao, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 ---
 
@@ -26,7 +26,7 @@ tags: [minecolonies, construção, alimentação, lote-2, lote-10c]
 
 ## Visão geral
 
-A Chef's Kitchen produz refeições elaboradas sob demanda para manter os Dining Halls abastecidos. Ela complementa o Waiter: o Chef fabrica, a logística transporta e o salão distribui.
+A Cozinha do Chef produz refeições elaboradas sob demanda para manter os Dining Halls abastecidos. Ela complementa o Waiter: o Chef fabrica, a logística transporta e o salão distribui.
 
 ## Receitas por nível
 
@@ -41,7 +41,7 @@ A Chef's Kitchen produz refeições elaboradas sob demanda para manter os Dining
 Ensine receitas de fundição na interface e selecione combustíveis permitidos. A aba de tarefas ajuda a acompanhar pedidos em andamento.
 
 > [!IMPORTANT] Receitas em 1259-snapshot
-> Custos, rendimentos e tiers de diversas refeições foram rebalanceados. Reabra as receitas ensinadas após atualizar e confirme se os estoques mínimos ainda cobrem os ingredientes atuais.
+> Custos, rendimentos e categorias de diversas refeições foram rebalanceados. Reabra as receitas ensinadas após atualizar e confirme se os estoques mínimos ainda cobrem os ingredientes atuais.
 
 ## Habilidades do trabalhador
 
@@ -52,7 +52,7 @@ Ensine receitas de fundição na interface e selecione combustíveis permitidos.
 
 1. Ensine primeiro duas ou três refeições cujos ingredientes já são produzidos.
 2. Libere combustíveis renováveis, preferencialmente ligados à cadeia de madeira.
-3. Mantenha cada ingrediente no Warehouse com estoque mínimo.
+3. Mantenha cada ingrediente no Armazém com estoque mínimo.
 4. Só amplie o cardápio quando a cadeia atual estiver estável.
 
 ## Profissão

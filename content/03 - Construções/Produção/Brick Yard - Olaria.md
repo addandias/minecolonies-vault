@@ -13,7 +13,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [operacao_config, posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, alvenaria, lote-3]
 ---
 
@@ -27,11 +27,11 @@ tags: [minecolonies, construção, alvenaria, lote-3]
 
 ## Função
 
-A antiga Stone Smeltery agora é Brick Yard. O Brickmaker funde pedra, tijolos, argila, terracota, variantes lisas e toras em carvão após aprender a receita e receber um pedido. Exige **The Flintstones**.
+A antiga Stone Fundição agora é Olaria. O Brickmaker funde pedra, tijolos, argila, terracota, variantes lisas e toras em carvão após aprender a receita e receber um pedido. Exige **The Flintstones**.
 
 ## Evolução
 
-O edifício libera de um a cinco fornos conforme o nível. **Athletics** aumenta quantos são usados; **Dexterity** acelera a fundição.
+O edifício libera de um a cinco fornos conforme o nível. **Atletismo** (*Athletics*) aumenta quantos são usados; **Destreza** (*Dexterity*) acelera a fundição.
 
 > [!WARNING]
 > Carvão vegetal não pode servir de combustível para fabricar mais carvão vegetal.

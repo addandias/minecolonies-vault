@@ -10,7 +10,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 trabalhador: Courier
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, logística, lote-1]
 ---
 
@@ -27,43 +27,43 @@ tags: [minecolonies, construção, logística, lote-1]
 
 ## Visão geral
 
-O Courier transporta recursos entre Warehouse e cabanas de trabalho. Cada Courier precisa de sua própria cabana.
+O entregador transporta recursos entre Armazém e cabanas de trabalho. Cada entregador precisa de sua própria cabana.
 
 ## Requisito
 
-O Warehouse precisa estar construído pelo menos no nível 1 para o Courier trabalhar.
+O Armazém precisa estar construído pelo menos no nível 1 para o entregador trabalhar.
 
 ## Efeito dos níveis
 
-Melhorar a Courier's Hut aumenta a quantidade de itens que o Courier consegue transportar. O limite total de Couriers vinculados depende do nível do Warehouse: dois por nível, até dez.
+Melhorar a Cabana do Entregador aumenta a quantidade de itens que o entregador consegue transportar. O limite total de entregadores vinculados depende do nível do Armazém: dois por nível, até dez.
 
 ## Habilidades importantes
 
 - **Agility:** aumenta a velocidade de deslocamento.
-- **Adaptability:** permite visitar mais cabanas antes de retornar ao Warehouse.
+- **Adaptability:** permite visitar mais cabanas antes de retornar ao Armazém.
 
 ## Interface logística
 
-- **Pickup Priority:** define a prioridade de coleta desta cabana.
-- **Request Pickup Now:** chama um Courier disponível para recolher itens.
-- **Build Options:** cria ordens de construção, melhoria e reparo.
-- **Recall Worker:** chama o Courier de volta.
+- **Prioridade de coleta** (*Pickup Priority*): define a prioridade de coleta desta cabana.
+- **Solicitar coleta agora** (*Request Pickup Now*): chama um entregador disponível para recolher itens.
+- **Opções de construção** (*Build Options*): cria ordens de construção, melhoria e reparo.
+- **Chamar trabalhador** (*Recall Worker*): chama o entregador de volta.
 
 ## Dicas de posicionamento
 
-- Coloque perto do Warehouse.
+- Coloque perto do Armazém.
 - Dê acesso imediato à malha principal de caminhos.
 - Evite escadas, portas e curvas desnecessárias.
-- Melhore a cabana quando o Courier fizer muitas viagens pequenas.
+- Melhore a cabana quando o entregador fizer muitas viagens pequenas.
 
 ## Diagnóstico
 
 | Sintoma | Verifique |
 |---|---|
-| Courier parado | Warehouse construído e trabalhador atribuído |
-| Não encontra item | Item no Warehouse correto |
+| entregador parado | Armazém construído e trabalhador atribuído |
+| Não encontra item | Item no Armazém correto |
 | Muitas viagens | Nível da cabana e estoque fragmentado |
-| Entregas lentas | Caminhos, Agility e distância |
+| Entregas lentas | Caminhos, Agilidade (*Agility*) e distância |
 | Ignora uma cabana | Prioridade de coleta e pedidos |
 
 ## Construções relacionadas

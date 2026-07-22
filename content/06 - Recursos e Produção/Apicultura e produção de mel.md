@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, apicultura, produção, lote-7a]
 ---
 
@@ -9,8 +9,8 @@ tags: [minecolonies, apicultura, produção, lote-7a]
 
 ```mermaid
 flowchart LR
-    A["Flowershop"] --> B["Flores"]
-    B --> C["Apiary"]
+    A["Floricultura"] --> B["Flores"]
+    B --> C["Apiário"]
     C --> D["Favos"]
     C --> E["Frascos de mel"]
     D --> F["Produção e construção"]
@@ -19,7 +19,7 @@ flowchart LR
 
 ## Configuração
 
-1. Posicione colmeias ao redor do Apiary.
+1. Posicione colmeias ao redor do Apiário.
 2. Associe-as com a ferramenta própria.
 3. Habilite flores disponíveis.
 4. Escolha favos, mel ou ambos.

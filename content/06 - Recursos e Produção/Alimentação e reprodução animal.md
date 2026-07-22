@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, animais, alimentação, lote-7b]
 ---
 
@@ -16,7 +16,7 @@ As cabanas não capturam animais. O jogador fornece o casal inicial e mantém al
 - controles específicos adicionam ordenha, tosquia ou coloração.
 
 > [!NOTE] Análise do Vault
-> Mantenha reprodução ativa durante a formação do rebanho e reduza quando o Warehouse já possuir estoque. Isso evita competir com a alimentação dos cidadãos.
+> Mantenha reprodução ativa durante a formação do rebanho e reduza quando o Armazém já possuir estoque. Isso evita competir com a alimentação dos cidadãos.
 
 ## Diagnóstico
 
@@ -24,7 +24,7 @@ As cabanas não capturam animais. O jogador fornece o casal inicial e mantém al
 - verifique o alimento correto;
 - confira espaço e acesso aos currais;
 - revise as opções da cabana;
-- garanta retirada por Courier.
+- garanta retirada por entregador.
 
 ## Fontes
 

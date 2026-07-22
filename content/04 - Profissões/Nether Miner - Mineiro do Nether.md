@@ -7,7 +7,7 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, profissão, nether, expedição, lote-8b]
 ---
 
@@ -26,8 +26,8 @@ Antes da partida:
 
 1. habilite alimentos adequados na lista da construção;
 2. confira saúde, saturação e equipamento;
-3. garanta atendimento dos pedidos pelo Courier;
-4. revise o nível da Nether Mine conforme os recursos desejados.
+3. garanta atendimento dos pedidos pelo entregador;
+4. revise o nível da Mina do Nether conforme os recursos desejados.
 
 ## Monitoramento
 

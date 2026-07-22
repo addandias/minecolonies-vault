@@ -3,24 +3,24 @@ tipo: guia
 nome: Build Tool
 versao_minecraft: 1.20.1
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, ferramenta, lote-1]
 ---
 
 # Build Tool
 
-A Build Tool posiciona blocos de construção, decorações e esquemas personalizados com uma prévia tridimensional.
+A ferramenta de construção (*Build Tool*) posiciona blocos de construção, decorações e esquemas personalizados com uma prévia tridimensional.
 
 ## Fluxo básico
 
 1. Tenha o bloco da construção no inventário.
-2. Clique com a Build Tool em um bloco sólido.
+2. Clique com a ferramenta de construção (*Build Tool*) em um bloco sólido.
 3. Escolha a categoria, o estilo e a construção.
 4. Ajuste posição, altura, rotação e espelhamento.
 5. Saia da interface com `Esc` para inspecionar a prévia por todos os lados.
 6. Abra a interface novamente clicando na prévia.
 7. Confirme no botão verde.
-8. No bloco da construção, use **Build Options → Build Building**.
+8. No bloco da construção, use **Opções de construção → Construir edifício** (*Build Options → Build Building*).
 
 ## Controles da prévia
 
@@ -57,7 +57,7 @@ Volte à prévia e ajuste o eixo vertical. Nem todo bloco de cabana fica exatame
 
 ### A prévia sumiu
 
-Clique novamente com a Build Tool próximo do local ou reinicie o posicionamento antes de confirmar.
+Clique novamente com a ferramenta de construção (*Build Tool*) próximo do local ou reinicie o posicionamento antes de confirmar.
 
 ## Fontes
 

@@ -1,22 +1,22 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, defesa, estratégia, lote-5, lote-10b]
 ---
 
 # Estratégia defensiva
 
 > [!NOTE] Análise do Vault
-> Esta estratégia combina alcance de torres, comportamento de patrulha e composição de Guards. Adapte ao terreno e às configurações do mundo.
+> Esta estratégia combina alcance de torres, comportamento de patrulha e composição de guardas. Adapte ao terreno e às configurações do mundo.
 
 ## Defesa em camadas
 
 ```mermaid
 flowchart LR
-    A["Borda e aviso"] --> B["Gatehouse e torres externas"]
+    A["Borda e aviso"] --> B["Portaria e torres externas"]
     B --> C["Portões e gargalos"]
-    C --> D["Reserva do Barracks"]
+    C --> D["Reserva do Quartel"]
     D --> E["Hospital e recuperação"]
 ```
 
@@ -24,30 +24,30 @@ flowchart LR
 
 | Função | Papel |
 |---|---|
-| Knight | Bloqueio e combate próximo |
-| Archer | Dano a distância |
-| Druid | Suporte e efeitos |
+| cavaleiro | Bloqueio e combate próximo |
+| arqueiro | Dano a distância |
+| Druida | Suporte e efeitos |
 | Huscarl | Combate com machado e pressão contra armadura |
-| Marksman | Ataque com besta e pressão contra armadura |
+| atirador | Ataque com besta e pressão contra armadura |
 
-Use Knights na frente, Archers com linha de visão e Druids protegidos. Após desbloquear as pesquisas, Huscarls ajudam contra alvos blindados no corpo a corpo e Marksmen cumprem essa função a distância.
+Use cavaleiros na frente, arqueiros com linha de visão e Druids protegidos. Após desbloquear as pesquisas, Huscarls ajudam contra alvos blindados no corpo a corpo e Marksmen cumprem essa função a distância.
 
 > [!NOTE] Análise do Vault
-> Huscarl e Marksman ampliam as opções, mas não tornam Knight e Archer obsoletos. O Huscarl abre mão do escudo; o Marksman depende de linha de visão e proteção. Não existe proporção universal: terreno, muralhas, equipamento e composição da invasão mudam o valor de cada tipo.
+> Huscarl e atirador ampliam as opções, mas não tornam cavaleiro e arqueiro obsoletos. O Huscarl abre mão do escudo; o atirador depende de linha de visão e proteção. Não existe proporção universal: terreno, muralhas, equipamento e composição da invasão mudam o valor de cada tipo.
 
 ## Cobertura
 
 - torres externas vigiam acessos e produtores;
-- torres internas protegem Residences, Warehouse e Hospital;
-- Barracks oferece reserva concentrada;
-- Barracks Towers ampliam a guarnição conforme o nível, até cinco Guards por torre;
+- torres internas protegem residências, Armazém e Hospital;
+- Quartel oferece reserva concentrada;
+- Torres do Quartel ampliam a guarnição conforme o nível, até cinco guardas por torre;
 - Gatehouses organizam entradas, mas não substituem a cobertura das torres;
 - patrulhas manuais cobrem portões e pontos cegos;
 - caminhos internos permitem reforço rápido.
 
 ## Checklist antes da noite
 
-- [ ] Guards empregados e alimentados.
+- [ ] guardas empregados e alimentados.
 - [ ] Armas, armaduras, escudos, flechas, machados e bestas disponíveis para a composição escolhida.
 - [ ] Retirada com pouca vida configurada.
 - [ ] Lista de hostis revisada.
