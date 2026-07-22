@@ -12,7 +12,7 @@ estilo: Medieval Dark Oak
 nivel_maximo: 5
 status: em_revisao
 revisao_pendente: [posicionamento]
-ultima_revisao: 2026-07-20
+ultima_revisao: 2026-07-21
 tags: [minecolonies, construção, agricultura, lote-6]
 ---
 
@@ -26,11 +26,11 @@ tags: [minecolonies, construção, agricultura, lote-6]
 
 ## Visão geral
 
-O Composter transforma materiais orgânicos em Compost usando Compost Barrels. Também pode produzir Dirt e, ocasionalmente, Podzol. Exige **Biodegradable**.
+O compostador transforma materiais orgânicos em composto usando barris de compostagem. Também pode produzir terra e, ocasionalmente, podzol. Exige a pesquisa **Biodegradável** (*Biodegradable*).
 
 ## Capacidade
 
-| Nível | Compost Barrels utilizados |
+| Nível | Barris de compostagem utilizados |
 |---:|---:|
 | 1 | 1 |
 | 2 | 2 |
@@ -40,17 +40,17 @@ O Composter transforma materiais orgânicos em Compost usando Compost Barrels. T
 
 ## Configuração
 
-- **Items to Compost:** todos os itens começam desativados; habilite apenas excedentes renováveis.
-- **Produce Dirt:** troca Compost por Dirt e permite Podzol ocasional.
-- **Min Warehouse Stock:** preserva uma quantidade mínima no Warehouse; o padrão é 16.
+- **Itens para compostagem** (*Items to Compost*): todos os itens começam desativados; habilite apenas excedentes renováveis.
+- **Produzir terra** (*Produce Dirt*): troca composto por terra e permite obter podzol ocasionalmente.
+- **Estoque mínimo do armazém** (*Min Warehouse Stock*): preserva uma quantidade mínima no armazém; o padrão é 16.
 
 > [!WARNING]
-> Não autorize alimentos ou sementes críticos sem limite. O Composter pode consumir a reserva de outra cadeia.
+> Não autorize alimentos ou sementes essenciais sem limite. O compostador pode consumir a reserva de outra cadeia produtiva.
 
 ## Habilidades
 
-- **Stamina:** acelera a compostagem.
-- **Athletics:** acelera o preenchimento dos barris.
+- **Vigor** (*Stamina*): acelera a compostagem.
+- **Atletismo** (*Athletics*): acelera o preenchimento dos barris.
 
 ## Profissão
 

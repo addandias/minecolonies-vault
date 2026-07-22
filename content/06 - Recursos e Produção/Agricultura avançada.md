@@ -1,7 +1,7 @@
 ---
 tipo: guia
 status: publicado
-ultima_revisao: 2026-07-16
+ultima_revisao: 2026-07-21
 tags: [minecolonies, agricultura, produção, lote-6]
 ---
 
@@ -13,30 +13,30 @@ O Lote 6 expande a agricultura além dos alimentos básicos: reaproveita exceden
 
 ```mermaid
 flowchart LR
-    A["Excedentes orgânicos"] --> B["Composter’s Hut"]
-    B --> C["Compost"]
-    C --> D["Flowershop"]
+    A["Excedentes orgânicos"] --> B["Cabana do Compostador"]
+    B --> C["Composto"]
+    C --> D["Floricultura"]
     D --> E["Flores"]
-    E --> F["Dyer’s Hut"]
-    G["Plantation"] --> H["Cana, bambu e plantas especiais"]
+    E --> F["Oficina do Tingidor"]
+    G["Plantação"] --> H["Cana, bambu e plantas especiais"]
     H --> I["Papel, livros, açúcar e construção"]
 ```
 
 ## Ordem recomendada
 
-1. Construa a Composter’s Hut e autorize apenas excedentes.
-2. Crie uma reserva de Compost.
-3. Libere a Flowershop se houver demanda de flores e corantes.
-4. Pesquise Let It Grow.
-5. Construa a Plantation e um campo especializado.
-6. Expanda culturas somente quando Couriers e Warehouse suportarem o volume.
+1. Construa a [[content/03 - Construções/Agricultura/Composter's Hut - Cabana do Compostador|Cabana do Compostador]] e autorize apenas excedentes.
+2. Crie uma reserva de composto.
+3. Libere a [[content/03 - Construções/Agricultura/Flowershop - Floricultura|Floricultura]] se houver demanda de flores e corantes.
+4. Pesquise **Deixe crescer** (*Let It Grow*).
+5. Construa a [[content/03 - Construções/Agricultura/Plantation - Plantação|Plantação]] e um campo especializado.
+6. Expanda as culturas somente quando os entregadores e o armazém suportarem o volume.
 
 ## Destinos principais
 
 | Recurso | Destino |
 |---|---|
-| Compost | Flowershop e agricultura |
-| Flores | Dyer’s Hut e decoração |
+| Composto | Floricultura e agricultura |
+| Flores | Oficina do Tingidor e decoração |
 | Cana | Papel, livros e açúcar |
 | Bambu | Construção e receitas ensinadas |
 | Cacto | Corantes e projetos |
