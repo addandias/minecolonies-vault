@@ -18,6 +18,9 @@ tags: [minecolonies, construção, metalurgia, lote-3]
 
 # Blacksmith's Hut — Ferraria
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutblacksmith/principal.png" alt="Bloco da construção Ferraria" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -44,6 +47,18 @@ Ensine primeiro ferramentas usadas por vários trabalhadores e ordene receitas p
 
 [[content/04 - Profissões/Blacksmith - Ferreiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Ferraria](../../../assets/interfaces/construcoes/blacksmith/principal.png) | ![Receitas de fabricação — Ferraria](../../../assets/interfaces/construcoes/blacksmith/receitas-de-fabricacao.png) |
+
+| Configurações | Tarefas |
+|---|---|
+| ![Configurações — Ferraria](../../../assets/interfaces/construcoes/blacksmith/configuracoes.png) | ![Tarefas — Ferraria](../../../assets/interfaces/construcoes/blacksmith/tarefas.png) |
+
+## Fontes
 - [Blacksmith's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/blacksmith/)

@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, agricultura, lote-2]
 
 # Farmer — Fazendeiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/farmer/masculino.png" alt="Fazendeiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/farmer/feminino.png" alt="Fazendeiro — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Farmer prepara, planta e colhe os campos vinculados à cabana. É a base da alimentação renovável e o produtor das culturas especiais usadas em refeições de maior qualidade.

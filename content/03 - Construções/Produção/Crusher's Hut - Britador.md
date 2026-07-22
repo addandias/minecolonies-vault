@@ -17,6 +17,9 @@ tags: [minecolonies, construção, alvenaria, lote-3, lote-10d]
 
 # Crusher's Hut — Britador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutcrusher/principal.png" alt="Bloco da construção Britador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -49,7 +52,19 @@ Essa correção vale para construções erguidas ou atualizadas com os esquemas 
 
 [[content/04 - Profissões/Crusher - Britador]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Britador](../../../assets/interfaces/construcoes/crusher/principal.png) | ![Receitas de fabricação — Britador](../../../assets/interfaces/construcoes/crusher/receitas-de-fabricacao.png) |
+
+| Configurações | Tarefas |
+|---|---|
+| ![Configurações — Britador](../../../assets/interfaces/construcoes/crusher/configuracoes.png) | ![Tarefas — Britador](../../../assets/interfaces/construcoes/crusher/tarefas.png) |
+
+## Fontes
 - [Crusher's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/crusher/)
 - [PR #11737 — correções Medieval da Crusher’s Hut](https://github.com/ldtteam/minecolonies/pull/11737)

@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, recursos, lote-2]
 
 # Sifter — Peneirador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/sifter/masculino.png" alt="Peneirador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/sifter/feminino.png" alt="Peneirador — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Sifter processa blocos como terra, cascalho, areia e areia das almas com uma malha, recuperando materiais úteis.

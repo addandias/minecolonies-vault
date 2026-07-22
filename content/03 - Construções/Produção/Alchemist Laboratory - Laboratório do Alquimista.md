@@ -18,6 +18,9 @@ tags: [minecolonies, construção, alquimia, lote-3]
 
 # Alchemist Laboratory — Laboratório do Alquimista
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutalchemist/principal.png" alt="Bloco da construção Laboratório do Alquimista" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,18 @@ O Alquimista produz poções ensinadas ao laboratório usando suportes de poçõ
 
 [[content/04 - Profissões/Alchemist - Alquimista]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de poções |
+|---|---|
+| ![Principal — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/principal.png) | ![Receitas de poções — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/receitas-de-pocoes.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/tarefas.png) |  |
+
+## Fontes
 - [Alchemist Laboratory — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/alchemist/)

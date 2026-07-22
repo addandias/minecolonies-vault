@@ -14,6 +14,10 @@ tags: [minecolonies, profissão, saúde, lote-4]
 
 # Doctor — Médico
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/healer/masculino.png" alt="Médico — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/healer/feminino.png" alt="Médico — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O médico atende cidadãos doentes ou feridos no [[content/03 - Construções/Saúde/Hospital - Hospital]] e consome os tratamentos correspondentes.

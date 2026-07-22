@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, defesa, lote-5]
 
 # Knight — Cavaleiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/knight/masculino.png" alt="Cavaleiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/knight/feminino.png" alt="Cavaleiro — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O cavaleiro é um guarda corpo a corpo. Usa espada, armadura e opcionalmente escudo para bloquear inimigos e proteger unidades de longo alcance.

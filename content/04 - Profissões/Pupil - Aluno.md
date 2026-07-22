@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, educação, lote-4]
 
 # Pupil — Aluno
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/pupil/masculino.png" alt="Aluno — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/pupil/feminino.png" alt="Aluno — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 Pupil é a função temporária de uma criança que frequenta a [[content/03 - Construções/Educação/School - Escola]]. O estudo aumenta Intelligence antes da vida profissional adulta.

@@ -14,6 +14,10 @@ tags: [minecolonies, profissão, madeira, lote-2]
 
 # Forester — Lenhador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/forester/masculino.png" alt="Lenhador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/forester/feminino.png" alt="Lenhador — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Lenhador corta árvores e replanta mudas, criando uma fonte renovável de toras, mudas e derivados. O trabalhador era conhecido como Lumberjack.

@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-1]
 
 # Builder — Construtor
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/builder/masculino.png" alt="Construtor — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/builder/feminino.png" alt="Construtor — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O construtor executa ordens de construção, melhoria, reparo e reposicionamento. Ele remove blocos necessários, busca materiais na cabana e coloca o esquema bloco por bloco.

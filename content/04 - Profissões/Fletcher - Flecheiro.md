@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Fletcher — Flecheiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/fletcher/masculino.png" alt="Flecheiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/fletcher/feminino.png" alt="Flecheiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Fletcher's Hut - Oficina do Flecheiro]], produzindo arcos, bestas e munição. **Destreza** (*Dexterity*) aumenta a velocidade e **Criatividade** (*Creativity*) pode economizar materiais.
 
 ## Fontes

@@ -1,24 +1,20 @@
 # Imagens de profissões
 
-Use uma pasta por profissão, com o nome oficial normalizado em letras minúsculas e hífens.
+Use uma pasta por identificador visual do worker. Profissões que compartilham o mesmo conjunto oficial, como `Huscarl` e `Knight`, apontam para a mesma pasta em vez de duplicar imagens.
 
 ```text
 profissoes/
-└── <profissao>/
-    ├── principal.png
-    ├── trabalho.webp
-    └── variantes/
-        └── <cultura>-<genero>-<variante>.png
+└── <identificador-do-worker>/
+    ├── feminino.png
+    └── masculino.png
 ```
 
-- `principal.png`: retrato oficial renderizado usado na ficha lateral da profissão.
-- `trabalho.webp`: profissão em atividade, quando disponível.
-- `variantes/`: aparência alternativa relevante, identificada por cultura, gênero e variante quando esses dados estiverem disponíveis na origem.
+- `feminino.png` e `masculino.png`: renders oficiais completos usados juntos na ficha lateral da profissão.
+- A variante `medieval-a` é preferida por combinar com a identidade visual do Vault.
+- Quando essa variante não existe, use `default-a`; workers com variações numeradas usam `medieval-1a`.
 
-Não crie uma variante para representar apenas uma mudança de enquadramento. Vistas da mesma aparência devem usar nomes como `frente`, `costas` ou `detalhe` dentro da pasta da variante.
-
-Os arquivos `*_a`, `*_b`, `*_d` e `*_w` encontrados em `entity_icon` são variantes completas do retrato facial, com 16×16 pixels. Escolha uma delas como `principal.png`; preserve as demais em `variantes/` apenas quando a página realmente apresentar a diversidade visual. No Obsidian, amplie esses arquivos com interpolação desativada para manter o pixel art nítido.
+O Vault importa somente o par usado nas páginas. Outras culturas e variantes permanecem na fonte oficial para evitar dezenas de imagens redundantes por profissão.
 
 ## Origem e créditos
 
-Os retratos oficiais utilizados nesta área provêm do projeto [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies), criado e mantido pela LDTeam e pelos colaboradores do MineColonies e disponibilizado sob a [GNU GPL v3.0](https://github.com/ldtteam/minecolonies/blob/version/main/LICENSE).
+Os renders oficiais utilizados nesta área provêm do diretório de [workers do projeto ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki/tree/main/src/assets/images/wiki/workers), mantido pela equipe e pela comunidade do MineColonies e disponibilizado sob a [GNU GPL v3.0](https://github.com/ldtteam/MinecoloniesWiki/blob/main/LICENSE).

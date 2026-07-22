@@ -19,6 +19,9 @@ tags: [minecolonies, construção, galinhas, lote-7a]
 
 # Chicken Farmer’s Hut — Galinheiro
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutchickenfarmer/principal.png" alt="Bloco da construção Galinheiro" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -46,6 +49,18 @@ Como nas demais cabanas de criação, o limite cresce com o nível. As opções 
 
 [[content/04 - Profissões/Chicken Farmer - Criador de Galinhas]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Configurações |
+|---|---|
+| ![Principal — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/principal.png) | ![Configurações — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/estoque.png) |  |
+
+## Fontes
 - [Chicken Farmer’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/chickenherder/)

@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, magia, encantamentos, lote-8a, lote-10d]
 
 # Enchanter — Encantador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/enchanter/masculino.png" alt="Encantador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/enchanter/feminino.png" alt="Encantador — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Especializadas/Enchanter's Tower - Torre do Encantador]], observando outros cidadãos para reunir experiência e produzir livros encantados com Ancient Tomes.
 
 ## Habilidades

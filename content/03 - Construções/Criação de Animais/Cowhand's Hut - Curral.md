@@ -19,6 +19,9 @@ tags: [minecolonies, construção, pecuária, lote-7b]
 
 # Cowhand’s Hut — Curral
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutcowhand/principal.png" alt="Bloco da construção Curral" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -44,6 +47,18 @@ O jogador deve levar as duas primeiras vacas. As configurações controlam repro
 
 [[content/04 - Profissões/Cowhand - Vaqueiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Configurações |
+|---|---|
+| ![Principal — Curral](../../../assets/interfaces/construcoes/cowboy/principal.png) | ![Configurações — Curral](../../../assets/interfaces/construcoes/cowboy/configuracoes.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Curral](../../../assets/interfaces/construcoes/cowboy/estoque.png) |  |
+
+## Fontes
 - [Cowhand’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/cowboy/)

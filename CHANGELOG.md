@@ -6,6 +6,9 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Fichas visuais laterais com blocos de construção e renders femininos e masculinos dos trabalhadores.
+- Galerias das interfaces oficiais em todas as 52 páginas de construção, com nomes de abas apresentados em português.
+- Acervo selecionado do MinecoloniesWiki com 350 imagens, origem e snapshot registrados nos créditos.
 - Branch editorial permanente `vault-edits`, com fluxo de promoção validada para a `main` e proteção contra force-push e exclusão.
 - Verificador local do Vault e GitHub Actions compartilhado para validar codificação, referências, metadados editoriais e registros de versão.
 - Sistema de galerias para construções, profissões e itens, com índice próprio, padrões de assets e uma galeria das variantes Medieval Dark Oak já disponíveis.

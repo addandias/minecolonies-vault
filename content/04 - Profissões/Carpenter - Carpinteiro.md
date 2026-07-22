@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Carpenter — Carpinteiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/carpenter/masculino.png" alt="Carpinteiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/carpenter/feminino.png" alt="Carpinteiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Sawmill - Serraria]], fabricando componentes de madeira sob pedido. **Conhecimento** (*Knowledge*) pode economizar materiais e **Destreza** (*Dexterity*) acelera o trabalho. Precisa de receitas ensinadas, madeira no estoque e logística ativa.
 
 ## Fontes

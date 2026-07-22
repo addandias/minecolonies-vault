@@ -21,6 +21,24 @@ A Portaria é uma construção de acesso da colônia, pensada para marcar uma en
 > [!WARNING] Recurso em evolução
 > A Portaria está presente na versão de referência, mas suas funções de conexão continuam sendo expandidas pelo mod. Confirme na interface disponível no jogo quais ações estão habilitadas no seu snapshot e no servidor.
 
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Conexões |
+|---|---|
+| ![Principal — Portaria](../../../assets/interfaces/construcoes/gatehouse/principal.png) | ![Conexões — Portaria](../../../assets/interfaces/construcoes/gatehouse/conexoes.png) |
+
+| Hostis | Configurações |
+|---|---|
+| ![Hostis — Portaria](../../../assets/interfaces/construcoes/gatehouse/hostis.png) | ![Configurações — Portaria](../../../assets/interfaces/construcoes/gatehouse/configuracoes.png) |
+
+| Estatísticas | Estoque mínimo |
+|---|---|
+| ![Estatísticas — Portaria](../../../assets/interfaces/construcoes/gatehouse/estatisticas.png) | ![Estoque mínimo — Portaria](../../../assets/interfaces/construcoes/gatehouse/estoque.png) |
+
 ## Função da construção
 
 - representar um ponto formal de entrada e saída;

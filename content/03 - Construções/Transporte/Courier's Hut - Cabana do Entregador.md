@@ -16,6 +16,9 @@ tags: [minecolonies, construção, logística, lote-1]
 
 # Courier's Hut — Cabana do Entregador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutdeliveryman/principal.png" alt="Bloco da construção Cabana do Entregador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -28,6 +31,16 @@ tags: [minecolonies, construção, logística, lote-1]
 ## Visão geral
 
 O entregador transporta recursos entre Armazém e cabanas de trabalho. Cada entregador precisa de sua própria cabana.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Tarefas |
+|---|---|
+| ![Principal — Cabana do Entregador](../../../assets/interfaces/construcoes/deliveryman/principal.png) | ![Tarefas — Cabana do Entregador](../../../assets/interfaces/construcoes/deliveryman/tarefas.png) |
 
 ## Requisito
 

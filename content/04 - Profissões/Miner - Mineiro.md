@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, mineração, lote-2]
 
 # Miner — Mineiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/miner/masculino.png" alt="Mineiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/miner/feminino.png" alt="Mineiro — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O mineiro constrói o poço e as ramificações da Mina enquanto extrai pedra e minérios. Sua profundidade de trabalho é limitada pelo nível da construção.

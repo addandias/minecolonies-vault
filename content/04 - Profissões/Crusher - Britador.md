@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Crusher — Britador
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/crusher/masculino.png" alt="Britador — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/crusher/feminino.png" alt="Britador — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Crusher's Hut - Britador]], convertendo pedra e materiais naturais. Precisa de entrada disponível, ferramenta adequada e limite diário coerente com o estoque.
 
 ## Fontes

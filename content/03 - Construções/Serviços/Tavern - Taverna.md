@@ -16,6 +16,9 @@ tags: [minecolonies, construção, recrutamento, lote-4]
 
 # Tavern — Taverna
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhuttavern/principal.png" alt="Bloco da construção Taverna" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -25,6 +28,16 @@ tags: [minecolonies, construção, recrutamento, lote-4]
 ## Visão geral
 
 A Tavern funciona como moradia para quatro cidadãos e recebe visitantes que podem ser recrutados com itens. Apenas uma Tavern pode existir por colônia.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal |  |
+|---|---|
+| ![Principal — Taverna](../../../assets/interfaces/construcoes/tavern/principal.png) |  |
 
 ## Limites
 

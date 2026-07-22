@@ -19,6 +19,9 @@ tags: [minecolonies, construção, alvenaria, lote-3]
 
 # Brick Yard — Olaria
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutstonesmeltery/principal.png" alt="Bloco da construção Olaria" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -40,6 +43,22 @@ O edifício libera de um a cinco fornos conforme o nível. **Atletismo** (*Athle
 
 [[content/04 - Profissões/Brickmaker - Oleiro]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Combustível |
+|---|---|
+| ![Principal — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/principal.png) | ![Combustível — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/combustivel.png) |
+
+| Configurações | Receitas de fundição |
+|---|---|
+| ![Configurações — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/configuracoes.png) | ![Receitas de fundição — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/receitas-de-fundicao.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/tarefas.png) |  |
+
+## Fontes
 - [Brick Yard — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/stonesmeltery/)

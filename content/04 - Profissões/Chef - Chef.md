@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, alimentação, lote-2]
 
 # Chef — Chef
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/chef/masculino.png" alt="Chef — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/chef/feminino.png" alt="Chef — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O Chef transforma ingredientes em refeições ensinadas na Cozinha do Chef e atende pedidos para abastecer os Dining Halls.

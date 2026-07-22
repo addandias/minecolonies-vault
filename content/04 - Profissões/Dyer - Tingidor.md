@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Dyer — Tingidor
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/dyer/masculino.png" alt="Tingidor — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/dyer/feminino.png" alt="Tingidor — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Dyer's Hut - Oficina do Tingidor]], criando corantes e itens coloridos. **Criatividade** (*Creativity*) pode economizar entradas; **Destreza** (*Dexterity*) acelera a produção.
 
 ## Fontes

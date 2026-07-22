@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, educação, lote-4]
 
 # Library Student — Estudante da Biblioteca
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/librarystudent/masculino.png" alt="Estudante da Biblioteca — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/librarystudent/feminino.png" alt="Estudante da Biblioteca — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 É um cidadão adulto dedicado em tempo integral ao estudo na [[content/03 - Construções/Educação/Library - Biblioteca]]. Enquanto estuda, aumenta Intelligence e não pode ocupar outro emprego.

@@ -18,6 +18,9 @@ tags: [minecolonies, construção, magia, encantamentos, lote-8a, lote-10d]
 
 # Enchanter’s Tower — Torre do Encantador
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutenchanter/principal.png" alt="Bloco da construção Torre do Encantador" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -69,8 +72,20 @@ Os requisitos variam entre os níveis 1 e 3 da torre. Consulte [[content/06 - Re
 - [[content/06 - Recursos e Produção/Encantamentos e Ancient Tomes]]
 - [[content/06 - Recursos e Produção/Pergaminhos e teletransporte]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Torre do Encantador](../../../assets/interfaces/construcoes/enchanter/principal.png) | ![Receitas de fabricação — Torre do Encantador](../../../assets/interfaces/construcoes/enchanter/receitas-de-fabricacao.png) |
+
+| Estoque mínimo | Alvos |
+|---|---|
+| ![Estoque mínimo — Torre do Encantador](../../../assets/interfaces/construcoes/enchanter/estoque.png) | ![Alvos — Torre do Encantador](../../../assets/interfaces/construcoes/enchanter/alvos.png) |
+
+## Fontes
 - [Enchanter’s Tower — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/enchanter/)
 - [Enchantments — Wiki oficial do MineColonies](https://minecolonies.com/wiki/misc/enchantments/)
 - [PR #11650 — cinco missões de pergaminhos](https://github.com/ldtteam/minecolonies/pull/11650)

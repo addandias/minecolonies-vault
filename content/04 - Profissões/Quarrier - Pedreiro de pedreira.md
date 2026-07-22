@@ -14,6 +14,10 @@ tags: [minecolonies, profissão, mineração, pedreira, lote-10a]
 
 # Quarrier — Pedreiro de pedreira
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/quarrier/masculino.png" alt="Pedreiro de pedreira — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/quarrier/feminino.png" alt="Pedreiro de pedreira — aparência feminina" width="120" align="right">
+
 ## Visão geral
 
 O pedreiro de pedreira executa a escavação planejada de uma [[content/03 - Construções/Recursos/Quarry - Pedreira|Quarry]], removendo somente os blocos existentes na área do projeto. É indicado para produção em volume, especialmente de pedra e materiais naturais do terreno.

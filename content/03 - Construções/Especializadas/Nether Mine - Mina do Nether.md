@@ -18,6 +18,9 @@ tags: [minecolonies, construção, nether, expedição, lote-8b]
 
 # Nether Mine — Mina do Nether
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutnetherworker/principal.png" alt="Bloco da construção Mina do Nether" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -70,6 +73,26 @@ O mineiro do Nether também pode fabricar baldes de lava.
 - [[content/06 - Recursos e Produção/Expedições ao Nether]]
 - [[content/06 - Recursos e Produção/Cadeia de recursos do Nether]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Receitas de fabricação |
+|---|---|
+| ![Principal — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/principal.png) | ![Receitas de fabricação — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/receitas-de-fabricacao.png) |
+
+| Expedições | Alimentação |
+|---|---|
+| ![Expedições — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/expedicoes.png) | ![Alimentação — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/alimentacao.png) |
+
+| Configurações | Estoque mínimo |
+|---|---|
+| ![Configurações — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/configuracoes.png) | ![Estoque mínimo — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/estoque.png) |
+
+| Tarefas |  |
+|---|---|
+| ![Tarefas — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/tarefas.png) |  |
+
+## Fontes
 - [Nether Mine — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/netherworker/)

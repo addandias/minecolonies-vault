@@ -17,6 +17,9 @@ tags: [minecolonies, construção, moradia, lote-1]
 
 # Residence — Residência do Cidadão
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutresidence/principal.png" alt="Bloco da construção Residência do Cidadão" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Vista frontal | Vista traseira |
@@ -49,6 +52,12 @@ Antes de expandir a população, garanta vagas para os quatro cidadãos iniciais
 
 ## Interface
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal |  |
+|---|---|
+| ![Principal — Residência do Cidadão](../../../assets/interfaces/construcoes/residence/principal.png) |  |
 - **Cidadãos atribuídos** (*Assigned Citizens*): mostra moradores e ocupações.
 - **Gerenciar moradia** (*Manage Housing*): atribui moradores quando o modo é manual.
 - **Chamar cidadãos** (*Recall Citizens*): chama os residentes de volta.

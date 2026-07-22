@@ -14,6 +14,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Brickmaker — Oleiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/stonesmelter/masculino.png" alt="Oleiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/stonesmelter/feminino.png" alt="Oleiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Brick Yard - Olaria]], fundindo pedra, argila, terracota e materiais relacionados. **Atletismo** (*Athletics*) amplia os fornos usados; **Destreza** (*Dexterity*) acelera a fundição.
 
 ## Fontes

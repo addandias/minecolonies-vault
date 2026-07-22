@@ -18,6 +18,9 @@ tags: [minecolonies, construção, metalurgia, lote-3]
 
 # Smeltery — Fundição
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutsmeltery/principal.png" alt="Bloco da construção Fundição" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -44,6 +47,22 @@ Mina → Armazém → Fundição → Ferreiro's Hut ou mecânico's Hut.
 
 [[content/04 - Profissões/Smelter - Fundidor]]
 
-## Fontes
+## Interface do bloco
 
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Combustível |
+|---|---|
+| ![Principal — Fundição](../../../assets/interfaces/construcoes/smeltery/principal.png) | ![Combustível — Fundição](../../../assets/interfaces/construcoes/smeltery/combustivel.png) |
+
+| Minérios | Receitas de fundição |
+|---|---|
+| ![Minérios — Fundição](../../../assets/interfaces/construcoes/smeltery/minerios.png) | ![Receitas de fundição — Fundição](../../../assets/interfaces/construcoes/smeltery/receitas-de-fundicao.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Fundição](../../../assets/interfaces/construcoes/smeltery/estoque.png) |  |
+
+## Fontes
 - [Smeltery — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/smeltery/)

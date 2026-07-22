@@ -19,6 +19,9 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 
 # Archery — Campo de Arquearia
 
+<!-- ficha-visual: bloco -->
+<img src="../../../assets/itens/blocos-de-construcao/blockhutarchery/principal.png" alt="Bloco da construção Campo de Arquearia" width="96" align="right">
+
 ## Galeria — Medieval Dark Oak
 
 | Frente | Traseira |
@@ -31,6 +34,16 @@ tags: [minecolonies, construção, treinamento, lote-5, lote-10b]
 ## Visão geral
 
 A Campo de Arquearia treina arqueiros com segurança antes que sejam contratados por Torres de Guarda ou Torres do Quartel. Exige **Improved Bows**.
+
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Estoque mínimo |
+|---|---|
+| ![Principal — Campo de Arquearia](../../../assets/interfaces/construcoes/archery/principal.png) | ![Estoque mínimo — Campo de Arquearia](../../../assets/interfaces/construcoes/archery/estoque.png) |
 
 ## Capacidade
 

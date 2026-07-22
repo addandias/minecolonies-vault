@@ -13,6 +13,10 @@ tags: [minecolonies, profissão, lote-3]
 
 # Glassblower — Vidreiro
 
+<!-- ficha-visual: worker -->
+<img src="../../assets/profissoes/glassblower/masculino.png" alt="Vidreiro — aparência masculina" width="120" align="right">
+<img src="../../assets/profissoes/glassblower/feminino.png" alt="Vidreiro — aparência feminina" width="120" align="right">
+
 Trabalha na [[content/03 - Construções/Produção/Glassblower's Hut - Vidraçaria]], fundindo areia e fabricando vidro. **Criatividade** (*Creativity*) influencia a eficiência; **Concentração** (*Focus*) acelera o trabalho.
 
 ## Fontes

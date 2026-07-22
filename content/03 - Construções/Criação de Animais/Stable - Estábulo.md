@@ -19,6 +19,24 @@ tags: [minecolonies, construção, animais, cavalos, lote-10a]
 
 A Stable abriga o [[content/04 - Profissões/Stablemaster - Mestre do estábulo|Stablemaster]], responsável por cuidar e reproduzir cavalos. A construção forma a base da criação equina da colônia e permite organizar animais que exigem mais espaço de circulação do que os rebanhos convencionais.
 
+
+## Interface do bloco
+
+<!-- galeria-interface -->
+### Galeria da interface
+
+| Principal | Hostis |
+|---|---|
+| ![Principal — Estábulo](../../../assets/interfaces/construcoes/stable/principal.png) | ![Hostis — Estábulo](../../../assets/interfaces/construcoes/stable/hostis.png) |
+
+| Configurações | Estatísticas |
+|---|---|
+| ![Configurações — Estábulo](../../../assets/interfaces/construcoes/stable/configuracoes.png) | ![Estatísticas — Estábulo](../../../assets/interfaces/construcoes/stable/estatisticas.png) |
+
+| Estoque mínimo |  |
+|---|---|
+| ![Estoque mínimo — Estábulo](../../../assets/interfaces/construcoes/stable/estoque.png) |  |
+
 ## Função da construção
 
 - manter cavalos associados à operação do estábulo;
