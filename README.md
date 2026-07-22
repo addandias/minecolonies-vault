@@ -57,21 +57,29 @@ O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidia
 5. Configure um intervalo automático para buscar atualizações do repositório.
 6. Use o comando **Pull** quando quiser receber uma atualização imediatamente.
 
-Essa configuração é destinada a receber as atualizações do projeto no Obsidian. Não use **Commit-and-sync** nem envie alterações ao repositório. Caso encontre um erro ou tenha uma sugestão, abra uma [Issue no GitHub](https://github.com/addandias/minecolonies-vault/issues).
+Essa configuração é destinada a receber as atualizações do projeto no Obsidian. Caso encontre um erro ou tenha uma sugestão, abra uma [Issue no GitHub](https://github.com/addandias/minecolonies-vault/issues). Todo e qualquer feedback é muito bem-vindo!
 
 Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
 
 ## Licença e atribuição
 
-MineColonies e Minecraft pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
+Minecraft e MineColonies pertencem aos seus respectivos criadores. Este é um projeto comunitário independente e não oficial.
 
 ### Desenvolvimento do projeto
 
 Este projeto é idealizado e dirigido por **addandias**, com apoio do **[ChatGPT](https://chatgpt.com/)** e do **[Codex da OpenAI](https://openai.com/codex/)** na pesquisa, organização editorial, redação, revisão, validação de links e manutenção do repositório.
 
-As decisões sobre escopo, estrutura, versão de referência e direção criativa permanecem sob responsabilidade do autor do projeto. O conteúdo assistido por inteligência artificial é revisado antes de sua publicação.
+As decisões sobre escopo, estrutura, versão de referência e direção criativa permanecem sob minha responsabilidade, autor do projeto. O conteúdo assistido por inteligência artificial é revisado antes de sua publicação.
 
 ### Créditos das imagens
+
+Os ícones dos blocos de construção, os retratos renderizados dos trabalhadores e as capturas das interfaces usados nas fichas visuais provêm do projeto oficial:
+
+- **Autor do projeto:** [ldtteam](https://github.com/ldtteam/minecolonies)
+- **Projeto:** [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies)
+- **Interfaces usadas:** [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki)
+
+Esses recursos são disponibilizados sob a **GNU GPL v3.0**.
 
 As capturas das construções no estilo **Medieval Dark Oak** foram organizadas a partir do projeto comunitário:
 
@@ -79,8 +87,6 @@ As capturas das construções no estilo **Medieval Dark Oak** foram organizadas 
 - **Projeto:** [tomp2/minecolonies-style-explorer](https://github.com/tomp2/minecolonies-style-explorer)
 - **Aplicação:** [MineColonies Style Explorer](https://tomp2.github.io/minecolonies-style-explorer/)
 
-Agradecemos a **tomp2** pelo trabalho de catalogar e disponibilizar uma forma prática de explorar visualmente os estilos do MineColonies, e à comunidade e aos builders do **MineColonies** pela criação das construções apresentadas.
-
-Os ícones dos blocos de construção e os retratos renderizados dos trabalhadores usados nas fichas visuais provêm do projeto oficial [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies). As capturas das interfaces provêm do projeto oficial [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki). Agradecemos à **LDTeam**, à equipe da wiki e aos colaboradores do MineColonies pela criação e manutenção desses recursos, disponibilizados sob a **GNU GPL v3.0**.
+Agradecemos à comunidade e aos builders do **MineColonies** pela criação das construções e interfaces apresentadas e ao **tomp2** pelo trabalho de catalogar e disponibilizar uma forma prática de explorar visualmente os estilos do Mod.
 
 As imagens são usadas para fins informativos e de referência visual. Os créditos e direitos das construções permanecem com seus respectivos autores.
