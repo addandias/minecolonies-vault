@@ -140,6 +140,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Alterado
 
+- Ícones da Galeria de Itens transformados em links diretos para as páginas canônicas, com cabeçalhos curtos e compatíveis com tabelas do Obsidian.
 - Branch `main` protegida com pull request, verificação **Conteúdo e estrutura**, resolução de conversas e histórico linear obrigatórios.
 - Validação isolada de UTF-8 incorporada ao verificador completo, evitando automações duplicadas.
 - Registros editoriais de versão abreviados para `1259-snapshot`, mantendo o número técnico e a tag oficial completa nos metadados e links.

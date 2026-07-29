@@ -15,43 +15,43 @@ Esta galeria reúne referências visuais de itens por função, mantendo ferrame
 
 ## Blocos funcionais
 
-As páginas canônicas registram receita ou forma de obtenção, uso, relações com construções e profissões, imagens disponíveis e fontes.
+As páginas canônicas registram receita ou forma de obtenção, uso, relações com construções e profissões, imagens disponíveis e fontes. Clique no ícone para abrir a página do item.
 
 ### Colônia e esquemas
 
-| [[content/09 - Referências/Itens/Colony Banner - Estandarte da Colônia]] | [[content/09 - Referências/Itens/Construction Tape - Fita de Construção]] |
+| Estandarte da Colônia | Fita de Construção |
 |---|---|
-| ![[assets/itens/blocos/colony_banner/principal.png]] | ![[assets/itens/blocos/construction_tape/principal.png]] |
+| [![Estandarte da Colônia](../../../assets/itens/blocos/colony_banner/principal.png)](../Itens/Colony%20Banner%20-%20Estandarte%20da%20Colônia.md) | [![Fita de Construção](../../../assets/itens/blocos/construction_tape/principal.png)](../Itens/Construction%20Tape%20-%20Fita%20de%20Construção.md) |
 
-| [[content/09 - Referências/Itens/Waypoint - Ponto de Passagem]] | [[content/09 - Referências/Itens/Decoration Controller - Controlador de Decoração]] |
+| Ponto de Passagem | Controlador de Decoração |
 |---|---|
-| ![[assets/itens/blocos/waypoint/principal.png]] | ![[assets/itens/blocos/decoration_controller/principal.png]] |
+| [![Ponto de Passagem](../../../assets/itens/blocos/waypoint/principal.png)](../Itens/Waypoint%20-%20Ponto%20de%20Passagem.md) | [![Controlador de Decoração](../../../assets/itens/blocos/decoration_controller/principal.png)](../Itens/Decoration%20Controller%20-%20Controlador%20de%20Decoração.md) |
 
 ### Logística e armazenamento
 
-| [[content/09 - Referências/Itens/Postbox - Caixa de Pedidos]] | [[content/09 - Referências/Itens/Stash - Caixa de Depósito]] |
+| Caixa de Pedidos | Caixa de Depósito |
 |---|---|
-| ![[assets/itens/blocos/postbox/principal.png]] | ![[assets/itens/blocos/stash/principal.png]] |
+| [![Caixa de Pedidos](../../../assets/itens/blocos/postbox/principal.png)](../Itens/Postbox%20-%20Caixa%20de%20Pedidos.md) | [![Caixa de Depósito](../../../assets/itens/blocos/stash/principal.png)](../Itens/Stash%20-%20Caixa%20de%20Depósito.md) |
 
-| [[content/09 - Referências/Itens/Rack - Estante]] |  |
+| Estante |  |
 |---|---|
-| ![[assets/itens/blocos/rack/principal.png]] |  |
+| [![Estante](../../../assets/itens/blocos/rack/principal.png)](../Itens/Rack%20-%20Estante.md) |  |
 
 ### Agricultura
 
-| [[content/09 - Referências/Itens/Compost Barrel - Barril de Compostagem]] | [[content/09 - Referências/Itens/Field - Campo]] |
+| Barril de Compostagem | Campo |
 |---|---|
-| ![[assets/itens/blocos/compost_barrel/principal.png]] | ![[assets/itens/blocos/field/principal.png]] |
+| [![Barril de Compostagem](../../../assets/itens/blocos/compost_barrel/principal.png)](../Itens/Compost%20Barrel%20-%20Barril%20de%20Compostagem.md) | [![Campo](../../../assets/itens/blocos/field/principal.png)](../Itens/Field%20-%20Campo.md) |
 
-| [[content/09 - Referências/Itens/Plantation Field - Campo da Plantação]] |  |
+| Campo da Plantação |  |
 |---|---|
-| ![[assets/itens/blocos/plantation_field/principal.png]] |  |
+| [![Campo da Plantação](../../../assets/itens/blocos/plantation_field/principal.png)](../Itens/Plantation%20Field%20-%20Campo%20da%20Plantação.md) |  |
 
 ### Acesso e defesa
 
-| [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira]] | [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro]] |
+| Portão de Madeira | Portão de Ferro |
 |---|---|
-| ![[assets/itens/blocos/gate_wood/principal.png]] | ![[assets/itens/blocos/gate_iron/principal.png]] |
+| [![Portão de Madeira](../../../assets/itens/blocos/gate_wood/principal.png)](../Itens/Wooden%20Gate%20-%20Portão%20de%20Madeira.md) | [![Portão de Ferro](../../../assets/itens/blocos/gate_iron/principal.png)](../Itens/Iron%20Gate%20-%20Portão%20de%20Ferro.md) |
 
 As páginas dos portões também mostram a colocação e os estados fechado e aberto.
 
