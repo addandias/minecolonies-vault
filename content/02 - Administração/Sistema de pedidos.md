@@ -25,8 +25,8 @@ Se o Armazém não possuir o item, o sistema procura um artesão que conheça a 
 ## Ferramentas
 
 - **Clipboard:** mostra solicitações da colônia e pode ocultar pedidos constantes.
-- **Postbox:** permite ao jogador solicitar itens à colônia.
-- **Stash:** envia itens do jogador ao Armazém.
+- **[[content/09 - Referências/Itens/Postbox - Caixa de Pedidos|Postbox]]:** permite ao jogador solicitar itens à colônia.
+- **[[content/09 - Referências/Itens/Stash - Caixa de Depósito|Stash]]:** envia itens do jogador ao Armazém.
 - **Prioridade de coleta** (*Pickup Priority*): números maiores priorizam coleta; entregas continuam urgentes.
 
 ## Diagnóstico

@@ -21,6 +21,8 @@ Categorias recomendadas: `ferramentas`, `equipamentos`, `alimentos`, `recursos`,
 
 Arquivos oficiais já publicados em `.png` podem manter o formato original. Os portões ficam em `blocos/gate_wood/` e `blocos/gate_iron/`, separados por serem itens funcionais distintos.
 
+Os demais blocos funcionais usam seus identificadores oficiais, como `postbox`, `stash`, `rack`, `compost_barrel` e `waypoint`. Capturas de uma interface exclusiva do item podem permanecer na mesma pasta como `interface.png`; interfaces de construções continuam em `assets/interfaces/construcoes/`.
+
 ## Origem e créditos
 
 Os ícones e as capturas dos portões provêm do projeto [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki). Os ícones preservam o snapshot `abe15af84bf730fc592f43b5f14cd971c336ebde`, já registrado nos créditos gerais do projeto.

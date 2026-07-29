@@ -15,11 +15,45 @@ Esta galeria reúne referências visuais de itens por função, mantendo ferrame
 
 ## Blocos funcionais
 
-| Portão de Madeira | Portão de Ferro |
-|---|---|
-| [![Portão de Madeira](../../../assets/itens/blocos/gate_wood/principal.png)](../Itens/Wooden%20Gate%20-%20Portão%20de%20Madeira.md) | [![Portão de Ferro](../../../assets/itens/blocos/gate_iron/principal.png)](../Itens/Iron%20Gate%20-%20Portão%20de%20Ferro.md) |
+As páginas canônicas registram receita ou forma de obtenção, uso, relações com construções e profissões, imagens disponíveis e fontes.
 
-As páginas individuais mostram a colocação, o estado fechado e o estado aberto de cada portão.
+### Colônia e esquemas
+
+| [[content/09 - Referências/Itens/Colony Banner - Estandarte da Colônia|Estandarte da Colônia]] | [[content/09 - Referências/Itens/Construction Tape - Fita de Construção|Fita de Construção]] |
+|---|---|
+| ![[assets/itens/blocos/colony_banner/principal.png]] | ![[assets/itens/blocos/construction_tape/principal.png]] |
+
+| [[content/09 - Referências/Itens/Waypoint - Ponto de Passagem|Ponto de Passagem]] | [[content/09 - Referências/Itens/Decoration Controller - Controlador de Decoração|Controlador de Decoração]] |
+|---|---|
+| ![[assets/itens/blocos/waypoint/principal.png]] | ![[assets/itens/blocos/decoration_controller/principal.png]] |
+
+### Logística e armazenamento
+
+| [[content/09 - Referências/Itens/Postbox - Caixa de Pedidos|Caixa de Pedidos]] | [[content/09 - Referências/Itens/Stash - Caixa de Depósito|Caixa de Depósito]] |
+|---|---|
+| ![[assets/itens/blocos/postbox/principal.png]] | ![[assets/itens/blocos/stash/principal.png]] |
+
+| [[content/09 - Referências/Itens/Rack - Estante|Estante]] |  |
+|---|---|
+| ![[assets/itens/blocos/rack/principal.png]] |  |
+
+### Agricultura
+
+| [[content/09 - Referências/Itens/Compost Barrel - Barril de Compostagem|Barril de Compostagem]] | [[content/09 - Referências/Itens/Field - Campo|Campo]] |
+|---|---|
+| ![[assets/itens/blocos/compost_barrel/principal.png]] | ![[assets/itens/blocos/field/principal.png]] |
+
+| [[content/09 - Referências/Itens/Plantation Field - Campo da Plantação|Campo da Plantação]] |  |
+|---|---|
+| ![[assets/itens/blocos/plantation_field/principal.png]] |  |
+
+### Acesso e defesa
+
+| [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira|Portão de Madeira]] | [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro|Portão de Ferro]] |
+|---|---|
+| ![[assets/itens/blocos/gate_wood/principal.png]] | ![[assets/itens/blocos/gate_iron/principal.png]] |
+
+As páginas dos portões também mostram a colocação e os estados fechado e aberto.
 
 ## Categorias
 
@@ -30,6 +64,6 @@ As páginas individuais mostram a colocação, o estado fechado e o estado abert
 | Alimentos | Ingredientes e refeições | Receita ou item diferente, não quantidade |
 | Recursos | Materiais das cadeias produtivas | Estado processado ou material distinto |
 | Pergaminhos | Pergaminhos e itens de missão | Tipo ou destino diferente |
-| Blocos | Portões e outros blocos funcionais do mod | Aparência ou função diferente |
+| Blocos | Controle, logística, agricultura e defesa | Identidade funcional distinta |
 
 Os arquivos devem seguir [[assets/itens/README|Imagens de itens]]. A relação funcional entre os itens permanece no [[content/00 - Índices/Índice de Recursos|Índice de Recursos]].

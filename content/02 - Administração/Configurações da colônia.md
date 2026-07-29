@@ -18,7 +18,7 @@ tags: [minecolonies, administração, configurações, lote-4, lote-10d]
 | Auto Worker Hiring | Preenche vagas automaticamente |
 | Auto Citizen Housing | Atribui moradias automaticamente |
 | Enter/Leave messages | Exibe entrada e saída de jogadores |
-| Construction tape | Coloca fita ao criar ordens de construção |
+| [[content/09 - Referências/Itens/Construction Tape - Fita de Construção|Construction tape]] | Coloca fita ao criar ordens de construção |
 
 As opções de estilo controlam pacote padrão, cor da colônia, bandeira e aparência quando disponível.
 
