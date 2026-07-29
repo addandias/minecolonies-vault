@@ -10,6 +10,27 @@ tags:
 
 ## Itens funcionais
 
+### Colônia e esquemas
+
+- [[content/09 - Referências/Itens/Colony Banner - Estandarte da Colônia]]
+- [[content/09 - Referências/Itens/Construction Tape - Fita de Construção]]
+- [[content/09 - Referências/Itens/Waypoint - Ponto de Passagem]]
+- [[content/09 - Referências/Itens/Decoration Controller - Controlador de Decoração]]
+
+### Logística e armazenamento
+
+- [[content/09 - Referências/Itens/Postbox - Caixa de Pedidos]]
+- [[content/09 - Referências/Itens/Stash - Caixa de Depósito]]
+- [[content/09 - Referências/Itens/Rack - Estante]]
+
+### Agricultura
+
+- [[content/09 - Referências/Itens/Compost Barrel - Barril de Compostagem]]
+- [[content/09 - Referências/Itens/Field - Campo]]
+- [[content/09 - Referências/Itens/Plantation Field - Campo da Plantação]]
+
+### Acesso e defesa
+
 - [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira]]
 - [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro]]
 

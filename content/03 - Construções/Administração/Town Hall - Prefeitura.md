@@ -109,7 +109,7 @@ Controla:
 - contratação automática;
 - atribuição automática de moradia;
 - mensagens de entrada e saída;
-- fita de construção.
+- [[content/09 - Referências/Itens/Construction Tape - Fita de Construção|fita de construção]].
 
 ### Permissions e Alliances
 

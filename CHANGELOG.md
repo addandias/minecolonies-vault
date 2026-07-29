@@ -6,6 +6,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Dez páginas canônicas de blocos funcionais, organizadas entre colônia e esquemas, logística, agricultura, acesso e defesa, com ícones, receitas, interfaces disponíveis e fontes oficiais.
 - Galeria visual das 45 profissões documentadas, com retratos masculinos e femininos ligados às páginas canônicas.
 - Páginas canônicas do Portão de Madeira e do Portão de Ferro, com receitas da Oficina do Mecânico, instruções de colocação e seis capturas oficiais de uso.
 - Fichas visuais laterais com blocos de construção e renders femininos e masculinos dos trabalhadores.
