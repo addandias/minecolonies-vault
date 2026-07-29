@@ -19,37 +19,37 @@ As páginas canônicas registram receita ou forma de obtenção, uso, relações
 
 ### Colônia e esquemas
 
-| [[content/09 - Referências/Itens/Colony Banner - Estandarte da Colônia|Estandarte da Colônia]] | [[content/09 - Referências/Itens/Construction Tape - Fita de Construção|Fita de Construção]] |
+| [[content/09 - Referências/Itens/Colony Banner - Estandarte da Colônia]] | [[content/09 - Referências/Itens/Construction Tape - Fita de Construção]] |
 |---|---|
 | ![[assets/itens/blocos/colony_banner/principal.png]] | ![[assets/itens/blocos/construction_tape/principal.png]] |
 
-| [[content/09 - Referências/Itens/Waypoint - Ponto de Passagem|Ponto de Passagem]] | [[content/09 - Referências/Itens/Decoration Controller - Controlador de Decoração|Controlador de Decoração]] |
+| [[content/09 - Referências/Itens/Waypoint - Ponto de Passagem]] | [[content/09 - Referências/Itens/Decoration Controller - Controlador de Decoração]] |
 |---|---|
 | ![[assets/itens/blocos/waypoint/principal.png]] | ![[assets/itens/blocos/decoration_controller/principal.png]] |
 
 ### Logística e armazenamento
 
-| [[content/09 - Referências/Itens/Postbox - Caixa de Pedidos|Caixa de Pedidos]] | [[content/09 - Referências/Itens/Stash - Caixa de Depósito|Caixa de Depósito]] |
+| [[content/09 - Referências/Itens/Postbox - Caixa de Pedidos]] | [[content/09 - Referências/Itens/Stash - Caixa de Depósito]] |
 |---|---|
 | ![[assets/itens/blocos/postbox/principal.png]] | ![[assets/itens/blocos/stash/principal.png]] |
 
-| [[content/09 - Referências/Itens/Rack - Estante|Estante]] |  |
+| [[content/09 - Referências/Itens/Rack - Estante]] |  |
 |---|---|
 | ![[assets/itens/blocos/rack/principal.png]] |  |
 
 ### Agricultura
 
-| [[content/09 - Referências/Itens/Compost Barrel - Barril de Compostagem|Barril de Compostagem]] | [[content/09 - Referências/Itens/Field - Campo|Campo]] |
+| [[content/09 - Referências/Itens/Compost Barrel - Barril de Compostagem]] | [[content/09 - Referências/Itens/Field - Campo]] |
 |---|---|
 | ![[assets/itens/blocos/compost_barrel/principal.png]] | ![[assets/itens/blocos/field/principal.png]] |
 
-| [[content/09 - Referências/Itens/Plantation Field - Campo da Plantação|Campo da Plantação]] |  |
+| [[content/09 - Referências/Itens/Plantation Field - Campo da Plantação]] |  |
 |---|---|
 | ![[assets/itens/blocos/plantation_field/principal.png]] |  |
 
 ### Acesso e defesa
 
-| [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira|Portão de Madeira]] | [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro|Portão de Ferro]] |
+| [[content/09 - Referências/Itens/Wooden Gate - Portão de Madeira]] | [[content/09 - Referências/Itens/Iron Gate - Portão de Ferro]] |
 |---|---|
 | ![[assets/itens/blocos/gate_wood/principal.png]] | ![[assets/itens/blocos/gate_iron/principal.png]] |
 
