@@ -78,9 +78,8 @@ Os ícones dos blocos de construção, os retratos renderizados dos trabalhadore
 - **Autor do projeto:** [ldtteam](https://github.com/ldtteam/minecolonies)
 - **Projeto:** [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki)
 - **Interfaces usadas:** [ldtteam/MinecoloniesWiki](https://github.com/ldtteam/MinecoloniesWiki)
-- **Itens usados:** [snapshot `abe15af` do MinecoloniesWiki](https://github.com/AZURE-ARC-0/MinecoloniesWiki/tree/abe15af84bf730fc592f43b5f14cd971c336ebde/src/assets/images/wiki/items/minecolonies)
 
-Os itens foram recuperados de um snapshot do fork de **AZURE-ARC-0**, preservando a origem no projeto MinecoloniesWiki. Esses recursos são disponibilizados sob a **GNU GPL v3.0**.
+Esses recursos são disponibilizados sob a **GNU GPL v3.0**.
 
 As capturas das construções no estilo **Medieval Dark Oak** foram organizadas a partir do projeto comunitário:
 
