@@ -175,6 +175,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Corrigido
 
+- Links internos das tabelas de galerias simplificados para impedir que formatadores do Obsidian confundam aliases com novas colunas.
 - Gatehouse corrigida para três níveis, dois postos fixos de guarda e integração real com os Gates usados no esquema.
 - Páginas analíticas identificadas como recomendações editoriais do Vault.
 - Links que ainda apontavam para os nomes antigos Citizen's Hut e Cook.
