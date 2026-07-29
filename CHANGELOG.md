@@ -6,6 +6,7 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ### Adicionado
 
+- Galeria visual das 45 profissões documentadas, com retratos masculinos e femininos ligados às páginas canônicas.
 - Páginas canônicas do Portão de Madeira e do Portão de Ferro, com receitas da Oficina do Mecânico, instruções de colocação e seis capturas oficiais de uso.
 - Fichas visuais laterais com blocos de construção e renders femininos e masculinos dos trabalhadores.
 - Galerias das interfaces oficiais em todas as 52 páginas de construção, com nomes de abas apresentados em português.
