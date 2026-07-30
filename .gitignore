@@ -1,4 +1,5 @@
-# Estado local do Obsidian
+# Estado e preferências locais do Obsidian
+.obsidian/*.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/

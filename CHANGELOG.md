@@ -8,6 +8,8 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 - Tamanho visual dos ícones de blocos funcionais e dos retratos de profissões normalizado no Obsidian, preservando as proporções originais.
 - Grupos de logística e agricultura reorganizados sem colunas vazias na Galeria de Itens.
+- Sincronização do Vault isolada das preferências pessoais do Obsidian, evitando conflitos de Pull causados por tema, aparência e plugins locais.
+- Normalização de arquivos textuais em LF definida no Git para impedir alterações falsas de final de linha no Windows.
 
 ### Adicionado
 
