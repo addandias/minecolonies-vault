@@ -1,2 +1,11 @@
+# Mantém arquivos textuais em LF em todos os sistemas operacionais.
+* text=auto eol=lf
+
 # Inclui a documentação Markdown nas estatísticas de linguagem do GitHub.
-*.md linguist-detectable
+*.md text eol=lf linguist-detectable
+
+# Arquivos de imagem não passam por normalização textual.
+*.png binary
+*.webp binary
+*.jpg binary
+*.jpeg binary

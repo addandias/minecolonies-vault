@@ -40,7 +40,8 @@ Consulte [[content/00 - Índices/Progresso da Colônia|Progresso da Colônia]] p
 2. Baixe este repositório ou clone-o com Git.
 3. No Obsidian, escolha **Abrir pasta como cofre**.
 4. Selecione a pasta `minecolonies-vault`.
-5. Abra [[Início]].
+5. Em **Configurações → Aparência → Snippets CSS**, ative **galerias-visuais**.
+6. Abra [[Início]].
 
 Depois que o Vault for reconhecido localmente, use:
 
@@ -58,6 +59,8 @@ O Vault pode usar o plugin comunitário [Obsidian Git](https://community.obsidia
 6. Use o comando **Pull** quando quiser receber uma atualização imediatamente.
 
 Essa configuração é destinada a receber as atualizações do projeto no Obsidian. Caso encontre um erro ou tenha uma sugestão, abra uma [Issue no GitHub](https://github.com/addandias/minecolonies-vault/issues). Todo e qualquer feedback é muito bem-vindo!
+
+As preferências pessoais do Obsidian — incluindo tema, aparência, plugins, atalhos e estado da interface — ficam somente no computador do usuário. O repositório distribui o conteúdo e os recursos visuais compartilháveis sem substituir essas configurações.
 
 Os executáveis e ajustes locais dos plugins ficam fora do repositório. Nunca salve senhas, tokens ou chaves dentro do Vault.
 
