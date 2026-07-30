@@ -56,9 +56,9 @@ Ensine as receitas necessárias, mantenha gravetos, linha, penas e componentes n
 |---|---|
 | ![Controle de receitas — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/controle-de-receitas.png) | ![Configurações — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/configuracoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Oficina do Flecheiro](../../../assets/interfaces/construcoes/fletcher/tarefas.png) |
 
 ## Fontes
 - [Fletcher's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/fletcher/)

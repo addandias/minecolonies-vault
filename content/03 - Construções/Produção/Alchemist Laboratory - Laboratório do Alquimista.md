@@ -52,9 +52,9 @@ O Alquimista produz poções ensinadas ao laboratório usando suportes de poçõ
 |---|---|
 | ![Principal — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/principal.png) | ![Receitas de poções — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/receitas-de-pocoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Laboratório do Alquimista](../../../assets/interfaces/construcoes/alchemist/tarefas.png) |
 
 ## Fontes
 - [Alchemist Laboratory — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/alchemist/)

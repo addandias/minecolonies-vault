@@ -72,9 +72,9 @@ Mesmo com a perda menor, mantenha garrafas vazias em estoque para que pedidos em
 |---|---|
 | ![Receitas de fundição — Padaria](../../../assets/interfaces/construcoes/baker/receitas-de-fundicao.png) | ![Estoque mínimo — Padaria](../../../assets/interfaces/construcoes/baker/estoque.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Padaria](../../../assets/interfaces/construcoes/baker/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Padaria](../../../assets/interfaces/construcoes/baker/tarefas.png) |
 
 ## Fontes
 - [Bakery — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/baker/)

@@ -56,9 +56,9 @@ O edifício libera de um a cinco fornos conforme o nível. **Atletismo** (*Athle
 |---|---|
 | ![Configurações — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/configuracoes.png) | ![Receitas de fundição — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/receitas-de-fundicao.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Olaria](../../../assets/interfaces/construcoes/stonesmeltery/tarefas.png) |
 
 ## Fontes
 - [Brick Yard — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/stonesmeltery/)

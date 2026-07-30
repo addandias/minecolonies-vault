@@ -90,9 +90,9 @@ O mineiro do Nether também pode fabricar baldes de lava.
 |---|---|
 | ![Configurações — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/configuracoes.png) | ![Estoque mínimo — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/estoque.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Mina do Nether](../../../assets/interfaces/construcoes/netherworker/tarefas.png) |
 
 ## Fontes
 - [Nether Mine — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/netherworker/)

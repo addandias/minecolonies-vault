@@ -62,9 +62,9 @@ A Prefeitura é o centro administrativo da colônia. Seu primeiro posicionamento
 |---|---|
 | ![Configurações da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/configuracoes-da-colonia.png) | ![Estatísticas da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/estatisticas-da-colonia.png) |
 
-| Mapa da colônia |  |
-|---|---|
-| ![Mapa da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/mapa-da-colonia.png) |  |
+| Mapa da colônia |
+|---|
+| ![Mapa da colônia — Prefeitura](../../../assets/interfaces/construcoes/townhall/mapa-da-colonia.png) |
 
 ## Funções principais
 

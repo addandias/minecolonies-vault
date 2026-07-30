@@ -35,9 +35,9 @@ A Tavern funciona como moradia para quatro cidadãos e recebe visitantes que pod
 <!-- galeria-interface -->
 ### Galeria da interface
 
-| Principal |  |
-|---|---|
-| ![Principal — Taverna](../../../assets/interfaces/construcoes/tavern/principal.png) |  |
+| Principal |
+|---|
+| ![Principal — Taverna](../../../assets/interfaces/construcoes/tavern/principal.png) |
 
 ## Limites
 

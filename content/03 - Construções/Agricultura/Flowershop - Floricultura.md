@@ -42,9 +42,9 @@ O florista usa composto e machado para produzir flores. A construção exige **F
 |---|---|
 | ![Principal — Floricultura](../../../assets/interfaces/construcoes/florist/principal.png) | ![Cultivos — Floricultura](../../../assets/interfaces/construcoes/florist/cultivos.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Floricultura](../../../assets/interfaces/construcoes/florist/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Floricultura](../../../assets/interfaces/construcoes/florist/estoque.png) |
 
 ## Produção diária
 

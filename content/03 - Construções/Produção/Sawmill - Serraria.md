@@ -71,9 +71,9 @@ Ensine primeiro tábuas, escadas, cercas, portas e componentes pedidos com frequ
 |---|---|
 | ![Controle de receitas — Serraria](../../../assets/interfaces/construcoes/sawmill/controle-de-receitas.png) | ![Configurações — Serraria](../../../assets/interfaces/construcoes/sawmill/configuracoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Serraria](../../../assets/interfaces/construcoes/sawmill/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Serraria](../../../assets/interfaces/construcoes/sawmill/tarefas.png) |
 
 ## Fontes
 - [Sawmill — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/sawmill/)
