@@ -18,12 +18,25 @@ Esta galeria apresenta os retratos dos trabalhadores documentados no Vault sem m
 > [!NOTE] Aparências dos trabalhadores
 > Masculino e feminino identificam os dois retratos disponibilizados pela Wiki oficial. Não representam profissão, atributos, nível ou equipamento escolhido pelo jogador.
 
+## Especializações militares
+
+Huscarl e Cavaleiro compartilham o conjunto visual da classe corpo a corpo; Atirador e Arqueiro compartilham o conjunto da classe de longo alcance. Para evitar repetir o mesmo par, a galeria distribui um retrato representativo para cada profissão.
+
+| Classe | Profissão | Retrato representativo |
+|---|---|---|
+| Corpo a corpo | [[content/04 - Profissões/Knight - Cavaleiro]] | ![[assets/profissoes/knight/feminino.png]] |
+| Corpo a corpo | [[content/04 - Profissões/Huscarl - Huscarl]] | ![[assets/profissoes/knight/masculino.png]] |
+| Longo alcance | [[content/04 - Profissões/Archer - Arqueiro]] | ![[assets/profissoes/archer/feminino.png]] |
+| Longo alcance | [[content/04 - Profissões/Marksman - Atirador]] | ![[assets/profissoes/archer/masculino.png]] |
+
+> [!IMPORTANT] Divisão editorial
+> Essa escolha apenas diferencia as fichas no Vault. Ela não restringe o gênero do cidadão nem afirma que os renders sejam aparências exclusivas dessas especializações.
+
 ## Profissões disponíveis
 
 | Profissão | Masculino | Feminino |
 |---|---|---|
 | [[content/04 - Profissões/Alchemist - Alquimista]] | ![[assets/profissoes/alchemist/masculino.png]] | ![[assets/profissoes/alchemist/feminino.png]] |
-| [[content/04 - Profissões/Archer - Arqueiro]] | ![[assets/profissoes/archer/masculino.png]] | ![[assets/profissoes/archer/feminino.png]] |
 | [[content/04 - Profissões/Baker - Padeiro]] | ![[assets/profissoes/baker/masculino.png]] | ![[assets/profissoes/baker/feminino.png]] |
 | [[content/04 - Profissões/Beekeeper - Apicultor]] | ![[assets/profissoes/beekeeper/masculino.png]] | ![[assets/profissoes/beekeeper/feminino.png]] |
 | [[content/04 - Profissões/Blacksmith - Ferreiro]] | ![[assets/profissoes/blacksmith/masculino.png]] | ![[assets/profissoes/blacksmith/feminino.png]] |
@@ -46,10 +59,7 @@ Esta galeria apresenta os retratos dos trabalhadores documentados no Vault sem m
 | [[content/04 - Profissões/Florist - Florista]] | ![[assets/profissoes/florist/masculino.png]] | ![[assets/profissoes/florist/feminino.png]] |
 | [[content/04 - Profissões/Forester - Lenhador]] | ![[assets/profissoes/forester/masculino.png]] | ![[assets/profissoes/forester/feminino.png]] |
 | [[content/04 - Profissões/Glassblower - Vidreiro]] | ![[assets/profissoes/glassblower/masculino.png]] | ![[assets/profissoes/glassblower/feminino.png]] |
-| [[content/04 - Profissões/Huscarl - Huscarl]] | ![[assets/profissoes/knight/masculino.png]] | ![[assets/profissoes/knight/feminino.png]] |
-| [[content/04 - Profissões/Knight - Cavaleiro]] | ![[assets/profissoes/knight/masculino.png]] | ![[assets/profissoes/knight/feminino.png]] |
 | [[content/04 - Profissões/Library Student - Estudante da Biblioteca]] | ![[assets/profissoes/librarystudent/masculino.png]] | ![[assets/profissoes/librarystudent/feminino.png]] |
-| [[content/04 - Profissões/Marksman - Atirador]] | ![[assets/profissoes/archer/masculino.png]] | ![[assets/profissoes/archer/feminino.png]] |
 | [[content/04 - Profissões/Mechanic - Mecânico]] | ![[assets/profissoes/mechanic/masculino.png]] | ![[assets/profissoes/mechanic/feminino.png]] |
 | [[content/04 - Profissões/Miner - Mineiro]] | ![[assets/profissoes/miner/masculino.png]] | ![[assets/profissoes/miner/feminino.png]] |
 | [[content/04 - Profissões/Nether Miner - Mineiro do Nether]] | ![[assets/profissoes/netherminer/masculino.png]] | ![[assets/profissoes/netherminer/feminino.png]] |
@@ -67,9 +77,6 @@ Esta galeria apresenta os retratos dos trabalhadores documentados no Vault sem m
 | [[content/04 - Profissões/Teacher - Professor]] | ![[assets/profissoes/teacher/masculino.png]] | ![[assets/profissoes/teacher/feminino.png]] |
 | [[content/04 - Profissões/Undertaker - Coveiro]] | ![[assets/profissoes/undertaker/masculino.png]] | ![[assets/profissoes/undertaker/feminino.png]] |
 | [[content/04 - Profissões/Waiter - Garçom]] | ![[assets/profissoes/cook/masculino.png]] | ![[assets/profissoes/cook/feminino.png]] |
-
-> [!WARNING] Retratos provisórios
-> A Wiki oficial ainda não fornece retratos exclusivos para **Huscarl** e **Marksman** no conjunto importado. O Huscarl usa temporariamente os retratos do Knight; o Marksman usa os do Archer. As páginas continuam separadas porque suas funções e equipamentos são diferentes.
 
 ## Organização e créditos
 
