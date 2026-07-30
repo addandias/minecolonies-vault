@@ -2,6 +2,8 @@
 tipo: galeria
 categoria: profissões
 status: ativo
+cssclasses:
+  - galeria-profissoes
 tags:
   - minecolonies
   - galeria

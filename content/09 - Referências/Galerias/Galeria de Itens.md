@@ -2,6 +2,8 @@
 tipo: galeria
 categoria: itens
 status: ativo
+cssclasses:
+  - galeria-itens
 tags:
   - minecolonies
   - galeria
@@ -29,23 +31,15 @@ As páginas canônicas registram receita ou forma de obtenção, uso, relações
 
 ### Logística e armazenamento
 
-| Caixa de Pedidos | Caixa de Depósito |
-|---|---|
-| [![Caixa de Pedidos](../../../assets/itens/blocos/postbox/principal.png)](../Itens/Postbox%20-%20Caixa%20de%20Pedidos.md) | [![Caixa de Depósito](../../../assets/itens/blocos/stash/principal.png)](../Itens/Stash%20-%20Caixa%20de%20Depósito.md) |
-
-| Estante |  |
-|---|---|
-| [![Estante](../../../assets/itens/blocos/rack/principal.png)](../Itens/Rack%20-%20Estante.md) |  |
+| Caixa de Pedidos | Caixa de Depósito | Estante |
+|---|---|---|
+| [![Caixa de Pedidos](../../../assets/itens/blocos/postbox/principal.png)](../Itens/Postbox%20-%20Caixa%20de%20Pedidos.md) | [![Caixa de Depósito](../../../assets/itens/blocos/stash/principal.png)](../Itens/Stash%20-%20Caixa%20de%20Depósito.md) | [![Estante](../../../assets/itens/blocos/rack/principal.png)](../Itens/Rack%20-%20Estante.md) |
 
 ### Agricultura
 
-| Barril de Compostagem | Campo |
-|---|---|
-| [![Barril de Compostagem](../../../assets/itens/blocos/compost_barrel/principal.png)](../Itens/Compost%20Barrel%20-%20Barril%20de%20Compostagem.md) | [![Campo](../../../assets/itens/blocos/field/principal.png)](../Itens/Field%20-%20Campo.md) |
-
-| Campo da Plantação |  |
-|---|---|
-| [![Campo da Plantação](../../../assets/itens/blocos/plantation_field/principal.png)](../Itens/Plantation%20Field%20-%20Campo%20da%20Plantação.md) |  |
+| Barril de Compostagem | Campo | Campo da Plantação |
+|---|---|---|
+| [![Barril de Compostagem](../../../assets/itens/blocos/compost_barrel/principal.png)](../Itens/Compost%20Barrel%20-%20Barril%20de%20Compostagem.md) | [![Campo](../../../assets/itens/blocos/field/principal.png)](../Itens/Field%20-%20Campo.md) | [![Campo da Plantação](../../../assets/itens/blocos/plantation_field/principal.png)](../Itens/Plantation%20Field%20-%20Campo%20da%20Plantação.md) |
 
 ### Acesso e defesa
 
