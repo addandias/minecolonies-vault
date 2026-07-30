@@ -56,9 +56,9 @@ O jogador deve levar as duas primeiras vacas. As configurações controlam repro
 |---|---|
 | ![Principal — Curral](../../../assets/interfaces/construcoes/cowboy/principal.png) | ![Configurações — Curral](../../../assets/interfaces/construcoes/cowboy/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Curral](../../../assets/interfaces/construcoes/cowboy/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Curral](../../../assets/interfaces/construcoes/cowboy/estoque.png) |
 
 ## Fontes
 - [Cowhand’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/cowboy/)

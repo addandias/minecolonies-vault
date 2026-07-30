@@ -41,9 +41,9 @@ O compostador transforma materiais orgânicos em composto usando barris de compo
 |---|---|
 | ![Principal — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/principal.png) | ![Itens para compostagem — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/itens-para-compostagem.png) |
 
-| Configurações |  |
-|---|---|
-| ![Configurações — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/configuracoes.png) |  |
+| Configurações |
+|---|
+| ![Configurações — Cabana do Compostador](../../../assets/interfaces/construcoes/composter/configuracoes.png) |
 
 ## Capacidade
 

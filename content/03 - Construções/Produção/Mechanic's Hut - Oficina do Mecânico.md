@@ -56,9 +56,9 @@ Exige **What ya Need?**, pesquisa que depende de Ferreiro's Huts somando ao meno
 |---|---|
 | ![Controle de receitas — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/controle-de-receitas.png) | ![Configurações — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/configuracoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Oficina do Mecânico](../../../assets/interfaces/construcoes/mechanic/tarefas.png) |
 
 ## Fontes
 - [Mechanic's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/mechanic/)

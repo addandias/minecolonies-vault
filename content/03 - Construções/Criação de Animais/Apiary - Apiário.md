@@ -64,9 +64,9 @@ Associe colmeias com a ferramenta da interface. Em **Settings**, controle reprod
 |---|---|
 | ![Ferramenta de colmeias — Apiário](../../../assets/interfaces/construcoes/beekeeper/ferramenta-de-colmeias.png) | ![Configurações — Apiário](../../../assets/interfaces/construcoes/beekeeper/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Apiário](../../../assets/interfaces/construcoes/beekeeper/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Apiário](../../../assets/interfaces/construcoes/beekeeper/estoque.png) |
 
 ## Fontes
 - [Apiary — Wiki oficial](https://minecolonies.com/wiki/buildings/beekeeper/)

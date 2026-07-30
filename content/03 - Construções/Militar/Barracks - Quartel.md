@@ -43,9 +43,9 @@ O Quartel reúne várias [[content/03 - Construções/Militar/Barracks Tower - T
 |---|---|
 | ![Principal — Quartel](../../../assets/interfaces/construcoes/barracks/principal.png) | ![Contratação de espiões — Quartel](../../../assets/interfaces/construcoes/barracks/contratacao-de-espioes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Quartel](../../../assets/interfaces/construcoes/barracks/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Quartel](../../../assets/interfaces/construcoes/barracks/estoque.png) |
 
 ## Progressão
 

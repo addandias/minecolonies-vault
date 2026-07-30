@@ -56,9 +56,9 @@ Ensine blocos, lajes, escadas e componentes realmente usados pelos construtores.
 |---|---|
 | ![Controle de receitas — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/controle-de-receitas.png) | ![Configurações — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/configuracoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Oficina do Pedreiro](../../../assets/interfaces/construcoes/stonemason/tarefas.png) |
 
 ## Fontes
 - [Stonemason's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/stonemason/)

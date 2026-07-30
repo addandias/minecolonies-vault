@@ -52,9 +52,9 @@ O Lenhador corta árvores, coleta madeira e pode replantar mudas. Por padrão, p
 |---|---|
 | ![Estoque mínimo — Cabana do Lenhador](../../../assets/interfaces/construcoes/lumberjack/estoque.png) | ![Tarefas — Cabana do Lenhador](../../../assets/interfaces/construcoes/lumberjack/tarefas.png) |
 
-| Zona de trabalho |  |
-|---|---|
-| ![Zona de trabalho — Cabana do Lenhador](../../../assets/interfaces/construcoes/lumberjack/zona-de-trabalho.png) |  |
+| Zona de trabalho |
+|---|
+| ![Zona de trabalho — Cabana do Lenhador](../../../assets/interfaces/construcoes/lumberjack/zona-de-trabalho.png) |
 
 ## Configurações importantes
 

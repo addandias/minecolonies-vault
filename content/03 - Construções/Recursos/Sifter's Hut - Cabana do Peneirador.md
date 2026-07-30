@@ -41,9 +41,9 @@ O Sifter consome terra, cascalho, areia ou areia das almas para recuperar materi
 |---|---|
 | ![Principal — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/principal.png) | ![Receitas de fabricação — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/receitas-de-fabricacao.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Cabana do Peneirador](../../../assets/interfaces/construcoes/sifter/estoque.png) |
 
 ## Malhas e capacidade
 

@@ -57,9 +57,9 @@ As configurações controlam reprodução, alimentação, coloração e tosquia.
 |---|---|
 | ![Principal — Aprisco](../../../assets/interfaces/construcoes/shepherd/principal.png) | ![Configurações — Aprisco](../../../assets/interfaces/construcoes/shepherd/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Aprisco](../../../assets/interfaces/construcoes/shepherd/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Aprisco](../../../assets/interfaces/construcoes/shepherd/estoque.png) |
 
 ## Fontes
 - [Shepherd’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/shepherd/)

@@ -59,9 +59,9 @@ O Criador de Coelhos cria e abate coelhos. O jogador deve levar os dois primeiro
 |---|---|
 | ![Principal — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/principal.png) | ![Configurações — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Coelheira](../../../assets/interfaces/construcoes/rabbithutch/estoque.png) |
 
 ## Fontes
 - [Rabbit Hutch — Wiki oficial](https://minecolonies.com/wiki/buildings/rabbithutch/)

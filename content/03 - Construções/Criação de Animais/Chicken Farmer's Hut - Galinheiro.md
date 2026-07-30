@@ -58,9 +58,9 @@ Como nas demais cabanas de criação, o limite cresce com o nível. As opções 
 |---|---|
 | ![Principal — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/principal.png) | ![Configurações — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Galinheiro](../../../assets/interfaces/construcoes/chickenherder/estoque.png) |
 
 ## Fontes
 - [Chicken Farmer’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/chickenherder/)

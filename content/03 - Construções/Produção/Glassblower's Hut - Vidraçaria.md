@@ -64,9 +64,9 @@ britador ou coleta de areia → Armazém → Vidraçaria → vidro → construto
 |---|---|
 | ![Configurações — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/configuracoes.png) | ![Receitas de fundição — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/receitas-de-fundicao.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Vidraçaria](../../../assets/interfaces/construcoes/glassblower/tarefas.png) |
 
 ## Fontes
 - [Glassblower's Hut — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/glassblower/)

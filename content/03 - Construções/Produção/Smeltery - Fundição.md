@@ -60,9 +60,9 @@ Mina → Armazém → Fundição → Ferreiro's Hut ou mecânico's Hut.
 |---|---|
 | ![Minérios — Fundição](../../../assets/interfaces/construcoes/smeltery/minerios.png) | ![Receitas de fundição — Fundição](../../../assets/interfaces/construcoes/smeltery/receitas-de-fundicao.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Fundição](../../../assets/interfaces/construcoes/smeltery/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Fundição](../../../assets/interfaces/construcoes/smeltery/estoque.png) |
 
 ## Fontes
 - [Smeltery — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/smeltery/)

@@ -55,9 +55,9 @@ Controle reprodução e alimentação conforme a demanda do Salão de Refeiçõe
 |---|---|
 | ![Principal — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/principal.png) | ![Configurações — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/configuracoes.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Chiqueiro](../../../assets/interfaces/construcoes/swineherder/estoque.png) |
 
 ## Fontes
 - [Swineherd’s Hut — Wiki oficial](https://minecolonies.com/wiki/buildings/swineherder/)

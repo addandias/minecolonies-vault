@@ -48,9 +48,9 @@ A Plantação cultiva cana-de-açúcar, cacto, bambu e várias plantas especiais
 |---|---|
 | ![Campos — Plantação](../../../assets/interfaces/construcoes/plantation/campos.png) | ![Configurações — Plantação](../../../assets/interfaces/construcoes/plantation/configuracoes.png) |
 
-| Tarefas |  |
-|---|---|
-| ![Tarefas — Plantação](../../../assets/interfaces/construcoes/plantation/tarefas.png) |  |
+| Tarefas |
+|---|
+| ![Tarefas — Plantação](../../../assets/interfaces/construcoes/plantation/tarefas.png) |
 
 ## Campos e culturas simultâneas
 

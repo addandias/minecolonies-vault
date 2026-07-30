@@ -55,9 +55,9 @@ O bônus de felicidade não acumula. Se houver mais de um Local Místico, soment
 <!-- galeria-interface -->
 ### Galeria da interface
 
-| Principal |  |
-|---|---|
-| ![Principal — Local Místico](../../../assets/interfaces/construcoes/mysticalsite/principal.png) |  |
+| Principal |
+|---|
+| ![Principal — Local Místico](../../../assets/interfaces/construcoes/mysticalsite/principal.png) |
 
 ## Fontes
 - [Mystical Site — Wiki oficial do MineColonies](https://minecolonies.com/wiki/buildings/mysticalsite/)

@@ -33,9 +33,9 @@ A Stable abriga o [[content/04 - Profissões/Stablemaster - Mestre do estábulo|
 |---|---|
 | ![Configurações — Estábulo](../../../assets/interfaces/construcoes/stable/configuracoes.png) | ![Estatísticas — Estábulo](../../../assets/interfaces/construcoes/stable/estatisticas.png) |
 
-| Estoque mínimo |  |
-|---|---|
-| ![Estoque mínimo — Estábulo](../../../assets/interfaces/construcoes/stable/estoque.png) |  |
+| Estoque mínimo |
+|---|
+| ![Estoque mínimo — Estábulo](../../../assets/interfaces/construcoes/stable/estoque.png) |
 
 ## Função da construção
 
