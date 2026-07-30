@@ -9,7 +9,8 @@ profissoes/
     └── masculino.png
 ```
 
-- `feminino.png` e `masculino.png`: renders oficiais completos usados juntos na ficha lateral da profissão.
+- `feminino.png` e `masculino.png`: renders oficiais completos normalmente usados juntos na ficha lateral da profissão.
+- Especializações que compartilham uma classe visual podem dividir o par entre retratos representativos, desde que a página e a galeria expliquem que essa é uma escolha editorial e não uma restrição de gênero.
 - A variante `medieval-a` é preferida por combinar com a identidade visual do Vault.
 - Quando essa variante não existe, use `default-a`; workers com variações numeradas usam `medieval-1a`.
 

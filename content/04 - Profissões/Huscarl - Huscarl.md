@@ -7,15 +7,14 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-21
+ultima_revisao: 2026-07-30
 tags: [minecolonies, profissão, defesa, lote-10b]
 ---
 
 # Huscarl
 
 <!-- ficha-visual: worker -->
-<img src="../../assets/profissoes/knight/masculino.png" alt="Huscarl — aparência masculina" width="120" align="right">
-<img src="../../assets/profissoes/knight/feminino.png" alt="Huscarl — aparência feminina" width="120" align="right">
+<img src="../../assets/profissoes/knight/masculino.png" alt="Huscarl — retrato representativo da classe Cavaleiro" width="120" align="right">
 
 ## Visão geral
 

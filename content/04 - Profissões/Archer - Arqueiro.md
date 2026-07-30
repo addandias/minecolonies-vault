@@ -7,15 +7,14 @@ versao_minecraft: 1.20.1
 versao_minecolonies: 1.1.1259
 tipo_versao: prerelease
 status: publicado
-ultima_revisao: 2026-07-21
+ultima_revisao: 2026-07-30
 tags: [minecolonies, profissão, defesa, lote-5]
 ---
 
 # Archer — Arqueiro
 
 <!-- ficha-visual: worker -->
-<img src="../../assets/profissoes/archer/masculino.png" alt="Arqueiro — aparência masculina" width="120" align="right">
-<img src="../../assets/profissoes/archer/feminino.png" alt="Arqueiro — aparência feminina" width="120" align="right">
+<img src="../../assets/profissoes/archer/feminino.png" alt="Arqueiro — retrato representativo da classe" width="120" align="right">
 
 ## Visão geral
 
