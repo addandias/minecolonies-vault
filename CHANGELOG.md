@@ -4,6 +4,11 @@ Todas as mudanças relevantes do projeto serão registradas aqui.
 
 ## [Não publicado]
 
+### Corrigido
+
+- Tamanho visual dos ícones de blocos funcionais e dos retratos de profissões normalizado no Obsidian, preservando as proporções originais.
+- Grupos de logística e agricultura reorganizados sem colunas vazias na Galeria de Itens.
+
 ### Adicionado
 
 - Dez páginas canônicas de blocos funcionais, organizadas entre colônia e esquemas, logística, agricultura, acesso e defesa, com ícones, receitas, interfaces disponíveis e fontes oficiais.

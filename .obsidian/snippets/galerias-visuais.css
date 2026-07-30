@@ -1,0 +1,51 @@
+/*
+ * Normaliza as galerias sem redimensionar, recortar ou alterar os arquivos
+ * originais. O object-fit mantém a proporção de cada render.
+ */
+
+.galeria-itens.markdown-preview-view table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.galeria-itens.markdown-preview-view table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.galeria-itens.markdown-preview-view table img {
+  display: block;
+  width: 220px;
+  height: 220px;
+  max-width: 100%;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.galeria-profissoes.markdown-preview-view table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.galeria-profissoes.markdown-preview-view table th:first-child,
+.galeria-profissoes.markdown-preview-view table td:first-child {
+  width: 34%;
+}
+
+.galeria-profissoes.markdown-preview-view table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.galeria-profissoes.markdown-preview-view table td:first-child {
+  text-align: left;
+}
+
+.galeria-profissoes.markdown-preview-view table img {
+  display: block;
+  width: 150px;
+  height: 260px;
+  max-width: 100%;
+  margin: 0 auto;
+  object-fit: contain;
+}
